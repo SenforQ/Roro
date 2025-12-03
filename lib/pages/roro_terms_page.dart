@@ -31,7 +31,7 @@ class RoroTermsPage extends StatelessWidget {
                 errorBuilder: (context, error, stackTrace) {
                   return Container(
                     decoration: BoxDecoration(
-                      gradient: LinearGradient(98
+                      gradient: LinearGradient(
                         begin: Alignment.topCenter,
                         end: Alignment.bottomCenter,
                         colors: [
