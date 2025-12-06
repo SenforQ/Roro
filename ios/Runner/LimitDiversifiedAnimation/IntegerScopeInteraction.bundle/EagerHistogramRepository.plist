@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineDuringMemento</key>
+	<string>fixedConsumerShade</string>
+	<key>builderAsKind</key>
+	<string>hashAsLayer</string>
+	<key>composableOffsetSkewx</key>
+	<string>interactorEnvironmentFormat</string>
+	<key>layerTaskOrientation</key>
+	<string>spotFlyweightValidation</string>
+	<key>positionedForMemento</key>
+	<string>touchAmongMemento</string>
+	<key>precisionNumberOrientation</key>
+	<string>permanentBatchFrequency</string>
+	<key>sampleInterpreterAppearance</key>
+	<string>graphModeBorder</string>
+	<key>sessionStructurePadding</key>
+	<string>unsortedDecorationContrast</string>
+	<key>significantResolverInteraction</key>
+	<string>uniformContractionOrientation</string>
+	<key>typicalNodeRotation</key>
+	<string>consultativeAnimatedcontainerSpacing</string>
+</dict>
+</plist>

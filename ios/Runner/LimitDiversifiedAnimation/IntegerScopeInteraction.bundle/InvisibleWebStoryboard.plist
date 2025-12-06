@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAspectVisible</key>
+	<string>providerCycleMode</string>
+	<key>cardThanPlatform</key>
+	<string>associatedTaskColor</string>
+	<key>dedicatedCacheKind</key>
+	<string>touchAndContext</string>
+	<key>extensionActivityRight</key>
+	<string>gradientThroughFacade</string>
+	<key>grainViaPrototype</key>
+	<string>significantTitleInset</string>
+	<key>graphThroughSystem</key>
+	<string>clipperProcessEdge</string>
+	<key>groupAdapterPosition</key>
+	<string>immediateConfigurationValidation</string>
+	<key>rapidPointDuration</key>
+	<string>repositoryWithoutFlyweight</string>
+</dict>
+</plist>

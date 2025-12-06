@@ -10,6 +10,272 @@
 		1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */ = {isa = PBXBuildFile; fileRef = 1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */; };
 		3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */; };
 		74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74858FAE1ED2DC5600515810 /* AppDelegate.swift */; };
+		76AD34262EE2E26800C2FDB1 /* IntegerScopeInteraction.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 76AD32F42EE2E26800C2FDB1 /* IntegerScopeInteraction.bundle */; };
+		76AD34272EE2E26800C2FDB1 /* ComparePositionedPosition.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32712EE2E26800C2FDB1 /* ComparePositionedPosition.m */; };
+		76AD34282EE2E26800C2FDB1 /* MediumMasterPreview.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33262EE2E26800C2FDB1 /* MediumMasterPreview.m */; };
+		76AD34292EE2E26800C2FDB1 /* InTangentModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32F32EE2E26800C2FDB1 /* InTangentModel.m */; };
+		76AD342A2EE2E26800C2FDB1 /* PermutationTempleStatus.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33662EE2E26800C2FDB1 /* PermutationTempleStatus.m */; };
+		76AD342B2EE2E26800C2FDB1 /* ActivatedPrevProjection.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32312EE2E26800C2FDB1 /* ActivatedPrevProjection.m */; };
+		76AD342C2EE2E26800C2FDB1 /* TypicalProtocolMesh.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34122EE2E26800C2FDB1 /* TypicalProtocolMesh.m */; };
+		76AD342D2EE2E26800C2FDB1 /* StorageCapacityReference.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33EE2EE2E26800C2FDB1 /* StorageCapacityReference.m */; };
+		76AD342E2EE2E26800C2FDB1 /* ReplicateContainerProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33A02EE2E26800C2FDB1 /* ReplicateContainerProvider.m */; };
+		76AD342F2EE2E26800C2FDB1 /* TechniquePatternTension.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34002EE2E26800C2FDB1 /* TechniquePatternTension.m */; };
+		76AD34302EE2E26800C2FDB1 /* StopMapImplement.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33EC2EE2E26800C2FDB1 /* StopMapImplement.m */; };
+		76AD34312EE2E26800C2FDB1 /* PlayCrudeIsolate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD336E2EE2E26800C2FDB1 /* PlayCrudeIsolate.m */; };
+		76AD34322EE2E26800C2FDB1 /* KeepApertureElasticity.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33022EE2E26800C2FDB1 /* KeepApertureElasticity.m */; };
+		76AD34332EE2E26800C2FDB1 /* NewestConsumerSchema.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33382EE2E26800C2FDB1 /* NewestConsumerSchema.m */; };
+		76AD34342EE2E26800C2FDB1 /* ClipMonsterInterface.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD326D2EE2E26800C2FDB1 /* ClipMonsterInterface.m */; };
+		76AD34352EE2E26800C2FDB1 /* OpaqueNormItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33522EE2E26800C2FDB1 /* OpaqueNormItem.m */; };
+		76AD34362EE2E26800C2FDB1 /* PrimaryAnimatorList.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33842EE2E26800C2FDB1 /* PrimaryAnimatorList.m */; };
+		76AD34372EE2E26800C2FDB1 /* ResetMomentumArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33A42EE2E26800C2FDB1 /* ResetMomentumArray.m */; };
+		76AD34382EE2E26800C2FDB1 /* DisconnectCoordinatorTitle.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32912EE2E26800C2FDB1 /* DisconnectCoordinatorTitle.m */; };
+		76AD34392EE2E26800C2FDB1 /* SemanticRestrictionStack.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33C62EE2E26800C2FDB1 /* SemanticRestrictionStack.m */; };
+		76AD343A2EE2E26800C2FDB1 /* GenerateIntuitiveCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32D72EE2E26800C2FDB1 /* GenerateIntuitiveCommand.m */; };
+		76AD343B2EE2E26800C2FDB1 /* EnabledZoneWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32AD2EE2E26800C2FDB1 /* EnabledZoneWrapper.m */; };
+		76AD343C2EE2E26800C2FDB1 /* VisibleAccessoryView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD341A2EE2E26800C2FDB1 /* VisibleAccessoryView.m */; };
+		76AD343D2EE2E26800C2FDB1 /* StopInstructionReducer.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33EA2EE2E26800C2FDB1 /* StopInstructionReducer.m */; };
+		76AD343E2EE2E26800C2FDB1 /* DownLoopSound.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD329F2EE2E26800C2FDB1 /* DownLoopSound.m */; };
+		76AD343F2EE2E26800C2FDB1 /* FirstStaticError.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32BF2EE2E26800C2FDB1 /* FirstStaticError.m */; };
+		76AD34402EE2E26800C2FDB1 /* FramePainterObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32C52EE2E26800C2FDB1 /* FramePainterObserver.m */; };
+		76AD34412EE2E26800C2FDB1 /* AfterEquipmentAsync.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32392EE2E26800C2FDB1 /* AfterEquipmentAsync.m */; };
+		76AD34422EE2E26800C2FDB1 /* SynchronousCaptionSingleton.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33F62EE2E26800C2FDB1 /* SynchronousCaptionSingleton.m */; };
+		76AD34432EE2E26800C2FDB1 /* CheckTextfieldFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32692EE2E26800C2FDB1 /* CheckTextfieldFormat.m */; };
+		76AD34442EE2E26800C2FDB1 /* ExitSubsequentFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32B52EE2E26800C2FDB1 /* ExitSubsequentFactory.m */; };
+		76AD34452EE2E26800C2FDB1 /* OnGrainData.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD334C2EE2E26800C2FDB1 /* OnGrainData.m */; };
+		76AD34462EE2E26800C2FDB1 /* ExtensionSingletonSaturation.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32B92EE2E26800C2FDB1 /* ExtensionSingletonSaturation.m */; };
+		76AD34472EE2E26800C2FDB1 /* CommandTypeInteraction.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD326F2EE2E26800C2FDB1 /* CommandTypeInteraction.m */; };
+		76AD34482EE2E26800C2FDB1 /* InTopicState.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32F82EE2E26800C2FDB1 /* InTopicState.m */; };
+		76AD34492EE2E26800C2FDB1 /* BoxStateFrequency.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD325F2EE2E26800C2FDB1 /* BoxStateFrequency.m */; };
+		76AD344A2EE2E26800C2FDB1 /* NavigateDedicatedBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33362EE2E26800C2FDB1 /* NavigateDedicatedBuilder.m */; };
+		76AD344B2EE2E26800C2FDB1 /* WebBandwidthCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD341C2EE2E26800C2FDB1 /* WebBandwidthCache.m */; };
+		76AD344C2EE2E26800C2FDB1 /* FindStepDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32BB2EE2E26800C2FDB1 /* FindStepDelegate.m */; };
+		76AD344D2EE2E26800C2FDB1 /* ScaleLabelHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33BE2EE2E26800C2FDB1 /* ScaleLabelHandler.m */; };
+		76AD344E2EE2E26800C2FDB1 /* SubsequentRepositoryScope.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33F02EE2E26800C2FDB1 /* SubsequentRepositoryScope.m */; };
+		76AD344F2EE2E26800C2FDB1 /* PresenterResponderDecorator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD337E2EE2E26800C2FDB1 /* PresenterResponderDecorator.m */; };
+		76AD34502EE2E26800C2FDB1 /* WrapActivePreview.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34222EE2E26800C2FDB1 /* WrapActivePreview.m */; };
+		76AD34512EE2E26800C2FDB1 /* DraggableMediumEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32A12EE2E26800C2FDB1 /* DraggableMediumEvent.m */; };
+		76AD34522EE2E26800C2FDB1 /* StepParameterColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33E82EE2E26800C2FDB1 /* StepParameterColor.m */; };
+		76AD34532EE2E26800C2FDB1 /* LockDynamicManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33142EE2E26800C2FDB1 /* LockDynamicManager.m */; };
+		76AD34542EE2E26800C2FDB1 /* StartCursorBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33E02EE2E26800C2FDB1 /* StartCursorBase.m */; };
+		76AD34552EE2E26800C2FDB1 /* StatelessBrushCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33E22EE2E26800C2FDB1 /* StatelessBrushCollection.m */; };
+		76AD34562EE2E26800C2FDB1 /* OldIntensityAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD334A2EE2E26800C2FDB1 /* OldIntensityAdapter.m */; };
+		76AD34572EE2E26800C2FDB1 /* FreeActivityLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32C92EE2E26800C2FDB1 /* FreeActivityLabel.m */; };
+		76AD34582EE2E26800C2FDB1 /* RestoreUniqueChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33B02EE2E26800C2FDB1 /* RestoreUniqueChart.m */; };
+		76AD34592EE2E26800C2FDB1 /* PagerActionTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD335C2EE2E26800C2FDB1 /* PagerActionTheme.m */; };
+		76AD345A2EE2E26800C2FDB1 /* OnLogarithmEffect.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD334E2EE2E26800C2FDB1 /* OnLogarithmEffect.m */; };
+		76AD345B2EE2E26800C2FDB1 /* AdaptiveUniformGraphic.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32352EE2E26800C2FDB1 /* AdaptiveUniformGraphic.m */; };
+		76AD345C2EE2E26800C2FDB1 /* SubstantialNotationList.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33F42EE2E26800C2FDB1 /* SubstantialNotationList.m */; };
+		76AD345D2EE2E26800C2FDB1 /* PinchableKernelContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD336A2EE2E26800C2FDB1 /* PinchableKernelContainer.m */; };
+		76AD345E2EE2E26800C2FDB1 /* NodeClusterHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD333A2EE2E26800C2FDB1 /* NodeClusterHandler.m */; };
+		76AD345F2EE2E26800C2FDB1 /* ConfigureButtonObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD327B2EE2E26800C2FDB1 /* ConfigureButtonObserver.m */; };
+		76AD34602EE2E26800C2FDB1 /* SkinTransformerCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33D02EE2E26800C2FDB1 /* SkinTransformerCollection.m */; };
+		76AD34612EE2E26800C2FDB1 /* BlocReliabilityCreator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD325D2EE2E26800C2FDB1 /* BlocReliabilityCreator.m */; };
+		76AD34622EE2E26800C2FDB1 /* ErrorPhaseDelay.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32B32EE2E26800C2FDB1 /* ErrorPhaseDelay.m */; };
+		76AD34632EE2E26800C2FDB1 /* AutoZoneArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32492EE2E26800C2FDB1 /* AutoZoneArray.m */; };
+		76AD34642EE2E26800C2FDB1 /* RespondComprehensiveParticle.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33A62EE2E26800C2FDB1 /* RespondComprehensiveParticle.m */; };
+		76AD34652EE2E26800C2FDB1 /* ArithmeticStateDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32452EE2E26800C2FDB1 /* ArithmeticStateDelegate.m */; };
+		76AD34662EE2E26800C2FDB1 /* EncodeProtocolResolver.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32AF2EE2E26800C2FDB1 /* EncodeProtocolResolver.m */; };
+		76AD34672EE2E26800C2FDB1 /* DisposeMobxRenderer.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32972EE2E26800C2FDB1 /* DisposeMobxRenderer.m */; };
+		76AD34682EE2E26800C2FDB1 /* AccordionHistogramHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD322D2EE2E26800C2FDB1 /* AccordionHistogramHelper.m */; };
+		76AD34692EE2E26800C2FDB1 /* NormalActivityProtocol.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33402EE2E26800C2FDB1 /* NormalActivityProtocol.m */; };
+		76AD346A2EE2E26800C2FDB1 /* PrevSortedChannel.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33802EE2E26800C2FDB1 /* PrevSortedChannel.m */; };
+		76AD346B2EE2E26800C2FDB1 /* PrecisionPrototypeSkewy.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33722EE2E26800C2FDB1 /* PrecisionPrototypeSkewy.m */; };
+		76AD346C2EE2E26800C2FDB1 /* SyncSampleInfrastructure.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33FA2EE2E26800C2FDB1 /* SyncSampleInfrastructure.m */; };
+		76AD346D2EE2E26800C2FDB1 /* ByExtensionEffect.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32632EE2E26800C2FDB1 /* ByExtensionEffect.m */; };
+		76AD346E2EE2E26800C2FDB1 /* TextureAnalogyCreator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34042EE2E26800C2FDB1 /* TextureAnalogyCreator.m */; };
+		76AD346F2EE2E26800C2FDB1 /* BetweenLogarithmConfidentiality.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32552EE2E26800C2FDB1 /* BetweenLogarithmConfidentiality.m */; };
+		76AD34702EE2E26800C2FDB1 /* InProtocolDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32EF2EE2E26800C2FDB1 /* InProtocolDelegate.m */; };
+		76AD34712EE2E26800C2FDB1 /* WithinConfigurationRange.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD341E2EE2E26800C2FDB1 /* WithinConfigurationRange.m */; };
+		76AD34722EE2E26800C2FDB1 /* RenderChecklistProgressbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33982EE2E26800C2FDB1 /* RenderChecklistProgressbar.m */; };
+		76AD34732EE2E26800C2FDB1 /* PermissivePolygonOwner.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33642EE2E26800C2FDB1 /* PermissivePolygonOwner.m */; };
+		76AD34742EE2E26800C2FDB1 /* PresentDecorationService.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD337C2EE2E26800C2FDB1 /* PresentDecorationService.m */; };
+		76AD34752EE2E26800C2FDB1 /* UnderImageTopic.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34142EE2E26800C2FDB1 /* UnderImageTopic.m */; };
+		76AD34762EE2E26800C2FDB1 /* MarkExponentDecorator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD331A2EE2E26800C2FDB1 /* MarkExponentDecorator.m */; };
+		76AD34772EE2E26800C2FDB1 /* MountConstraintResource.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD332C2EE2E26800C2FDB1 /* MountConstraintResource.m */; };
+		76AD34782EE2E26800C2FDB1 /* FromRepositorySound.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32CF2EE2E26800C2FDB1 /* FromRepositorySound.m */; };
+		76AD34792EE2E26800C2FDB1 /* ToRepositoryAmortization.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD340A2EE2E26800C2FDB1 /* ToRepositoryAmortization.m */; };
+		76AD347A2EE2E26800C2FDB1 /* ListenViewCreator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD330A2EE2E26800C2FDB1 /* ListenViewCreator.m */; };
+		76AD347B2EE2E26800C2FDB1 /* NodeProvisionHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD333E2EE2E26800C2FDB1 /* NodeProvisionHelper.m */; };
+		76AD347C2EE2E26800C2FDB1 /* ReplaceAccessoryDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD339C2EE2E26800C2FDB1 /* ReplaceAccessoryDelegate.m */; };
+		76AD347D2EE2E26800C2FDB1 /* GeometricClipperStack.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32D92EE2E26800C2FDB1 /* GeometricClipperStack.m */; };
+		76AD347E2EE2E26800C2FDB1 /* AdvancedSoundInstance.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32372EE2E26800C2FDB1 /* AdvancedSoundInstance.m */; };
+		76AD347F2EE2E26800C2FDB1 /* MainErrorCapacity.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33162EE2E26800C2FDB1 /* MainErrorCapacity.m */; };
+		76AD34802EE2E26800C2FDB1 /* PrepareMovementSound.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33742EE2E26800C2FDB1 /* PrepareMovementSound.m */; };
+		76AD34812EE2E26800C2FDB1 /* ExplicitSubpixelRect.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32B72EE2E26800C2FDB1 /* ExplicitSubpixelRect.m */; };
+		76AD34822EE2E26800C2FDB1 /* RouteNotificationRectangle.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33B22EE2E26800C2FDB1 /* RouteNotificationRectangle.m */; };
+		76AD34832EE2E26800C2FDB1 /* GraphicDescriptionFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32DD2EE2E26800C2FDB1 /* GraphicDescriptionFilter.m */; };
+		76AD34842EE2E26800C2FDB1 /* MixinKeyIntensity.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33282EE2E26800C2FDB1 /* MixinKeyIntensity.m */; };
+		76AD34852EE2E26800C2FDB1 /* FunctionalInstructionVideo.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32D32EE2E26800C2FDB1 /* FunctionalInstructionVideo.m */; };
+		76AD34862EE2E26800C2FDB1 /* PresentComprehensiveDimension.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD337A2EE2E26800C2FDB1 /* PresentComprehensiveDimension.m */; };
+		76AD34872EE2E26800C2FDB1 /* BasicEffectHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD324D2EE2E26800C2FDB1 /* BasicEffectHandler.m */; };
+		76AD34882EE2E26800C2FDB1 /* YieldApertureAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34242EE2E26800C2FDB1 /* YieldApertureAdapter.m */; };
+		76AD34892EE2E26800C2FDB1 /* GraphicJobRight.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32DF2EE2E26800C2FDB1 /* GraphicJobRight.m */; };
+		76AD348A2EE2E26800C2FDB1 /* SaveMapBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33B82EE2E26800C2FDB1 /* SaveMapBuilder.m */; };
+		76AD348B2EE2E26800C2FDB1 /* ActivatedContainerOccasion.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD322F2EE2E26800C2FDB1 /* ActivatedContainerOccasion.m */; };
+		76AD348C2EE2E26800C2FDB1 /* InNotificationTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32ED2EE2E26800C2FDB1 /* InNotificationTimer.m */; };
+		76AD348D2EE2E26800C2FDB1 /* ActivatedUsecaseArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32332EE2E26800C2FDB1 /* ActivatedUsecaseArray.m */; };
+		76AD348E2EE2E26800C2FDB1 /* KeyGetxState.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33042EE2E26800C2FDB1 /* KeyGetxState.m */; };
+		76AD348F2EE2E26800C2FDB1 /* SensorMergerExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33CA2EE2E26800C2FDB1 /* SensorMergerExtension.m */; };
+		76AD34902EE2E26800C2FDB1 /* PlaybackNodeReference.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD336C2EE2E26800C2FDB1 /* PlaybackNodeReference.m */; };
+		76AD34912EE2E26800C2FDB1 /* PersistAgileCycle.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33682EE2E26800C2FDB1 /* PersistAgileCycle.m */; };
+		76AD34922EE2E26800C2FDB1 /* HandleToolCreator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32E32EE2E26800C2FDB1 /* HandleToolCreator.m */; };
+		76AD34932EE2E26800C2FDB1 /* SemanticSymbolDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33C82EE2E26800C2FDB1 /* SemanticSymbolDelegate.m */; };
+		76AD34942EE2E26800C2FDB1 /* CurrentSkirtArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32872EE2E26800C2FDB1 /* CurrentSkirtArray.m */; };
+		76AD34952EE2E26800C2FDB1 /* PublicSliderType.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD338E2EE2E26800C2FDB1 /* PublicSliderType.m */; };
+		76AD34962EE2E26800C2FDB1 /* MasterCreatorFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD331E2EE2E26800C2FDB1 /* MasterCreatorFactory.m */; };
+		76AD34972EE2E26800C2FDB1 /* FrameStructureBound.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32C72EE2E26800C2FDB1 /* FrameStructureBound.m */; };
+		76AD34982EE2E26800C2FDB1 /* StatelessMissedMediaquery.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33E62EE2E26800C2FDB1 /* StatelessMissedMediaquery.m */; };
+		76AD34992EE2E26800C2FDB1 /* ScrollViewFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33C42EE2E26800C2FDB1 /* ScrollViewFactory.m */; };
+		76AD349A2EE2E26800C2FDB1 /* NativeProtectedBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33322EE2E26800C2FDB1 /* NativeProtectedBuilder.m */; };
+		76AD349B2EE2E26800C2FDB1 /* SkipAspectratioConsumer.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33D22EE2E26800C2FDB1 /* SkipAspectratioConsumer.m */; };
+		76AD349C2EE2E26800C2FDB1 /* CompletionActionBorder.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32732EE2E26800C2FDB1 /* CompletionActionBorder.m */; };
+		76AD349D2EE2E26800C2FDB1 /* AwaitSegueCreator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD324B2EE2E26800C2FDB1 /* AwaitSegueCreator.m */; };
+		76AD349E2EE2E26800C2FDB1 /* SmallShaderStack.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33D82EE2E26800C2FDB1 /* SmallShaderStack.m */; };
+		76AD349F2EE2E26800C2FDB1 /* MediocreTemporaryCallback.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33242EE2E26800C2FDB1 /* MediocreTemporaryCallback.m */; };
+		76AD34A02EE2E26800C2FDB1 /* OutEffectEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33542EE2E26800C2FDB1 /* OutEffectEntity.m */; };
+		76AD34A12EE2E26800C2FDB1 /* DiversifiedNavigatorProtocol.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32992EE2E26800C2FDB1 /* DiversifiedNavigatorProtocol.m */; };
+		76AD34A22EE2E26800C2FDB1 /* NodeFormName.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD333C2EE2E26800C2FDB1 /* NodeFormName.m */; };
+		76AD34A32EE2E26800C2FDB1 /* ContinueCaptionStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32812EE2E26800C2FDB1 /* ContinueCaptionStore.m */; };
+		76AD34A42EE2E26800C2FDB1 /* ProcessWidgetArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD338A2EE2E26800C2FDB1 /* ProcessWidgetArray.m */; };
+		76AD34A52EE2E26800C2FDB1 /* ThroughputNumberDirection.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34062EE2E26800C2FDB1 /* ThroughputNumberDirection.m */; };
+		76AD34A62EE2E26800C2FDB1 /* IntoSwiftPolyfill.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32FC2EE2E26800C2FDB1 /* IntoSwiftPolyfill.m */; };
+		76AD34A72EE2E26800C2FDB1 /* SynchronousTechniqueSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33F82EE2E26800C2FDB1 /* SynchronousTechniqueSlider.m */; };
+		76AD34A82EE2E26800C2FDB1 /* ConfigureCertificateLocalization.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD327D2EE2E26800C2FDB1 /* ConfigureCertificateLocalization.m */; };
+		76AD34A92EE2E26800C2FDB1 /* MultiTrianglesList.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33302EE2E26800C2FDB1 /* MultiTrianglesList.m */; };
+		76AD34AA2EE2E26800C2FDB1 /* EasyIntegerTicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32A92EE2E26800C2FDB1 /* EasyIntegerTicker.m */; };
+		76AD34AB2EE2E26800C2FDB1 /* ScopeEnvironmentPressure.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33C02EE2E26800C2FDB1 /* ScopeEnvironmentPressure.m */; };
+		76AD34AC2EE2E26800C2FDB1 /* MaterialVariableInset.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33202EE2E26800C2FDB1 /* MaterialVariableInset.m */; };
+		76AD34AD2EE2E26800C2FDB1 /* SpinStreamTitle.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33DE2EE2E26800C2FDB1 /* SpinStreamTitle.m */; };
+		76AD34AE2EE2E26800C2FDB1 /* DisposeAspectHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32952EE2E26800C2FDB1 /* DisposeAspectHandler.m */; };
+		76AD34AF2EE2E26800C2FDB1 /* SavePrecisionRect.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33BC2EE2E26800C2FDB1 /* SavePrecisionRect.m */; };
+		76AD34B02EE2E26800C2FDB1 /* GranularIntuitiveVariant.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32DB2EE2E26800C2FDB1 /* GranularIntuitiveVariant.m */; };
+		76AD34B12EE2E26800C2FDB1 /* SaveHyperbolicMission.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33B62EE2E26800C2FDB1 /* SaveHyperbolicMission.m */; };
+		76AD34B22EE2E26800C2FDB1 /* MarkMobxConsumption.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD331C2EE2E26800C2FDB1 /* MarkMobxConsumption.m */; };
+		76AD34B32EE2E26800C2FDB1 /* WithoutSizeTime.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34202EE2E26800C2FDB1 /* WithoutSizeTime.m */; };
+		76AD34B42EE2E26800C2FDB1 /* SortedBinaryState.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33DA2EE2E26800C2FDB1 /* SortedBinaryState.m */; };
+		76AD34B52EE2E26800C2FDB1 /* BlocLoaderCreator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD325B2EE2E26800C2FDB1 /* BlocLoaderCreator.m */; };
+		76AD34B62EE2E26800C2FDB1 /* AllocatorActionDensity.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32412EE2E26800C2FDB1 /* AllocatorActionDensity.m */; };
+		76AD34B72EE2E26800C2FDB1 /* PauseProjectCreator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33602EE2E26800C2FDB1 /* PauseProjectCreator.m */; };
+		76AD34B82EE2E26800C2FDB1 /* FutureSliderExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32D52EE2E26800C2FDB1 /* FutureSliderExtension.m */; };
+		76AD34B92EE2E26800C2FDB1 /* OverAsyncTexture.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33582EE2E26800C2FDB1 /* OverAsyncTexture.m */; };
+		76AD34BA2EE2E26800C2FDB1 /* EntropyKindTag.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32B12EE2E26800C2FDB1 /* EntropyKindTag.m */; };
+		76AD34BB2EE2E26800C2FDB1 /* AboveTweenFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD322B2EE2E26800C2FDB1 /* AboveTweenFilter.m */; };
+		76AD34BC2EE2E26800C2FDB1 /* BoxTentativeBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32612EE2E26800C2FDB1 /* BoxTentativeBase.m */; };
+		76AD34BD2EE2E26800C2FDB1 /* ModalPatternScale.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD332A2EE2E26800C2FDB1 /* ModalPatternScale.m */; };
+		76AD34BE2EE2E26800C2FDB1 /* DynamicErrorSubscriber.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32A52EE2E26800C2FDB1 /* DynamicErrorSubscriber.m */; };
+		76AD34BF2EE2E26800C2FDB1 /* IsolateTrajectoryPool.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33002EE2E26800C2FDB1 /* IsolateTrajectoryPool.m */; };
+		76AD34C02EE2E26800C2FDB1 /* PrepareSizedboxTarget.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33782EE2E26800C2FDB1 /* PrepareSizedboxTarget.m */; };
+		76AD34C12EE2E26800C2FDB1 /* SubstantialFilterCreator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33F22EE2E26800C2FDB1 /* SubstantialFilterCreator.m */; };
+		76AD34C22EE2E26800C2FDB1 /* ProviderSchedulerImplement.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD338C2EE2E26800C2FDB1 /* ProviderSchedulerImplement.m */; };
+		76AD34C32EE2E26800C2FDB1 /* ReplaceFragmentTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD339E2EE2E26800C2FDB1 /* ReplaceFragmentTransition.m */; };
+		76AD34C42EE2E26800C2FDB1 /* ConfigureConvolutionType.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD327F2EE2E26800C2FDB1 /* ConfigureConvolutionType.m */; };
+		76AD34C52EE2E26800C2FDB1 /* LoadPlaybackCubit.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33102EE2E26800C2FDB1 /* LoadPlaybackCubit.m */; };
+		76AD34C62EE2E26800C2FDB1 /* OffDecorationSorter.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33482EE2E26800C2FDB1 /* OffDecorationSorter.m */; };
+		76AD34C72EE2E26800C2FDB1 /* BySpotRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32652EE2E26800C2FDB1 /* BySpotRouter.m */; };
+		76AD34C82EE2E26800C2FDB1 /* PublicSpotDuration.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33902EE2E26800C2FDB1 /* PublicSpotDuration.m */; };
+		76AD34C92EE2E26800C2FDB1 /* CurrentCapacitiesCallback.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32852EE2E26800C2FDB1 /* CurrentCapacitiesCallback.m */; };
+		76AD34CA2EE2E26800C2FDB1 /* SaveOpaqueTangent.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33BA2EE2E26800C2FDB1 /* SaveOpaqueTangent.m */; };
+		76AD34CB2EE2E26800C2FDB1 /* PrimaryActionRect.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33822EE2E26800C2FDB1 /* PrimaryActionRect.m */; };
+		76AD34CC2EE2E26800C2FDB1 /* OverPetSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD335A2EE2E26800C2FDB1 /* OverPetSlider.m */; };
+		76AD34CD2EE2E26800C2FDB1 /* CrudeInkwellButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32832EE2E26800C2FDB1 /* CrudeInkwellButton.m */; };
+		76AD34CE2EE2E26800C2FDB1 /* PopupJobKind.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33702EE2E26800C2FDB1 /* PopupJobKind.m */; };
+		76AD34CF2EE2E26800C2FDB1 /* SkipBitrateAsset.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33D42EE2E26800C2FDB1 /* SkipBitrateAsset.m */; };
+		76AD34D02EE2E26800C2FDB1 /* ReadBatchObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33942EE2E26800C2FDB1 /* ReadBatchObserver.m */; };
+		76AD34D12EE2E26800C2FDB1 /* IntoSizeState.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32FA2EE2E26800C2FDB1 /* IntoSizeState.m */; };
+		76AD34D22EE2E26800C2FDB1 /* ViewControllerDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34182EE2E26800C2FDB1 /* ViewControllerDelegate.m */; };
+		76AD34D32EE2E26800C2FDB1 /* LocalizationOperationKind.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33122EE2E26800C2FDB1 /* LocalizationOperationKind.m */; };
+		76AD34D42EE2E26800C2FDB1 /* ObserveAspectratioDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33462EE2E26800C2FDB1 /* ObserveAspectratioDelegate.m */; };
+		76AD34D52EE2E26800C2FDB1 /* FinishResourceDuration.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32BD2EE2E26800C2FDB1 /* FinishResourceDuration.m */; };
+		76AD34D62EE2E26800C2FDB1 /* SpinDescriptorDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33DC2EE2E26800C2FDB1 /* SpinDescriptorDelegate.m */; };
+		76AD34D72EE2E26800C2FDB1 /* EagerHistogramRepository.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32A72EE2E26800C2FDB1 /* EagerHistogramRepository.m */; };
+		76AD34D82EE2E26800C2FDB1 /* TweenAnimatorFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD340E2EE2E26800C2FDB1 /* TweenAnimatorFactory.m */; };
+		76AD34D92EE2E26800C2FDB1 /* IntoDelegateCluster.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32F62EE2E26800C2FDB1 /* IntoDelegateCluster.m */; };
+		76AD34DA2EE2E26800C2FDB1 /* RestoreEffectDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33AC2EE2E26800C2FDB1 /* RestoreEffectDelegate.m */; };
+		76AD34DB2EE2E26800C2FDB1 /* SkipTableCompleter.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33D62EE2E26800C2FDB1 /* SkipTableCompleter.m */; };
+		76AD34DC2EE2E26800C2FDB1 /* DownColumnObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD329B2EE2E26800C2FDB1 /* DownColumnObserver.m */; };
+		76AD34DD2EE2E26800C2FDB1 /* NotifierProcessorHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33442EE2E26800C2FDB1 /* NotifierProcessorHandler.m */; };
+		76AD34DE2EE2E26800C2FDB1 /* LastApertureCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33082EE2E26800C2FDB1 /* LastApertureCollection.m */; };
+		76AD34DF2EE2E26800C2FDB1 /* FragmentImageHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32C32EE2E26800C2FDB1 /* FragmentImageHelper.m */; };
+		76AD34E02EE2E26800C2FDB1 /* DedicatedMusicSelector.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD328D2EE2E26800C2FDB1 /* DedicatedMusicSelector.m */; };
+		76AD34E12EE2E26800C2FDB1 /* AugmentSymbolType.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32472EE2E26800C2FDB1 /* AugmentSymbolType.m */; };
+		76AD34E22EE2E26800C2FDB1 /* QuantizationCustomizedTransformer.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33922EE2E26800C2FDB1 /* QuantizationCustomizedTransformer.m */; };
+		76AD34E32EE2E26800C2FDB1 /* RebuildResponsiveIcon.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33962EE2E26800C2FDB1 /* RebuildResponsiveIcon.m */; };
+		76AD34E42EE2E26800C2FDB1 /* EnabledObserverType.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32AB2EE2E26800C2FDB1 /* EnabledObserverType.m */; };
+		76AD34E52EE2E26800C2FDB1 /* BenchmarkGrayscaleLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32532EE2E26800C2FDB1 /* BenchmarkGrayscaleLayout.m */; };
+		76AD34E62EE2E26800C2FDB1 /* InstantiateAccessoryModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32F12EE2E26800C2FDB1 /* InstantiateAccessoryModel.m */; };
+		76AD34E72EE2E26800C2FDB1 /* TaxonomySystemScale.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33FE2EE2E26800C2FDB1 /* TaxonomySystemScale.m */; };
+		76AD34E82EE2E26800C2FDB1 /* TransformEqualizationBinder.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD340C2EE2E26800C2FDB1 /* TransformEqualizationBinder.m */; };
+		76AD34E92EE2E26800C2FDB1 /* NormalCompletionDisclaimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33422EE2E26800C2FDB1 /* NormalCompletionDisclaimer.m */; };
+		76AD34EA2EE2E26800C2FDB1 /* TechniqueResultInstance.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34022EE2E26800C2FDB1 /* TechniqueResultInstance.m */; };
+		76AD34EB2EE2E26800C2FDB1 /* OutGemAwait.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33562EE2E26800C2FDB1 /* OutGemAwait.m */; };
+		76AD34EC2EE2E26800C2FDB1 /* RenderFlexibleObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD339A2EE2E26800C2FDB1 /* RenderFlexibleObserver.m */; };
+		76AD34ED2EE2E26800C2FDB1 /* ConcurrentCommandDispatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32792EE2E26800C2FDB1 /* ConcurrentCommandDispatcher.m */; };
+		76AD34EE2EE2E26800C2FDB1 /* FormatIndependentGradient.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32C12EE2E26800C2FDB1 /* FormatIndependentGradient.m */; };
+		76AD34EF2EE2E26800C2FDB1 /* PauseTemporaryMedia.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33622EE2E26800C2FDB1 /* PauseTemporaryMedia.m */; };
+		76AD34F02EE2E26800C2FDB1 /* CustomModalReducer.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD328B2EE2E26800C2FDB1 /* CustomModalReducer.m */; };
+		76AD34F12EE2E26800C2FDB1 /* NavigateAppbarMetadata.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33342EE2E26800C2FDB1 /* NavigateAppbarMetadata.m */; };
+		76AD34F22EE2E26800C2FDB1 /* TypicalFinalIcon.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34102EE2E26800C2FDB1 /* TypicalFinalIcon.m */; };
+		76AD34F32EE2E26800C2FDB1 /* RequiredReducerContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33A22EE2E26800C2FDB1 /* RequiredReducerContainer.m */; };
+		76AD34F42EE2E26800C2FDB1 /* AgileCollectionShape.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD323B2EE2E26800C2FDB1 /* AgileCollectionShape.m */; };
+		76AD34F52EE2E26800C2FDB1 /* BelowTableService.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32512EE2E26800C2FDB1 /* BelowTableService.m */; };
+		76AD34F62EE2E26800C2FDB1 /* CharacteristicFlyweightDensity.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32672EE2E26800C2FDB1 /* CharacteristicFlyweightDensity.m */; };
+		76AD34F72EE2E26800C2FDB1 /* CleanScrollTrajectory.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD326B2EE2E26800C2FDB1 /* CleanScrollTrajectory.m */; };
+		76AD34F82EE2E26800C2FDB1 /* DownHeroDetail.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD329D2EE2E26800C2FDB1 /* DownHeroDetail.m */; };
+		76AD34F92EE2E26800C2FDB1 /* AlignmentWorkInterval.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD323D2EE2E26800C2FDB1 /* AlignmentWorkInterval.m */; };
+		76AD34FA2EE2E26800C2FDB1 /* AllocateClipperPreview.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD323F2EE2E26800C2FDB1 /* AllocateClipperPreview.m */; };
+		76AD34FB2EE2E26800C2FDB1 /* SharedConsultativeColumn.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33CC2EE2E26800C2FDB1 /* SharedConsultativeColumn.m */; };
+		76AD34FC2EE2E26800C2FDB1 /* FromInterpolationBinder.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32CB2EE2E26800C2FDB1 /* FromInterpolationBinder.m */; };
+		76AD34FD2EE2E26800C2FDB1 /* HandleAdvancedExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32E12EE2E26800C2FDB1 /* HandleAdvancedExtension.m */; };
+		76AD34FE2EE2E26800C2FDB1 /* TableTaskType.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33FC2EE2E26800C2FDB1 /* TableTaskType.m */; };
+		76AD34FF2EE2E26800C2FDB1 /* PriorDifficultFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33862EE2E26800C2FDB1 /* PriorDifficultFrame.m */; };
+		76AD35002EE2E26800C2FDB1 /* KeyProviderQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33062EE2E26800C2FDB1 /* KeyProviderQueue.m */; };
+		76AD35012EE2E26800C2FDB1 /* SignificantLoopReliability.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33CE2EE2E26800C2FDB1 /* SignificantLoopReliability.m */; };
+		76AD35022EE2E26800C2FDB1 /* FromTableAllocator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32D12EE2E26800C2FDB1 /* FromTableAllocator.m */; };
+		76AD35032EE2E26800C2FDB1 /* HashWorkColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32E52EE2E26800C2FDB1 /* HashWorkColor.m */; };
+		76AD35042EE2E26800C2FDB1 /* PreparePositionedCallback.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33762EE2E26800C2FDB1 /* PreparePositionedCallback.m */; };
+		76AD35052EE2E26800C2FDB1 /* DiffableChannelEmitter.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD328F2EE2E26800C2FDB1 /* DiffableChannelEmitter.m */; };
+		76AD35062EE2E26800C2FDB1 /* RestartAlphaDecoration.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33A82EE2E26800C2FDB1 /* RestartAlphaDecoration.m */; };
+		76AD35072EE2E26800C2FDB1 /* CompletionEffectFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32752EE2E26800C2FDB1 /* CompletionEffectFactory.m */; };
+		76AD35082EE2E26800C2FDB1 /* DisconnectEnabledRadius.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32932EE2E26800C2FDB1 /* DisconnectEnabledRadius.m */; };
+		76AD35092EE2E26800C2FDB1 /* StatelessLossCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33E42EE2E26800C2FDB1 /* StatelessLossCache.m */; };
+		76AD350A2EE2E26800C2FDB1 /* LoadIndependentCoordinator.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD330E2EE2E26800C2FDB1 /* LoadIndependentCoordinator.m */; };
+		76AD350B2EE2E26800C2FDB1 /* BasicEntropyTransformer.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD324F2EE2E26800C2FDB1 /* BasicEntropyTransformer.m */; };
+		76AD350C2EE2E26800C2FDB1 /* BetweenStateModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32592EE2E26800C2FDB1 /* BetweenStateModel.m */; };
+		76AD350D2EE2E26800C2FDB1 /* DurationEventArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32A32EE2E26800C2FDB1 /* DurationEventArray.m */; };
+		76AD350E2EE2E26800C2FDB1 /* ApertureResponseCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32432EE2E26800C2FDB1 /* ApertureResponseCollection.m */; };
+		76AD350F2EE2E26800C2FDB1 /* IgnoredLifecycleType.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32E72EE2E26800C2FDB1 /* IgnoredLifecycleType.m */; };
+		76AD35102EE2E26800C2FDB1 /* OntoClipperSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33502EE2E26800C2FDB1 /* OntoClipperSlider.m */; };
+		76AD35112EE2E26800C2FDB1 /* InBuilderParticle.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32E92EE2E26800C2FDB1 /* InBuilderParticle.m */; };
+		76AD35122EE2E26800C2FDB1 /* BetweenMovementState.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32572EE2E26800C2FDB1 /* BetweenMovementState.m */; };
+		76AD35132EE2E26800C2FDB1 /* MediaReducerExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33222EE2E26800C2FDB1 /* MediaReducerExtension.m */; };
+		76AD35142EE2E26800C2FDB1 /* InflateParallelQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32EB2EE2E26800C2FDB1 /* InflateParallelQueue.m */; };
+		76AD35152EE2E26800C2FDB1 /* PauseIndependentLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD335E2EE2E26800C2FDB1 /* PauseIndependentLog.m */; };
+		76AD35162EE2E26800C2FDB1 /* RestartMainBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33AA2EE2E26800C2FDB1 /* RestartMainBase.m */; };
+		76AD35172EE2E26800C2FDB1 /* InvisibleRoleRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32FE2EE2E26800C2FDB1 /* InvisibleRoleRow.m */; };
+		76AD35182EE2E26800C2FDB1 /* LoadArithmeticImplement.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD330C2EE2E26800C2FDB1 /* LoadArithmeticImplement.m */; };
+		76AD35192EE2E26800C2FDB1 /* ToolFunctionRate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34082EE2E26800C2FDB1 /* ToolFunctionRate.m */; };
+		76AD351A2EE2E26800C2FDB1 /* MainObserverHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33182EE2E26800C2FDB1 /* MainObserverHelper.m */; };
+		76AD351B2EE2E26800C2FDB1 /* ComprehensiveReactiveModal.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32772EE2E26800C2FDB1 /* ComprehensiveReactiveModal.m */; };
+		76AD351C2EE2E26800C2FDB1 /* RestoreEqualizationQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33AE2EE2E26800C2FDB1 /* RestoreEqualizationQueue.m */; };
+		76AD351D2EE2E26800C2FDB1 /* RouterPhasePosition.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33B42EE2E26800C2FDB1 /* RouterPhasePosition.m */; };
+		76AD351E2EE2E26800C2FDB1 /* UnsortedVertexFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD34162EE2E26800C2FDB1 /* UnsortedVertexFactory.m */; };
+		76AD351F2EE2E26800C2FDB1 /* CustomizedZoneHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32892EE2E26800C2FDB1 /* CustomizedZoneHelper.m */; };
+		76AD35202EE2E26800C2FDB1 /* ProcessPageviewView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33882EE2E26800C2FDB1 /* ProcessPageviewView.m */; };
+		76AD35212EE2E26800C2FDB1 /* FromModulusScalability.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32CD2EE2E26800C2FDB1 /* FromModulusScalability.m */; };
+		76AD35222EE2E26800C2FDB1 /* ScrollableProjectProvision.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33C22EE2E26800C2FDB1 /* ScrollableProjectProvision.m */; };
+		76AD35232EE2E26800C2FDB1 /* MountConsultativeScaffold.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD332E2EE2E26800C2FDB1 /* MountConsultativeScaffold.m */; };
+		76AD35252EE2E3CA00C2FDB1 /* LastGestureDirection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AD35242EE2E3CA00C2FDB1 /* LastGestureDirection.swift */; };
+		76AD35272EE2E3CD00C2FDB1 /* MenuBridgeCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AD35262EE2E3CD00C2FDB1 /* MenuBridgeCount.swift */; };
+		76AD35292EE2E3D000C2FDB1 /* RetainedEventBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AD35282EE2E3D000C2FDB1 /* RetainedEventBehavior.swift */; };
+		76AD352B2EE2E3D300C2FDB1 /* FilterDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AD352A2EE2E3D300C2FDB1 /* FilterDelegate.swift */; };
+		76AD352D2EE2E3D600C2FDB1 /* MobileConstraintSpeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AD352C2EE2E3D600C2FDB1 /* MobileConstraintSpeed.swift */; };
+		76AD352F2EE2E3D900C2FDB1 /* BigDelegateHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AD352E2EE2E3D900C2FDB1 /* BigDelegateHandler.swift */; };
+		76AD35312EE2E3DC00C2FDB1 /* RadiusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AD35302EE2E3DC00C2FDB1 /* RadiusViewController.swift */; };
+		76AD35332EE2E3DF00C2FDB1 /* DimensionByCycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AD35322EE2E3DF00C2FDB1 /* DimensionByCycle.swift */; };
+		76AD35352EE2E3E200C2FDB1 /* RunRequestTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AD35342EE2E3E200C2FDB1 /* RunRequestTool.swift */; };
+		76AD35372EE2E3E500C2FDB1 /* BorderVersusNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AD35362EE2E3E500C2FDB1 /* BorderVersusNumber.swift */; };
+		76AD35392EE2E3E900C2FDB1 /* MicManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AD35382EE2E3E900C2FDB1 /* MicManager.swift */; };
+		76AD353B2EE2E3EC00C2FDB1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 76AD353A2EE2E3EC00C2FDB1 /* GoogleService-Info.plist */; };
 		8CC7A43DDDB8EA832DADF781 /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 310113D6345257C2D26A89BB /* Pods_Runner.framework */; };
 		97C146FC1CF9000F007C117D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FA1CF9000F007C117D /* Main.storyboard */; };
 		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; };
@@ -41,6 +307,525 @@
 		5AD653042EB50DED01576E66 /* Pods-RunnerTests.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.profile.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.profile.xcconfig"; sourceTree = "<group>"; };
 		74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; };
 		74858FAE1ED2DC5600515810 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		76AD322A2EE2E26800C2FDB1 /* AboveTweenFilter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AboveTweenFilter.h; sourceTree = "<group>"; };
+		76AD322B2EE2E26800C2FDB1 /* AboveTweenFilter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AboveTweenFilter.m; sourceTree = "<group>"; };
+		76AD322C2EE2E26800C2FDB1 /* AccordionHistogramHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AccordionHistogramHelper.h; sourceTree = "<group>"; };
+		76AD322D2EE2E26800C2FDB1 /* AccordionHistogramHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AccordionHistogramHelper.m; sourceTree = "<group>"; };
+		76AD322E2EE2E26800C2FDB1 /* ActivatedContainerOccasion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ActivatedContainerOccasion.h; sourceTree = "<group>"; };
+		76AD322F2EE2E26800C2FDB1 /* ActivatedContainerOccasion.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ActivatedContainerOccasion.m; sourceTree = "<group>"; };
+		76AD32302EE2E26800C2FDB1 /* ActivatedPrevProjection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ActivatedPrevProjection.h; sourceTree = "<group>"; };
+		76AD32312EE2E26800C2FDB1 /* ActivatedPrevProjection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ActivatedPrevProjection.m; sourceTree = "<group>"; };
+		76AD32322EE2E26800C2FDB1 /* ActivatedUsecaseArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ActivatedUsecaseArray.h; sourceTree = "<group>"; };
+		76AD32332EE2E26800C2FDB1 /* ActivatedUsecaseArray.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ActivatedUsecaseArray.m; sourceTree = "<group>"; };
+		76AD32342EE2E26800C2FDB1 /* AdaptiveUniformGraphic.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AdaptiveUniformGraphic.h; sourceTree = "<group>"; };
+		76AD32352EE2E26800C2FDB1 /* AdaptiveUniformGraphic.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AdaptiveUniformGraphic.m; sourceTree = "<group>"; };
+		76AD32362EE2E26800C2FDB1 /* AdvancedSoundInstance.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AdvancedSoundInstance.h; sourceTree = "<group>"; };
+		76AD32372EE2E26800C2FDB1 /* AdvancedSoundInstance.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AdvancedSoundInstance.m; sourceTree = "<group>"; };
+		76AD32382EE2E26800C2FDB1 /* AfterEquipmentAsync.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AfterEquipmentAsync.h; sourceTree = "<group>"; };
+		76AD32392EE2E26800C2FDB1 /* AfterEquipmentAsync.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AfterEquipmentAsync.m; sourceTree = "<group>"; };
+		76AD323A2EE2E26800C2FDB1 /* AgileCollectionShape.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AgileCollectionShape.h; sourceTree = "<group>"; };
+		76AD323B2EE2E26800C2FDB1 /* AgileCollectionShape.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AgileCollectionShape.m; sourceTree = "<group>"; };
+		76AD323C2EE2E26800C2FDB1 /* AlignmentWorkInterval.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AlignmentWorkInterval.h; sourceTree = "<group>"; };
+		76AD323D2EE2E26800C2FDB1 /* AlignmentWorkInterval.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlignmentWorkInterval.m; sourceTree = "<group>"; };
+		76AD323E2EE2E26800C2FDB1 /* AllocateClipperPreview.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AllocateClipperPreview.h; sourceTree = "<group>"; };
+		76AD323F2EE2E26800C2FDB1 /* AllocateClipperPreview.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AllocateClipperPreview.m; sourceTree = "<group>"; };
+		76AD32402EE2E26800C2FDB1 /* AllocatorActionDensity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AllocatorActionDensity.h; sourceTree = "<group>"; };
+		76AD32412EE2E26800C2FDB1 /* AllocatorActionDensity.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AllocatorActionDensity.m; sourceTree = "<group>"; };
+		76AD32422EE2E26800C2FDB1 /* ApertureResponseCollection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ApertureResponseCollection.h; sourceTree = "<group>"; };
+		76AD32432EE2E26800C2FDB1 /* ApertureResponseCollection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ApertureResponseCollection.m; sourceTree = "<group>"; };
+		76AD32442EE2E26800C2FDB1 /* ArithmeticStateDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ArithmeticStateDelegate.h; sourceTree = "<group>"; };
+		76AD32452EE2E26800C2FDB1 /* ArithmeticStateDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ArithmeticStateDelegate.m; sourceTree = "<group>"; };
+		76AD32462EE2E26800C2FDB1 /* AugmentSymbolType.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AugmentSymbolType.h; sourceTree = "<group>"; };
+		76AD32472EE2E26800C2FDB1 /* AugmentSymbolType.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AugmentSymbolType.m; sourceTree = "<group>"; };
+		76AD32482EE2E26800C2FDB1 /* AutoZoneArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AutoZoneArray.h; sourceTree = "<group>"; };
+		76AD32492EE2E26800C2FDB1 /* AutoZoneArray.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AutoZoneArray.m; sourceTree = "<group>"; };
+		76AD324A2EE2E26800C2FDB1 /* AwaitSegueCreator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AwaitSegueCreator.h; sourceTree = "<group>"; };
+		76AD324B2EE2E26800C2FDB1 /* AwaitSegueCreator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AwaitSegueCreator.m; sourceTree = "<group>"; };
+		76AD324C2EE2E26800C2FDB1 /* BasicEffectHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BasicEffectHandler.h; sourceTree = "<group>"; };
+		76AD324D2EE2E26800C2FDB1 /* BasicEffectHandler.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BasicEffectHandler.m; sourceTree = "<group>"; };
+		76AD324E2EE2E26800C2FDB1 /* BasicEntropyTransformer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BasicEntropyTransformer.h; sourceTree = "<group>"; };
+		76AD324F2EE2E26800C2FDB1 /* BasicEntropyTransformer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BasicEntropyTransformer.m; sourceTree = "<group>"; };
+		76AD32502EE2E26800C2FDB1 /* BelowTableService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BelowTableService.h; sourceTree = "<group>"; };
+		76AD32512EE2E26800C2FDB1 /* BelowTableService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BelowTableService.m; sourceTree = "<group>"; };
+		76AD32522EE2E26800C2FDB1 /* BenchmarkGrayscaleLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BenchmarkGrayscaleLayout.h; sourceTree = "<group>"; };
+		76AD32532EE2E26800C2FDB1 /* BenchmarkGrayscaleLayout.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BenchmarkGrayscaleLayout.m; sourceTree = "<group>"; };
+		76AD32542EE2E26800C2FDB1 /* BetweenLogarithmConfidentiality.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BetweenLogarithmConfidentiality.h; sourceTree = "<group>"; };
+		76AD32552EE2E26800C2FDB1 /* BetweenLogarithmConfidentiality.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BetweenLogarithmConfidentiality.m; sourceTree = "<group>"; };
+		76AD32562EE2E26800C2FDB1 /* BetweenMovementState.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BetweenMovementState.h; sourceTree = "<group>"; };
+		76AD32572EE2E26800C2FDB1 /* BetweenMovementState.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BetweenMovementState.m; sourceTree = "<group>"; };
+		76AD32582EE2E26800C2FDB1 /* BetweenStateModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BetweenStateModel.h; sourceTree = "<group>"; };
+		76AD32592EE2E26800C2FDB1 /* BetweenStateModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BetweenStateModel.m; sourceTree = "<group>"; };
+		76AD325A2EE2E26800C2FDB1 /* BlocLoaderCreator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BlocLoaderCreator.h; sourceTree = "<group>"; };
+		76AD325B2EE2E26800C2FDB1 /* BlocLoaderCreator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlocLoaderCreator.m; sourceTree = "<group>"; };
+		76AD325C2EE2E26800C2FDB1 /* BlocReliabilityCreator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BlocReliabilityCreator.h; sourceTree = "<group>"; };
+		76AD325D2EE2E26800C2FDB1 /* BlocReliabilityCreator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlocReliabilityCreator.m; sourceTree = "<group>"; };
+		76AD325E2EE2E26800C2FDB1 /* BoxStateFrequency.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BoxStateFrequency.h; sourceTree = "<group>"; };
+		76AD325F2EE2E26800C2FDB1 /* BoxStateFrequency.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BoxStateFrequency.m; sourceTree = "<group>"; };
+		76AD32602EE2E26800C2FDB1 /* BoxTentativeBase.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BoxTentativeBase.h; sourceTree = "<group>"; };
+		76AD32612EE2E26800C2FDB1 /* BoxTentativeBase.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BoxTentativeBase.m; sourceTree = "<group>"; };
+		76AD32622EE2E26800C2FDB1 /* ByExtensionEffect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ByExtensionEffect.h; sourceTree = "<group>"; };
+		76AD32632EE2E26800C2FDB1 /* ByExtensionEffect.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ByExtensionEffect.m; sourceTree = "<group>"; };
+		76AD32642EE2E26800C2FDB1 /* BySpotRouter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BySpotRouter.h; sourceTree = "<group>"; };
+		76AD32652EE2E26800C2FDB1 /* BySpotRouter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BySpotRouter.m; sourceTree = "<group>"; };
+		76AD32662EE2E26800C2FDB1 /* CharacteristicFlyweightDensity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CharacteristicFlyweightDensity.h; sourceTree = "<group>"; };
+		76AD32672EE2E26800C2FDB1 /* CharacteristicFlyweightDensity.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CharacteristicFlyweightDensity.m; sourceTree = "<group>"; };
+		76AD32682EE2E26800C2FDB1 /* CheckTextfieldFormat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CheckTextfieldFormat.h; sourceTree = "<group>"; };
+		76AD32692EE2E26800C2FDB1 /* CheckTextfieldFormat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CheckTextfieldFormat.m; sourceTree = "<group>"; };
+		76AD326A2EE2E26800C2FDB1 /* CleanScrollTrajectory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CleanScrollTrajectory.h; sourceTree = "<group>"; };
+		76AD326B2EE2E26800C2FDB1 /* CleanScrollTrajectory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CleanScrollTrajectory.m; sourceTree = "<group>"; };
+		76AD326C2EE2E26800C2FDB1 /* ClipMonsterInterface.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ClipMonsterInterface.h; sourceTree = "<group>"; };
+		76AD326D2EE2E26800C2FDB1 /* ClipMonsterInterface.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ClipMonsterInterface.m; sourceTree = "<group>"; };
+		76AD326E2EE2E26800C2FDB1 /* CommandTypeInteraction.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CommandTypeInteraction.h; sourceTree = "<group>"; };
+		76AD326F2EE2E26800C2FDB1 /* CommandTypeInteraction.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CommandTypeInteraction.m; sourceTree = "<group>"; };
+		76AD32702EE2E26800C2FDB1 /* ComparePositionedPosition.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ComparePositionedPosition.h; sourceTree = "<group>"; };
+		76AD32712EE2E26800C2FDB1 /* ComparePositionedPosition.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ComparePositionedPosition.m; sourceTree = "<group>"; };
+		76AD32722EE2E26800C2FDB1 /* CompletionActionBorder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CompletionActionBorder.h; sourceTree = "<group>"; };
+		76AD32732EE2E26800C2FDB1 /* CompletionActionBorder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CompletionActionBorder.m; sourceTree = "<group>"; };
+		76AD32742EE2E26800C2FDB1 /* CompletionEffectFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CompletionEffectFactory.h; sourceTree = "<group>"; };
+		76AD32752EE2E26800C2FDB1 /* CompletionEffectFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CompletionEffectFactory.m; sourceTree = "<group>"; };
+		76AD32762EE2E26800C2FDB1 /* ComprehensiveReactiveModal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ComprehensiveReactiveModal.h; sourceTree = "<group>"; };
+		76AD32772EE2E26800C2FDB1 /* ComprehensiveReactiveModal.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ComprehensiveReactiveModal.m; sourceTree = "<group>"; };
+		76AD32782EE2E26800C2FDB1 /* ConcurrentCommandDispatcher.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConcurrentCommandDispatcher.h; sourceTree = "<group>"; };
+		76AD32792EE2E26800C2FDB1 /* ConcurrentCommandDispatcher.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ConcurrentCommandDispatcher.m; sourceTree = "<group>"; };
+		76AD327A2EE2E26800C2FDB1 /* ConfigureButtonObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConfigureButtonObserver.h; sourceTree = "<group>"; };
+		76AD327B2EE2E26800C2FDB1 /* ConfigureButtonObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ConfigureButtonObserver.m; sourceTree = "<group>"; };
+		76AD327C2EE2E26800C2FDB1 /* ConfigureCertificateLocalization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConfigureCertificateLocalization.h; sourceTree = "<group>"; };
+		76AD327D2EE2E26800C2FDB1 /* ConfigureCertificateLocalization.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ConfigureCertificateLocalization.m; sourceTree = "<group>"; };
+		76AD327E2EE2E26800C2FDB1 /* ConfigureConvolutionType.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConfigureConvolutionType.h; sourceTree = "<group>"; };
+		76AD327F2EE2E26800C2FDB1 /* ConfigureConvolutionType.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ConfigureConvolutionType.m; sourceTree = "<group>"; };
+		76AD32802EE2E26800C2FDB1 /* ContinueCaptionStore.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ContinueCaptionStore.h; sourceTree = "<group>"; };
+		76AD32812EE2E26800C2FDB1 /* ContinueCaptionStore.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ContinueCaptionStore.m; sourceTree = "<group>"; };
+		76AD32822EE2E26800C2FDB1 /* CrudeInkwellButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CrudeInkwellButton.h; sourceTree = "<group>"; };
+		76AD32832EE2E26800C2FDB1 /* CrudeInkwellButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CrudeInkwellButton.m; sourceTree = "<group>"; };
+		76AD32842EE2E26800C2FDB1 /* CurrentCapacitiesCallback.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CurrentCapacitiesCallback.h; sourceTree = "<group>"; };
+		76AD32852EE2E26800C2FDB1 /* CurrentCapacitiesCallback.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CurrentCapacitiesCallback.m; sourceTree = "<group>"; };
+		76AD32862EE2E26800C2FDB1 /* CurrentSkirtArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CurrentSkirtArray.h; sourceTree = "<group>"; };
+		76AD32872EE2E26800C2FDB1 /* CurrentSkirtArray.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CurrentSkirtArray.m; sourceTree = "<group>"; };
+		76AD32882EE2E26800C2FDB1 /* CustomizedZoneHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomizedZoneHelper.h; sourceTree = "<group>"; };
+		76AD32892EE2E26800C2FDB1 /* CustomizedZoneHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomizedZoneHelper.m; sourceTree = "<group>"; };
+		76AD328A2EE2E26800C2FDB1 /* CustomModalReducer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomModalReducer.h; sourceTree = "<group>"; };
+		76AD328B2EE2E26800C2FDB1 /* CustomModalReducer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomModalReducer.m; sourceTree = "<group>"; };
+		76AD328C2EE2E26800C2FDB1 /* DedicatedMusicSelector.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DedicatedMusicSelector.h; sourceTree = "<group>"; };
+		76AD328D2EE2E26800C2FDB1 /* DedicatedMusicSelector.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DedicatedMusicSelector.m; sourceTree = "<group>"; };
+		76AD328E2EE2E26800C2FDB1 /* DiffableChannelEmitter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DiffableChannelEmitter.h; sourceTree = "<group>"; };
+		76AD328F2EE2E26800C2FDB1 /* DiffableChannelEmitter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DiffableChannelEmitter.m; sourceTree = "<group>"; };
+		76AD32902EE2E26800C2FDB1 /* DisconnectCoordinatorTitle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DisconnectCoordinatorTitle.h; sourceTree = "<group>"; };
+		76AD32912EE2E26800C2FDB1 /* DisconnectCoordinatorTitle.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DisconnectCoordinatorTitle.m; sourceTree = "<group>"; };
+		76AD32922EE2E26800C2FDB1 /* DisconnectEnabledRadius.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DisconnectEnabledRadius.h; sourceTree = "<group>"; };
+		76AD32932EE2E26800C2FDB1 /* DisconnectEnabledRadius.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DisconnectEnabledRadius.m; sourceTree = "<group>"; };
+		76AD32942EE2E26800C2FDB1 /* DisposeAspectHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DisposeAspectHandler.h; sourceTree = "<group>"; };
+		76AD32952EE2E26800C2FDB1 /* DisposeAspectHandler.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DisposeAspectHandler.m; sourceTree = "<group>"; };
+		76AD32962EE2E26800C2FDB1 /* DisposeMobxRenderer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DisposeMobxRenderer.h; sourceTree = "<group>"; };
+		76AD32972EE2E26800C2FDB1 /* DisposeMobxRenderer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DisposeMobxRenderer.m; sourceTree = "<group>"; };
+		76AD32982EE2E26800C2FDB1 /* DiversifiedNavigatorProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DiversifiedNavigatorProtocol.h; sourceTree = "<group>"; };
+		76AD32992EE2E26800C2FDB1 /* DiversifiedNavigatorProtocol.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DiversifiedNavigatorProtocol.m; sourceTree = "<group>"; };
+		76AD329A2EE2E26800C2FDB1 /* DownColumnObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DownColumnObserver.h; sourceTree = "<group>"; };
+		76AD329B2EE2E26800C2FDB1 /* DownColumnObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DownColumnObserver.m; sourceTree = "<group>"; };
+		76AD329C2EE2E26800C2FDB1 /* DownHeroDetail.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DownHeroDetail.h; sourceTree = "<group>"; };
+		76AD329D2EE2E26800C2FDB1 /* DownHeroDetail.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DownHeroDetail.m; sourceTree = "<group>"; };
+		76AD329E2EE2E26800C2FDB1 /* DownLoopSound.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DownLoopSound.h; sourceTree = "<group>"; };
+		76AD329F2EE2E26800C2FDB1 /* DownLoopSound.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DownLoopSound.m; sourceTree = "<group>"; };
+		76AD32A02EE2E26800C2FDB1 /* DraggableMediumEvent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DraggableMediumEvent.h; sourceTree = "<group>"; };
+		76AD32A12EE2E26800C2FDB1 /* DraggableMediumEvent.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DraggableMediumEvent.m; sourceTree = "<group>"; };
+		76AD32A22EE2E26800C2FDB1 /* DurationEventArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DurationEventArray.h; sourceTree = "<group>"; };
+		76AD32A32EE2E26800C2FDB1 /* DurationEventArray.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DurationEventArray.m; sourceTree = "<group>"; };
+		76AD32A42EE2E26800C2FDB1 /* DynamicErrorSubscriber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DynamicErrorSubscriber.h; sourceTree = "<group>"; };
+		76AD32A52EE2E26800C2FDB1 /* DynamicErrorSubscriber.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DynamicErrorSubscriber.m; sourceTree = "<group>"; };
+		76AD32A62EE2E26800C2FDB1 /* EagerHistogramRepository.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EagerHistogramRepository.h; sourceTree = "<group>"; };
+		76AD32A72EE2E26800C2FDB1 /* EagerHistogramRepository.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EagerHistogramRepository.m; sourceTree = "<group>"; };
+		76AD32A82EE2E26800C2FDB1 /* EasyIntegerTicker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EasyIntegerTicker.h; sourceTree = "<group>"; };
+		76AD32A92EE2E26800C2FDB1 /* EasyIntegerTicker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EasyIntegerTicker.m; sourceTree = "<group>"; };
+		76AD32AA2EE2E26800C2FDB1 /* EnabledObserverType.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EnabledObserverType.h; sourceTree = "<group>"; };
+		76AD32AB2EE2E26800C2FDB1 /* EnabledObserverType.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EnabledObserverType.m; sourceTree = "<group>"; };
+		76AD32AC2EE2E26800C2FDB1 /* EnabledZoneWrapper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EnabledZoneWrapper.h; sourceTree = "<group>"; };
+		76AD32AD2EE2E26800C2FDB1 /* EnabledZoneWrapper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EnabledZoneWrapper.m; sourceTree = "<group>"; };
+		76AD32AE2EE2E26800C2FDB1 /* EncodeProtocolResolver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EncodeProtocolResolver.h; sourceTree = "<group>"; };
+		76AD32AF2EE2E26800C2FDB1 /* EncodeProtocolResolver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EncodeProtocolResolver.m; sourceTree = "<group>"; };
+		76AD32B02EE2E26800C2FDB1 /* EntropyKindTag.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EntropyKindTag.h; sourceTree = "<group>"; };
+		76AD32B12EE2E26800C2FDB1 /* EntropyKindTag.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EntropyKindTag.m; sourceTree = "<group>"; };
+		76AD32B22EE2E26800C2FDB1 /* ErrorPhaseDelay.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ErrorPhaseDelay.h; sourceTree = "<group>"; };
+		76AD32B32EE2E26800C2FDB1 /* ErrorPhaseDelay.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ErrorPhaseDelay.m; sourceTree = "<group>"; };
+		76AD32B42EE2E26800C2FDB1 /* ExitSubsequentFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ExitSubsequentFactory.h; sourceTree = "<group>"; };
+		76AD32B52EE2E26800C2FDB1 /* ExitSubsequentFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExitSubsequentFactory.m; sourceTree = "<group>"; };
+		76AD32B62EE2E26800C2FDB1 /* ExplicitSubpixelRect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ExplicitSubpixelRect.h; sourceTree = "<group>"; };
+		76AD32B72EE2E26800C2FDB1 /* ExplicitSubpixelRect.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExplicitSubpixelRect.m; sourceTree = "<group>"; };
+		76AD32B82EE2E26800C2FDB1 /* ExtensionSingletonSaturation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ExtensionSingletonSaturation.h; sourceTree = "<group>"; };
+		76AD32B92EE2E26800C2FDB1 /* ExtensionSingletonSaturation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExtensionSingletonSaturation.m; sourceTree = "<group>"; };
+		76AD32BA2EE2E26800C2FDB1 /* FindStepDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FindStepDelegate.h; sourceTree = "<group>"; };
+		76AD32BB2EE2E26800C2FDB1 /* FindStepDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FindStepDelegate.m; sourceTree = "<group>"; };
+		76AD32BC2EE2E26800C2FDB1 /* FinishResourceDuration.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FinishResourceDuration.h; sourceTree = "<group>"; };
+		76AD32BD2EE2E26800C2FDB1 /* FinishResourceDuration.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FinishResourceDuration.m; sourceTree = "<group>"; };
+		76AD32BE2EE2E26800C2FDB1 /* FirstStaticError.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstStaticError.h; sourceTree = "<group>"; };
+		76AD32BF2EE2E26800C2FDB1 /* FirstStaticError.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstStaticError.m; sourceTree = "<group>"; };
+		76AD32C02EE2E26800C2FDB1 /* FormatIndependentGradient.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FormatIndependentGradient.h; sourceTree = "<group>"; };
+		76AD32C12EE2E26800C2FDB1 /* FormatIndependentGradient.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FormatIndependentGradient.m; sourceTree = "<group>"; };
+		76AD32C22EE2E26800C2FDB1 /* FragmentImageHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FragmentImageHelper.h; sourceTree = "<group>"; };
+		76AD32C32EE2E26800C2FDB1 /* FragmentImageHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FragmentImageHelper.m; sourceTree = "<group>"; };
+		76AD32C42EE2E26800C2FDB1 /* FramePainterObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FramePainterObserver.h; sourceTree = "<group>"; };
+		76AD32C52EE2E26800C2FDB1 /* FramePainterObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FramePainterObserver.m; sourceTree = "<group>"; };
+		76AD32C62EE2E26800C2FDB1 /* FrameStructureBound.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FrameStructureBound.h; sourceTree = "<group>"; };
+		76AD32C72EE2E26800C2FDB1 /* FrameStructureBound.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FrameStructureBound.m; sourceTree = "<group>"; };
+		76AD32C82EE2E26800C2FDB1 /* FreeActivityLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FreeActivityLabel.h; sourceTree = "<group>"; };
+		76AD32C92EE2E26800C2FDB1 /* FreeActivityLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FreeActivityLabel.m; sourceTree = "<group>"; };
+		76AD32CA2EE2E26800C2FDB1 /* FromInterpolationBinder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FromInterpolationBinder.h; sourceTree = "<group>"; };
+		76AD32CB2EE2E26800C2FDB1 /* FromInterpolationBinder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FromInterpolationBinder.m; sourceTree = "<group>"; };
+		76AD32CC2EE2E26800C2FDB1 /* FromModulusScalability.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FromModulusScalability.h; sourceTree = "<group>"; };
+		76AD32CD2EE2E26800C2FDB1 /* FromModulusScalability.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FromModulusScalability.m; sourceTree = "<group>"; };
+		76AD32CE2EE2E26800C2FDB1 /* FromRepositorySound.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FromRepositorySound.h; sourceTree = "<group>"; };
+		76AD32CF2EE2E26800C2FDB1 /* FromRepositorySound.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FromRepositorySound.m; sourceTree = "<group>"; };
+		76AD32D02EE2E26800C2FDB1 /* FromTableAllocator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FromTableAllocator.h; sourceTree = "<group>"; };
+		76AD32D12EE2E26800C2FDB1 /* FromTableAllocator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FromTableAllocator.m; sourceTree = "<group>"; };
+		76AD32D22EE2E26800C2FDB1 /* FunctionalInstructionVideo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FunctionalInstructionVideo.h; sourceTree = "<group>"; };
+		76AD32D32EE2E26800C2FDB1 /* FunctionalInstructionVideo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FunctionalInstructionVideo.m; sourceTree = "<group>"; };
+		76AD32D42EE2E26800C2FDB1 /* FutureSliderExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FutureSliderExtension.h; sourceTree = "<group>"; };
+		76AD32D52EE2E26800C2FDB1 /* FutureSliderExtension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FutureSliderExtension.m; sourceTree = "<group>"; };
+		76AD32D62EE2E26800C2FDB1 /* GenerateIntuitiveCommand.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GenerateIntuitiveCommand.h; sourceTree = "<group>"; };
+		76AD32D72EE2E26800C2FDB1 /* GenerateIntuitiveCommand.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GenerateIntuitiveCommand.m; sourceTree = "<group>"; };
+		76AD32D82EE2E26800C2FDB1 /* GeometricClipperStack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GeometricClipperStack.h; sourceTree = "<group>"; };
+		76AD32D92EE2E26800C2FDB1 /* GeometricClipperStack.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GeometricClipperStack.m; sourceTree = "<group>"; };
+		76AD32DA2EE2E26800C2FDB1 /* GranularIntuitiveVariant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GranularIntuitiveVariant.h; sourceTree = "<group>"; };
+		76AD32DB2EE2E26800C2FDB1 /* GranularIntuitiveVariant.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GranularIntuitiveVariant.m; sourceTree = "<group>"; };
+		76AD32DC2EE2E26800C2FDB1 /* GraphicDescriptionFilter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GraphicDescriptionFilter.h; sourceTree = "<group>"; };
+		76AD32DD2EE2E26800C2FDB1 /* GraphicDescriptionFilter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GraphicDescriptionFilter.m; sourceTree = "<group>"; };
+		76AD32DE2EE2E26800C2FDB1 /* GraphicJobRight.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GraphicJobRight.h; sourceTree = "<group>"; };
+		76AD32DF2EE2E26800C2FDB1 /* GraphicJobRight.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GraphicJobRight.m; sourceTree = "<group>"; };
+		76AD32E02EE2E26800C2FDB1 /* HandleAdvancedExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HandleAdvancedExtension.h; sourceTree = "<group>"; };
+		76AD32E12EE2E26800C2FDB1 /* HandleAdvancedExtension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HandleAdvancedExtension.m; sourceTree = "<group>"; };
+		76AD32E22EE2E26800C2FDB1 /* HandleToolCreator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HandleToolCreator.h; sourceTree = "<group>"; };
+		76AD32E32EE2E26800C2FDB1 /* HandleToolCreator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HandleToolCreator.m; sourceTree = "<group>"; };
+		76AD32E42EE2E26800C2FDB1 /* HashWorkColor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HashWorkColor.h; sourceTree = "<group>"; };
+		76AD32E52EE2E26800C2FDB1 /* HashWorkColor.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HashWorkColor.m; sourceTree = "<group>"; };
+		76AD32E62EE2E26800C2FDB1 /* IgnoredLifecycleType.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IgnoredLifecycleType.h; sourceTree = "<group>"; };
+		76AD32E72EE2E26800C2FDB1 /* IgnoredLifecycleType.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IgnoredLifecycleType.m; sourceTree = "<group>"; };
+		76AD32E82EE2E26800C2FDB1 /* InBuilderParticle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InBuilderParticle.h; sourceTree = "<group>"; };
+		76AD32E92EE2E26800C2FDB1 /* InBuilderParticle.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InBuilderParticle.m; sourceTree = "<group>"; };
+		76AD32EA2EE2E26800C2FDB1 /* InflateParallelQueue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InflateParallelQueue.h; sourceTree = "<group>"; };
+		76AD32EB2EE2E26800C2FDB1 /* InflateParallelQueue.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InflateParallelQueue.m; sourceTree = "<group>"; };
+		76AD32EC2EE2E26800C2FDB1 /* InNotificationTimer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InNotificationTimer.h; sourceTree = "<group>"; };
+		76AD32ED2EE2E26800C2FDB1 /* InNotificationTimer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InNotificationTimer.m; sourceTree = "<group>"; };
+		76AD32EE2EE2E26800C2FDB1 /* InProtocolDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InProtocolDelegate.h; sourceTree = "<group>"; };
+		76AD32EF2EE2E26800C2FDB1 /* InProtocolDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InProtocolDelegate.m; sourceTree = "<group>"; };
+		76AD32F02EE2E26800C2FDB1 /* InstantiateAccessoryModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InstantiateAccessoryModel.h; sourceTree = "<group>"; };
+		76AD32F12EE2E26800C2FDB1 /* InstantiateAccessoryModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InstantiateAccessoryModel.m; sourceTree = "<group>"; };
+		76AD32F22EE2E26800C2FDB1 /* InTangentModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InTangentModel.h; sourceTree = "<group>"; };
+		76AD32F32EE2E26800C2FDB1 /* InTangentModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InTangentModel.m; sourceTree = "<group>"; };
+		76AD32F42EE2E26800C2FDB1 /* IntegerScopeInteraction.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = IntegerScopeInteraction.bundle; sourceTree = "<group>"; };
+		76AD32F52EE2E26800C2FDB1 /* IntoDelegateCluster.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntoDelegateCluster.h; sourceTree = "<group>"; };
+		76AD32F62EE2E26800C2FDB1 /* IntoDelegateCluster.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntoDelegateCluster.m; sourceTree = "<group>"; };
+		76AD32F72EE2E26800C2FDB1 /* InTopicState.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InTopicState.h; sourceTree = "<group>"; };
+		76AD32F82EE2E26800C2FDB1 /* InTopicState.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InTopicState.m; sourceTree = "<group>"; };
+		76AD32F92EE2E26800C2FDB1 /* IntoSizeState.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntoSizeState.h; sourceTree = "<group>"; };
+		76AD32FA2EE2E26800C2FDB1 /* IntoSizeState.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntoSizeState.m; sourceTree = "<group>"; };
+		76AD32FB2EE2E26800C2FDB1 /* IntoSwiftPolyfill.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntoSwiftPolyfill.h; sourceTree = "<group>"; };
+		76AD32FC2EE2E26800C2FDB1 /* IntoSwiftPolyfill.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntoSwiftPolyfill.m; sourceTree = "<group>"; };
+		76AD32FD2EE2E26800C2FDB1 /* InvisibleRoleRow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InvisibleRoleRow.h; sourceTree = "<group>"; };
+		76AD32FE2EE2E26800C2FDB1 /* InvisibleRoleRow.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InvisibleRoleRow.m; sourceTree = "<group>"; };
+		76AD32FF2EE2E26800C2FDB1 /* IsolateTrajectoryPool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsolateTrajectoryPool.h; sourceTree = "<group>"; };
+		76AD33002EE2E26800C2FDB1 /* IsolateTrajectoryPool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IsolateTrajectoryPool.m; sourceTree = "<group>"; };
+		76AD33012EE2E26800C2FDB1 /* KeepApertureElasticity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KeepApertureElasticity.h; sourceTree = "<group>"; };
+		76AD33022EE2E26800C2FDB1 /* KeepApertureElasticity.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeepApertureElasticity.m; sourceTree = "<group>"; };
+		76AD33032EE2E26800C2FDB1 /* KeyGetxState.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KeyGetxState.h; sourceTree = "<group>"; };
+		76AD33042EE2E26800C2FDB1 /* KeyGetxState.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeyGetxState.m; sourceTree = "<group>"; };
+		76AD33052EE2E26800C2FDB1 /* KeyProviderQueue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KeyProviderQueue.h; sourceTree = "<group>"; };
+		76AD33062EE2E26800C2FDB1 /* KeyProviderQueue.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeyProviderQueue.m; sourceTree = "<group>"; };
+		76AD33072EE2E26800C2FDB1 /* LastApertureCollection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LastApertureCollection.h; sourceTree = "<group>"; };
+		76AD33082EE2E26800C2FDB1 /* LastApertureCollection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LastApertureCollection.m; sourceTree = "<group>"; };
+		76AD33092EE2E26800C2FDB1 /* ListenViewCreator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ListenViewCreator.h; sourceTree = "<group>"; };
+		76AD330A2EE2E26800C2FDB1 /* ListenViewCreator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ListenViewCreator.m; sourceTree = "<group>"; };
+		76AD330B2EE2E26800C2FDB1 /* LoadArithmeticImplement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoadArithmeticImplement.h; sourceTree = "<group>"; };
+		76AD330C2EE2E26800C2FDB1 /* LoadArithmeticImplement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoadArithmeticImplement.m; sourceTree = "<group>"; };
+		76AD330D2EE2E26800C2FDB1 /* LoadIndependentCoordinator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoadIndependentCoordinator.h; sourceTree = "<group>"; };
+		76AD330E2EE2E26800C2FDB1 /* LoadIndependentCoordinator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoadIndependentCoordinator.m; sourceTree = "<group>"; };
+		76AD330F2EE2E26800C2FDB1 /* LoadPlaybackCubit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoadPlaybackCubit.h; sourceTree = "<group>"; };
+		76AD33102EE2E26800C2FDB1 /* LoadPlaybackCubit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoadPlaybackCubit.m; sourceTree = "<group>"; };
+		76AD33112EE2E26800C2FDB1 /* LocalizationOperationKind.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LocalizationOperationKind.h; sourceTree = "<group>"; };
+		76AD33122EE2E26800C2FDB1 /* LocalizationOperationKind.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocalizationOperationKind.m; sourceTree = "<group>"; };
+		76AD33132EE2E26800C2FDB1 /* LockDynamicManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LockDynamicManager.h; sourceTree = "<group>"; };
+		76AD33142EE2E26800C2FDB1 /* LockDynamicManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LockDynamicManager.m; sourceTree = "<group>"; };
+		76AD33152EE2E26800C2FDB1 /* MainErrorCapacity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainErrorCapacity.h; sourceTree = "<group>"; };
+		76AD33162EE2E26800C2FDB1 /* MainErrorCapacity.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainErrorCapacity.m; sourceTree = "<group>"; };
+		76AD33172EE2E26800C2FDB1 /* MainObserverHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainObserverHelper.h; sourceTree = "<group>"; };
+		76AD33182EE2E26800C2FDB1 /* MainObserverHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainObserverHelper.m; sourceTree = "<group>"; };
+		76AD33192EE2E26800C2FDB1 /* MarkExponentDecorator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MarkExponentDecorator.h; sourceTree = "<group>"; };
+		76AD331A2EE2E26800C2FDB1 /* MarkExponentDecorator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MarkExponentDecorator.m; sourceTree = "<group>"; };
+		76AD331B2EE2E26800C2FDB1 /* MarkMobxConsumption.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MarkMobxConsumption.h; sourceTree = "<group>"; };
+		76AD331C2EE2E26800C2FDB1 /* MarkMobxConsumption.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MarkMobxConsumption.m; sourceTree = "<group>"; };
+		76AD331D2EE2E26800C2FDB1 /* MasterCreatorFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MasterCreatorFactory.h; sourceTree = "<group>"; };
+		76AD331E2EE2E26800C2FDB1 /* MasterCreatorFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterCreatorFactory.m; sourceTree = "<group>"; };
+		76AD331F2EE2E26800C2FDB1 /* MaterialVariableInset.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MaterialVariableInset.h; sourceTree = "<group>"; };
+		76AD33202EE2E26800C2FDB1 /* MaterialVariableInset.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MaterialVariableInset.m; sourceTree = "<group>"; };
+		76AD33212EE2E26800C2FDB1 /* MediaReducerExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MediaReducerExtension.h; sourceTree = "<group>"; };
+		76AD33222EE2E26800C2FDB1 /* MediaReducerExtension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MediaReducerExtension.m; sourceTree = "<group>"; };
+		76AD33232EE2E26800C2FDB1 /* MediocreTemporaryCallback.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MediocreTemporaryCallback.h; sourceTree = "<group>"; };
+		76AD33242EE2E26800C2FDB1 /* MediocreTemporaryCallback.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MediocreTemporaryCallback.m; sourceTree = "<group>"; };
+		76AD33252EE2E26800C2FDB1 /* MediumMasterPreview.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MediumMasterPreview.h; sourceTree = "<group>"; };
+		76AD33262EE2E26800C2FDB1 /* MediumMasterPreview.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MediumMasterPreview.m; sourceTree = "<group>"; };
+		76AD33272EE2E26800C2FDB1 /* MixinKeyIntensity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MixinKeyIntensity.h; sourceTree = "<group>"; };
+		76AD33282EE2E26800C2FDB1 /* MixinKeyIntensity.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MixinKeyIntensity.m; sourceTree = "<group>"; };
+		76AD33292EE2E26800C2FDB1 /* ModalPatternScale.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ModalPatternScale.h; sourceTree = "<group>"; };
+		76AD332A2EE2E26800C2FDB1 /* ModalPatternScale.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ModalPatternScale.m; sourceTree = "<group>"; };
+		76AD332B2EE2E26800C2FDB1 /* MountConstraintResource.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MountConstraintResource.h; sourceTree = "<group>"; };
+		76AD332C2EE2E26800C2FDB1 /* MountConstraintResource.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MountConstraintResource.m; sourceTree = "<group>"; };
+		76AD332D2EE2E26800C2FDB1 /* MountConsultativeScaffold.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MountConsultativeScaffold.h; sourceTree = "<group>"; };
+		76AD332E2EE2E26800C2FDB1 /* MountConsultativeScaffold.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MountConsultativeScaffold.m; sourceTree = "<group>"; };
+		76AD332F2EE2E26800C2FDB1 /* MultiTrianglesList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MultiTrianglesList.h; sourceTree = "<group>"; };
+		76AD33302EE2E26800C2FDB1 /* MultiTrianglesList.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MultiTrianglesList.m; sourceTree = "<group>"; };
+		76AD33312EE2E26800C2FDB1 /* NativeProtectedBuilder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NativeProtectedBuilder.h; sourceTree = "<group>"; };
+		76AD33322EE2E26800C2FDB1 /* NativeProtectedBuilder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NativeProtectedBuilder.m; sourceTree = "<group>"; };
+		76AD33332EE2E26800C2FDB1 /* NavigateAppbarMetadata.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NavigateAppbarMetadata.h; sourceTree = "<group>"; };
+		76AD33342EE2E26800C2FDB1 /* NavigateAppbarMetadata.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NavigateAppbarMetadata.m; sourceTree = "<group>"; };
+		76AD33352EE2E26800C2FDB1 /* NavigateDedicatedBuilder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NavigateDedicatedBuilder.h; sourceTree = "<group>"; };
+		76AD33362EE2E26800C2FDB1 /* NavigateDedicatedBuilder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NavigateDedicatedBuilder.m; sourceTree = "<group>"; };
+		76AD33372EE2E26800C2FDB1 /* NewestConsumerSchema.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewestConsumerSchema.h; sourceTree = "<group>"; };
+		76AD33382EE2E26800C2FDB1 /* NewestConsumerSchema.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewestConsumerSchema.m; sourceTree = "<group>"; };
+		76AD33392EE2E26800C2FDB1 /* NodeClusterHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NodeClusterHandler.h; sourceTree = "<group>"; };
+		76AD333A2EE2E26800C2FDB1 /* NodeClusterHandler.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NodeClusterHandler.m; sourceTree = "<group>"; };
+		76AD333B2EE2E26800C2FDB1 /* NodeFormName.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NodeFormName.h; sourceTree = "<group>"; };
+		76AD333C2EE2E26800C2FDB1 /* NodeFormName.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NodeFormName.m; sourceTree = "<group>"; };
+		76AD333D2EE2E26800C2FDB1 /* NodeProvisionHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NodeProvisionHelper.h; sourceTree = "<group>"; };
+		76AD333E2EE2E26800C2FDB1 /* NodeProvisionHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NodeProvisionHelper.m; sourceTree = "<group>"; };
+		76AD333F2EE2E26800C2FDB1 /* NormalActivityProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NormalActivityProtocol.h; sourceTree = "<group>"; };
+		76AD33402EE2E26800C2FDB1 /* NormalActivityProtocol.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NormalActivityProtocol.m; sourceTree = "<group>"; };
+		76AD33412EE2E26800C2FDB1 /* NormalCompletionDisclaimer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NormalCompletionDisclaimer.h; sourceTree = "<group>"; };
+		76AD33422EE2E26800C2FDB1 /* NormalCompletionDisclaimer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NormalCompletionDisclaimer.m; sourceTree = "<group>"; };
+		76AD33432EE2E26800C2FDB1 /* NotifierProcessorHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NotifierProcessorHandler.h; sourceTree = "<group>"; };
+		76AD33442EE2E26800C2FDB1 /* NotifierProcessorHandler.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NotifierProcessorHandler.m; sourceTree = "<group>"; };
+		76AD33452EE2E26800C2FDB1 /* ObserveAspectratioDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ObserveAspectratioDelegate.h; sourceTree = "<group>"; };
+		76AD33462EE2E26800C2FDB1 /* ObserveAspectratioDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ObserveAspectratioDelegate.m; sourceTree = "<group>"; };
+		76AD33472EE2E26800C2FDB1 /* OffDecorationSorter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OffDecorationSorter.h; sourceTree = "<group>"; };
+		76AD33482EE2E26800C2FDB1 /* OffDecorationSorter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OffDecorationSorter.m; sourceTree = "<group>"; };
+		76AD33492EE2E26800C2FDB1 /* OldIntensityAdapter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OldIntensityAdapter.h; sourceTree = "<group>"; };
+		76AD334A2EE2E26800C2FDB1 /* OldIntensityAdapter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OldIntensityAdapter.m; sourceTree = "<group>"; };
+		76AD334B2EE2E26800C2FDB1 /* OnGrainData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OnGrainData.h; sourceTree = "<group>"; };
+		76AD334C2EE2E26800C2FDB1 /* OnGrainData.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OnGrainData.m; sourceTree = "<group>"; };
+		76AD334D2EE2E26800C2FDB1 /* OnLogarithmEffect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OnLogarithmEffect.h; sourceTree = "<group>"; };
+		76AD334E2EE2E26800C2FDB1 /* OnLogarithmEffect.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OnLogarithmEffect.m; sourceTree = "<group>"; };
+		76AD334F2EE2E26800C2FDB1 /* OntoClipperSlider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OntoClipperSlider.h; sourceTree = "<group>"; };
+		76AD33502EE2E26800C2FDB1 /* OntoClipperSlider.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OntoClipperSlider.m; sourceTree = "<group>"; };
+		76AD33512EE2E26800C2FDB1 /* OpaqueNormItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OpaqueNormItem.h; sourceTree = "<group>"; };
+		76AD33522EE2E26800C2FDB1 /* OpaqueNormItem.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OpaqueNormItem.m; sourceTree = "<group>"; };
+		76AD33532EE2E26800C2FDB1 /* OutEffectEntity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OutEffectEntity.h; sourceTree = "<group>"; };
+		76AD33542EE2E26800C2FDB1 /* OutEffectEntity.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OutEffectEntity.m; sourceTree = "<group>"; };
+		76AD33552EE2E26800C2FDB1 /* OutGemAwait.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OutGemAwait.h; sourceTree = "<group>"; };
+		76AD33562EE2E26800C2FDB1 /* OutGemAwait.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OutGemAwait.m; sourceTree = "<group>"; };
+		76AD33572EE2E26800C2FDB1 /* OverAsyncTexture.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OverAsyncTexture.h; sourceTree = "<group>"; };
+		76AD33582EE2E26800C2FDB1 /* OverAsyncTexture.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OverAsyncTexture.m; sourceTree = "<group>"; };
+		76AD33592EE2E26800C2FDB1 /* OverPetSlider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OverPetSlider.h; sourceTree = "<group>"; };
+		76AD335A2EE2E26800C2FDB1 /* OverPetSlider.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OverPetSlider.m; sourceTree = "<group>"; };
+		76AD335B2EE2E26800C2FDB1 /* PagerActionTheme.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PagerActionTheme.h; sourceTree = "<group>"; };
+		76AD335C2EE2E26800C2FDB1 /* PagerActionTheme.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PagerActionTheme.m; sourceTree = "<group>"; };
+		76AD335D2EE2E26800C2FDB1 /* PauseIndependentLog.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PauseIndependentLog.h; sourceTree = "<group>"; };
+		76AD335E2EE2E26800C2FDB1 /* PauseIndependentLog.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PauseIndependentLog.m; sourceTree = "<group>"; };
+		76AD335F2EE2E26800C2FDB1 /* PauseProjectCreator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PauseProjectCreator.h; sourceTree = "<group>"; };
+		76AD33602EE2E26800C2FDB1 /* PauseProjectCreator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PauseProjectCreator.m; sourceTree = "<group>"; };
+		76AD33612EE2E26800C2FDB1 /* PauseTemporaryMedia.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PauseTemporaryMedia.h; sourceTree = "<group>"; };
+		76AD33622EE2E26800C2FDB1 /* PauseTemporaryMedia.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PauseTemporaryMedia.m; sourceTree = "<group>"; };
+		76AD33632EE2E26800C2FDB1 /* PermissivePolygonOwner.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PermissivePolygonOwner.h; sourceTree = "<group>"; };
+		76AD33642EE2E26800C2FDB1 /* PermissivePolygonOwner.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PermissivePolygonOwner.m; sourceTree = "<group>"; };
+		76AD33652EE2E26800C2FDB1 /* PermutationTempleStatus.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PermutationTempleStatus.h; sourceTree = "<group>"; };
+		76AD33662EE2E26800C2FDB1 /* PermutationTempleStatus.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PermutationTempleStatus.m; sourceTree = "<group>"; };
+		76AD33672EE2E26800C2FDB1 /* PersistAgileCycle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PersistAgileCycle.h; sourceTree = "<group>"; };
+		76AD33682EE2E26800C2FDB1 /* PersistAgileCycle.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PersistAgileCycle.m; sourceTree = "<group>"; };
+		76AD33692EE2E26800C2FDB1 /* PinchableKernelContainer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PinchableKernelContainer.h; sourceTree = "<group>"; };
+		76AD336A2EE2E26800C2FDB1 /* PinchableKernelContainer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PinchableKernelContainer.m; sourceTree = "<group>"; };
+		76AD336B2EE2E26800C2FDB1 /* PlaybackNodeReference.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaybackNodeReference.h; sourceTree = "<group>"; };
+		76AD336C2EE2E26800C2FDB1 /* PlaybackNodeReference.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaybackNodeReference.m; sourceTree = "<group>"; };
+		76AD336D2EE2E26800C2FDB1 /* PlayCrudeIsolate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlayCrudeIsolate.h; sourceTree = "<group>"; };
+		76AD336E2EE2E26800C2FDB1 /* PlayCrudeIsolate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlayCrudeIsolate.m; sourceTree = "<group>"; };
+		76AD336F2EE2E26800C2FDB1 /* PopupJobKind.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PopupJobKind.h; sourceTree = "<group>"; };
+		76AD33702EE2E26800C2FDB1 /* PopupJobKind.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PopupJobKind.m; sourceTree = "<group>"; };
+		76AD33712EE2E26800C2FDB1 /* PrecisionPrototypeSkewy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrecisionPrototypeSkewy.h; sourceTree = "<group>"; };
+		76AD33722EE2E26800C2FDB1 /* PrecisionPrototypeSkewy.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PrecisionPrototypeSkewy.m; sourceTree = "<group>"; };
+		76AD33732EE2E26800C2FDB1 /* PrepareMovementSound.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrepareMovementSound.h; sourceTree = "<group>"; };
+		76AD33742EE2E26800C2FDB1 /* PrepareMovementSound.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PrepareMovementSound.m; sourceTree = "<group>"; };
+		76AD33752EE2E26800C2FDB1 /* PreparePositionedCallback.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PreparePositionedCallback.h; sourceTree = "<group>"; };
+		76AD33762EE2E26800C2FDB1 /* PreparePositionedCallback.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PreparePositionedCallback.m; sourceTree = "<group>"; };
+		76AD33772EE2E26800C2FDB1 /* PrepareSizedboxTarget.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrepareSizedboxTarget.h; sourceTree = "<group>"; };
+		76AD33782EE2E26800C2FDB1 /* PrepareSizedboxTarget.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PrepareSizedboxTarget.m; sourceTree = "<group>"; };
+		76AD33792EE2E26800C2FDB1 /* PresentComprehensiveDimension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PresentComprehensiveDimension.h; sourceTree = "<group>"; };
+		76AD337A2EE2E26800C2FDB1 /* PresentComprehensiveDimension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresentComprehensiveDimension.m; sourceTree = "<group>"; };
+		76AD337B2EE2E26800C2FDB1 /* PresentDecorationService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PresentDecorationService.h; sourceTree = "<group>"; };
+		76AD337C2EE2E26800C2FDB1 /* PresentDecorationService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresentDecorationService.m; sourceTree = "<group>"; };
+		76AD337D2EE2E26800C2FDB1 /* PresenterResponderDecorator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PresenterResponderDecorator.h; sourceTree = "<group>"; };
+		76AD337E2EE2E26800C2FDB1 /* PresenterResponderDecorator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresenterResponderDecorator.m; sourceTree = "<group>"; };
+		76AD337F2EE2E26800C2FDB1 /* PrevSortedChannel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrevSortedChannel.h; sourceTree = "<group>"; };
+		76AD33802EE2E26800C2FDB1 /* PrevSortedChannel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PrevSortedChannel.m; sourceTree = "<group>"; };
+		76AD33812EE2E26800C2FDB1 /* PrimaryActionRect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrimaryActionRect.h; sourceTree = "<group>"; };
+		76AD33822EE2E26800C2FDB1 /* PrimaryActionRect.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PrimaryActionRect.m; sourceTree = "<group>"; };
+		76AD33832EE2E26800C2FDB1 /* PrimaryAnimatorList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrimaryAnimatorList.h; sourceTree = "<group>"; };
+		76AD33842EE2E26800C2FDB1 /* PrimaryAnimatorList.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PrimaryAnimatorList.m; sourceTree = "<group>"; };
+		76AD33852EE2E26800C2FDB1 /* PriorDifficultFrame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PriorDifficultFrame.h; sourceTree = "<group>"; };
+		76AD33862EE2E26800C2FDB1 /* PriorDifficultFrame.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PriorDifficultFrame.m; sourceTree = "<group>"; };
+		76AD33872EE2E26800C2FDB1 /* ProcessPageviewView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProcessPageviewView.h; sourceTree = "<group>"; };
+		76AD33882EE2E26800C2FDB1 /* ProcessPageviewView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProcessPageviewView.m; sourceTree = "<group>"; };
+		76AD33892EE2E26800C2FDB1 /* ProcessWidgetArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProcessWidgetArray.h; sourceTree = "<group>"; };
+		76AD338A2EE2E26800C2FDB1 /* ProcessWidgetArray.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProcessWidgetArray.m; sourceTree = "<group>"; };
+		76AD338B2EE2E26800C2FDB1 /* ProviderSchedulerImplement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProviderSchedulerImplement.h; sourceTree = "<group>"; };
+		76AD338C2EE2E26800C2FDB1 /* ProviderSchedulerImplement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProviderSchedulerImplement.m; sourceTree = "<group>"; };
+		76AD338D2EE2E26800C2FDB1 /* PublicSliderType.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PublicSliderType.h; sourceTree = "<group>"; };
+		76AD338E2EE2E26800C2FDB1 /* PublicSliderType.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PublicSliderType.m; sourceTree = "<group>"; };
+		76AD338F2EE2E26800C2FDB1 /* PublicSpotDuration.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PublicSpotDuration.h; sourceTree = "<group>"; };
+		76AD33902EE2E26800C2FDB1 /* PublicSpotDuration.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PublicSpotDuration.m; sourceTree = "<group>"; };
+		76AD33912EE2E26800C2FDB1 /* QuantizationCustomizedTransformer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuantizationCustomizedTransformer.h; sourceTree = "<group>"; };
+		76AD33922EE2E26800C2FDB1 /* QuantizationCustomizedTransformer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuantizationCustomizedTransformer.m; sourceTree = "<group>"; };
+		76AD33932EE2E26800C2FDB1 /* ReadBatchObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReadBatchObserver.h; sourceTree = "<group>"; };
+		76AD33942EE2E26800C2FDB1 /* ReadBatchObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReadBatchObserver.m; sourceTree = "<group>"; };
+		76AD33952EE2E26800C2FDB1 /* RebuildResponsiveIcon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RebuildResponsiveIcon.h; sourceTree = "<group>"; };
+		76AD33962EE2E26800C2FDB1 /* RebuildResponsiveIcon.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RebuildResponsiveIcon.m; sourceTree = "<group>"; };
+		76AD33972EE2E26800C2FDB1 /* RenderChecklistProgressbar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RenderChecklistProgressbar.h; sourceTree = "<group>"; };
+		76AD33982EE2E26800C2FDB1 /* RenderChecklistProgressbar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RenderChecklistProgressbar.m; sourceTree = "<group>"; };
+		76AD33992EE2E26800C2FDB1 /* RenderFlexibleObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RenderFlexibleObserver.h; sourceTree = "<group>"; };
+		76AD339A2EE2E26800C2FDB1 /* RenderFlexibleObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RenderFlexibleObserver.m; sourceTree = "<group>"; };
+		76AD339B2EE2E26800C2FDB1 /* ReplaceAccessoryDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReplaceAccessoryDelegate.h; sourceTree = "<group>"; };
+		76AD339C2EE2E26800C2FDB1 /* ReplaceAccessoryDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReplaceAccessoryDelegate.m; sourceTree = "<group>"; };
+		76AD339D2EE2E26800C2FDB1 /* ReplaceFragmentTransition.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReplaceFragmentTransition.h; sourceTree = "<group>"; };
+		76AD339E2EE2E26800C2FDB1 /* ReplaceFragmentTransition.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReplaceFragmentTransition.m; sourceTree = "<group>"; };
+		76AD339F2EE2E26800C2FDB1 /* ReplicateContainerProvider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReplicateContainerProvider.h; sourceTree = "<group>"; };
+		76AD33A02EE2E26800C2FDB1 /* ReplicateContainerProvider.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReplicateContainerProvider.m; sourceTree = "<group>"; };
+		76AD33A12EE2E26800C2FDB1 /* RequiredReducerContainer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RequiredReducerContainer.h; sourceTree = "<group>"; };
+		76AD33A22EE2E26800C2FDB1 /* RequiredReducerContainer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RequiredReducerContainer.m; sourceTree = "<group>"; };
+		76AD33A32EE2E26800C2FDB1 /* ResetMomentumArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ResetMomentumArray.h; sourceTree = "<group>"; };
+		76AD33A42EE2E26800C2FDB1 /* ResetMomentumArray.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ResetMomentumArray.m; sourceTree = "<group>"; };
+		76AD33A52EE2E26800C2FDB1 /* RespondComprehensiveParticle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RespondComprehensiveParticle.h; sourceTree = "<group>"; };
+		76AD33A62EE2E26800C2FDB1 /* RespondComprehensiveParticle.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RespondComprehensiveParticle.m; sourceTree = "<group>"; };
+		76AD33A72EE2E26800C2FDB1 /* RestartAlphaDecoration.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RestartAlphaDecoration.h; sourceTree = "<group>"; };
+		76AD33A82EE2E26800C2FDB1 /* RestartAlphaDecoration.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RestartAlphaDecoration.m; sourceTree = "<group>"; };
+		76AD33A92EE2E26800C2FDB1 /* RestartMainBase.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RestartMainBase.h; sourceTree = "<group>"; };
+		76AD33AA2EE2E26800C2FDB1 /* RestartMainBase.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RestartMainBase.m; sourceTree = "<group>"; };
+		76AD33AB2EE2E26800C2FDB1 /* RestoreEffectDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RestoreEffectDelegate.h; sourceTree = "<group>"; };
+		76AD33AC2EE2E26800C2FDB1 /* RestoreEffectDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RestoreEffectDelegate.m; sourceTree = "<group>"; };
+		76AD33AD2EE2E26800C2FDB1 /* RestoreEqualizationQueue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RestoreEqualizationQueue.h; sourceTree = "<group>"; };
+		76AD33AE2EE2E26800C2FDB1 /* RestoreEqualizationQueue.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RestoreEqualizationQueue.m; sourceTree = "<group>"; };
+		76AD33AF2EE2E26800C2FDB1 /* RestoreUniqueChart.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RestoreUniqueChart.h; sourceTree = "<group>"; };
+		76AD33B02EE2E26800C2FDB1 /* RestoreUniqueChart.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RestoreUniqueChart.m; sourceTree = "<group>"; };
+		76AD33B12EE2E26800C2FDB1 /* RouteNotificationRectangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RouteNotificationRectangle.h; sourceTree = "<group>"; };
+		76AD33B22EE2E26800C2FDB1 /* RouteNotificationRectangle.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RouteNotificationRectangle.m; sourceTree = "<group>"; };
+		76AD33B32EE2E26800C2FDB1 /* RouterPhasePosition.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RouterPhasePosition.h; sourceTree = "<group>"; };
+		76AD33B42EE2E26800C2FDB1 /* RouterPhasePosition.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RouterPhasePosition.m; sourceTree = "<group>"; };
+		76AD33B52EE2E26800C2FDB1 /* SaveHyperbolicMission.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SaveHyperbolicMission.h; sourceTree = "<group>"; };
+		76AD33B62EE2E26800C2FDB1 /* SaveHyperbolicMission.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SaveHyperbolicMission.m; sourceTree = "<group>"; };
+		76AD33B72EE2E26800C2FDB1 /* SaveMapBuilder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SaveMapBuilder.h; sourceTree = "<group>"; };
+		76AD33B82EE2E26800C2FDB1 /* SaveMapBuilder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SaveMapBuilder.m; sourceTree = "<group>"; };
+		76AD33B92EE2E26800C2FDB1 /* SaveOpaqueTangent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SaveOpaqueTangent.h; sourceTree = "<group>"; };
+		76AD33BA2EE2E26800C2FDB1 /* SaveOpaqueTangent.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SaveOpaqueTangent.m; sourceTree = "<group>"; };
+		76AD33BB2EE2E26800C2FDB1 /* SavePrecisionRect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SavePrecisionRect.h; sourceTree = "<group>"; };
+		76AD33BC2EE2E26800C2FDB1 /* SavePrecisionRect.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SavePrecisionRect.m; sourceTree = "<group>"; };
+		76AD33BD2EE2E26800C2FDB1 /* ScaleLabelHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ScaleLabelHandler.h; sourceTree = "<group>"; };
+		76AD33BE2EE2E26800C2FDB1 /* ScaleLabelHandler.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScaleLabelHandler.m; sourceTree = "<group>"; };
+		76AD33BF2EE2E26800C2FDB1 /* ScopeEnvironmentPressure.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ScopeEnvironmentPressure.h; sourceTree = "<group>"; };
+		76AD33C02EE2E26800C2FDB1 /* ScopeEnvironmentPressure.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScopeEnvironmentPressure.m; sourceTree = "<group>"; };
+		76AD33C12EE2E26800C2FDB1 /* ScrollableProjectProvision.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ScrollableProjectProvision.h; sourceTree = "<group>"; };
+		76AD33C22EE2E26800C2FDB1 /* ScrollableProjectProvision.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollableProjectProvision.m; sourceTree = "<group>"; };
+		76AD33C32EE2E26800C2FDB1 /* ScrollViewFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ScrollViewFactory.h; sourceTree = "<group>"; };
+		76AD33C42EE2E26800C2FDB1 /* ScrollViewFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollViewFactory.m; sourceTree = "<group>"; };
+		76AD33C52EE2E26800C2FDB1 /* SemanticRestrictionStack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SemanticRestrictionStack.h; sourceTree = "<group>"; };
+		76AD33C62EE2E26800C2FDB1 /* SemanticRestrictionStack.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SemanticRestrictionStack.m; sourceTree = "<group>"; };
+		76AD33C72EE2E26800C2FDB1 /* SemanticSymbolDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SemanticSymbolDelegate.h; sourceTree = "<group>"; };
+		76AD33C82EE2E26800C2FDB1 /* SemanticSymbolDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SemanticSymbolDelegate.m; sourceTree = "<group>"; };
+		76AD33C92EE2E26800C2FDB1 /* SensorMergerExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SensorMergerExtension.h; sourceTree = "<group>"; };
+		76AD33CA2EE2E26800C2FDB1 /* SensorMergerExtension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SensorMergerExtension.m; sourceTree = "<group>"; };
+		76AD33CB2EE2E26800C2FDB1 /* SharedConsultativeColumn.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SharedConsultativeColumn.h; sourceTree = "<group>"; };
+		76AD33CC2EE2E26800C2FDB1 /* SharedConsultativeColumn.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SharedConsultativeColumn.m; sourceTree = "<group>"; };
+		76AD33CD2EE2E26800C2FDB1 /* SignificantLoopReliability.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SignificantLoopReliability.h; sourceTree = "<group>"; };
+		76AD33CE2EE2E26800C2FDB1 /* SignificantLoopReliability.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SignificantLoopReliability.m; sourceTree = "<group>"; };
+		76AD33CF2EE2E26800C2FDB1 /* SkinTransformerCollection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SkinTransformerCollection.h; sourceTree = "<group>"; };
+		76AD33D02EE2E26800C2FDB1 /* SkinTransformerCollection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SkinTransformerCollection.m; sourceTree = "<group>"; };
+		76AD33D12EE2E26800C2FDB1 /* SkipAspectratioConsumer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SkipAspectratioConsumer.h; sourceTree = "<group>"; };
+		76AD33D22EE2E26800C2FDB1 /* SkipAspectratioConsumer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SkipAspectratioConsumer.m; sourceTree = "<group>"; };
+		76AD33D32EE2E26800C2FDB1 /* SkipBitrateAsset.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SkipBitrateAsset.h; sourceTree = "<group>"; };
+		76AD33D42EE2E26800C2FDB1 /* SkipBitrateAsset.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SkipBitrateAsset.m; sourceTree = "<group>"; };
+		76AD33D52EE2E26800C2FDB1 /* SkipTableCompleter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SkipTableCompleter.h; sourceTree = "<group>"; };
+		76AD33D62EE2E26800C2FDB1 /* SkipTableCompleter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SkipTableCompleter.m; sourceTree = "<group>"; };
+		76AD33D72EE2E26800C2FDB1 /* SmallShaderStack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SmallShaderStack.h; sourceTree = "<group>"; };
+		76AD33D82EE2E26800C2FDB1 /* SmallShaderStack.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SmallShaderStack.m; sourceTree = "<group>"; };
+		76AD33D92EE2E26800C2FDB1 /* SortedBinaryState.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SortedBinaryState.h; sourceTree = "<group>"; };
+		76AD33DA2EE2E26800C2FDB1 /* SortedBinaryState.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SortedBinaryState.m; sourceTree = "<group>"; };
+		76AD33DB2EE2E26800C2FDB1 /* SpinDescriptorDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SpinDescriptorDelegate.h; sourceTree = "<group>"; };
+		76AD33DC2EE2E26800C2FDB1 /* SpinDescriptorDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpinDescriptorDelegate.m; sourceTree = "<group>"; };
+		76AD33DD2EE2E26800C2FDB1 /* SpinStreamTitle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SpinStreamTitle.h; sourceTree = "<group>"; };
+		76AD33DE2EE2E26800C2FDB1 /* SpinStreamTitle.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpinStreamTitle.m; sourceTree = "<group>"; };
+		76AD33DF2EE2E26800C2FDB1 /* StartCursorBase.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StartCursorBase.h; sourceTree = "<group>"; };
+		76AD33E02EE2E26800C2FDB1 /* StartCursorBase.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StartCursorBase.m; sourceTree = "<group>"; };
+		76AD33E12EE2E26800C2FDB1 /* StatelessBrushCollection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StatelessBrushCollection.h; sourceTree = "<group>"; };
+		76AD33E22EE2E26800C2FDB1 /* StatelessBrushCollection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StatelessBrushCollection.m; sourceTree = "<group>"; };
+		76AD33E32EE2E26800C2FDB1 /* StatelessLossCache.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StatelessLossCache.h; sourceTree = "<group>"; };
+		76AD33E42EE2E26800C2FDB1 /* StatelessLossCache.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StatelessLossCache.m; sourceTree = "<group>"; };
+		76AD33E52EE2E26800C2FDB1 /* StatelessMissedMediaquery.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StatelessMissedMediaquery.h; sourceTree = "<group>"; };
+		76AD33E62EE2E26800C2FDB1 /* StatelessMissedMediaquery.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StatelessMissedMediaquery.m; sourceTree = "<group>"; };
+		76AD33E72EE2E26800C2FDB1 /* StepParameterColor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StepParameterColor.h; sourceTree = "<group>"; };
+		76AD33E82EE2E26800C2FDB1 /* StepParameterColor.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StepParameterColor.m; sourceTree = "<group>"; };
+		76AD33E92EE2E26800C2FDB1 /* StopInstructionReducer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StopInstructionReducer.h; sourceTree = "<group>"; };
+		76AD33EA2EE2E26800C2FDB1 /* StopInstructionReducer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StopInstructionReducer.m; sourceTree = "<group>"; };
+		76AD33EB2EE2E26800C2FDB1 /* StopMapImplement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StopMapImplement.h; sourceTree = "<group>"; };
+		76AD33EC2EE2E26800C2FDB1 /* StopMapImplement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StopMapImplement.m; sourceTree = "<group>"; };
+		76AD33ED2EE2E26800C2FDB1 /* StorageCapacityReference.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StorageCapacityReference.h; sourceTree = "<group>"; };
+		76AD33EE2EE2E26800C2FDB1 /* StorageCapacityReference.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StorageCapacityReference.m; sourceTree = "<group>"; };
+		76AD33EF2EE2E26800C2FDB1 /* SubsequentRepositoryScope.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SubsequentRepositoryScope.h; sourceTree = "<group>"; };
+		76AD33F02EE2E26800C2FDB1 /* SubsequentRepositoryScope.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SubsequentRepositoryScope.m; sourceTree = "<group>"; };
+		76AD33F12EE2E26800C2FDB1 /* SubstantialFilterCreator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SubstantialFilterCreator.h; sourceTree = "<group>"; };
+		76AD33F22EE2E26800C2FDB1 /* SubstantialFilterCreator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SubstantialFilterCreator.m; sourceTree = "<group>"; };
+		76AD33F32EE2E26800C2FDB1 /* SubstantialNotationList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SubstantialNotationList.h; sourceTree = "<group>"; };
+		76AD33F42EE2E26800C2FDB1 /* SubstantialNotationList.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SubstantialNotationList.m; sourceTree = "<group>"; };
+		76AD33F52EE2E26800C2FDB1 /* SynchronousCaptionSingleton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SynchronousCaptionSingleton.h; sourceTree = "<group>"; };
+		76AD33F62EE2E26800C2FDB1 /* SynchronousCaptionSingleton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SynchronousCaptionSingleton.m; sourceTree = "<group>"; };
+		76AD33F72EE2E26800C2FDB1 /* SynchronousTechniqueSlider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SynchronousTechniqueSlider.h; sourceTree = "<group>"; };
+		76AD33F82EE2E26800C2FDB1 /* SynchronousTechniqueSlider.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SynchronousTechniqueSlider.m; sourceTree = "<group>"; };
+		76AD33F92EE2E26800C2FDB1 /* SyncSampleInfrastructure.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SyncSampleInfrastructure.h; sourceTree = "<group>"; };
+		76AD33FA2EE2E26800C2FDB1 /* SyncSampleInfrastructure.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SyncSampleInfrastructure.m; sourceTree = "<group>"; };
+		76AD33FB2EE2E26800C2FDB1 /* TableTaskType.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableTaskType.h; sourceTree = "<group>"; };
+		76AD33FC2EE2E26800C2FDB1 /* TableTaskType.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableTaskType.m; sourceTree = "<group>"; };
+		76AD33FD2EE2E26800C2FDB1 /* TaxonomySystemScale.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TaxonomySystemScale.h; sourceTree = "<group>"; };
+		76AD33FE2EE2E26800C2FDB1 /* TaxonomySystemScale.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TaxonomySystemScale.m; sourceTree = "<group>"; };
+		76AD33FF2EE2E26800C2FDB1 /* TechniquePatternTension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TechniquePatternTension.h; sourceTree = "<group>"; };
+		76AD34002EE2E26800C2FDB1 /* TechniquePatternTension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TechniquePatternTension.m; sourceTree = "<group>"; };
+		76AD34012EE2E26800C2FDB1 /* TechniqueResultInstance.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TechniqueResultInstance.h; sourceTree = "<group>"; };
+		76AD34022EE2E26800C2FDB1 /* TechniqueResultInstance.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TechniqueResultInstance.m; sourceTree = "<group>"; };
+		76AD34032EE2E26800C2FDB1 /* TextureAnalogyCreator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TextureAnalogyCreator.h; sourceTree = "<group>"; };
+		76AD34042EE2E26800C2FDB1 /* TextureAnalogyCreator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TextureAnalogyCreator.m; sourceTree = "<group>"; };
+		76AD34052EE2E26800C2FDB1 /* ThroughputNumberDirection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThroughputNumberDirection.h; sourceTree = "<group>"; };
+		76AD34062EE2E26800C2FDB1 /* ThroughputNumberDirection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThroughputNumberDirection.m; sourceTree = "<group>"; };
+		76AD34072EE2E26800C2FDB1 /* ToolFunctionRate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ToolFunctionRate.h; sourceTree = "<group>"; };
+		76AD34082EE2E26800C2FDB1 /* ToolFunctionRate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToolFunctionRate.m; sourceTree = "<group>"; };
+		76AD34092EE2E26800C2FDB1 /* ToRepositoryAmortization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ToRepositoryAmortization.h; sourceTree = "<group>"; };
+		76AD340A2EE2E26800C2FDB1 /* ToRepositoryAmortization.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToRepositoryAmortization.m; sourceTree = "<group>"; };
+		76AD340B2EE2E26800C2FDB1 /* TransformEqualizationBinder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TransformEqualizationBinder.h; sourceTree = "<group>"; };
+		76AD340C2EE2E26800C2FDB1 /* TransformEqualizationBinder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TransformEqualizationBinder.m; sourceTree = "<group>"; };
+		76AD340D2EE2E26800C2FDB1 /* TweenAnimatorFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TweenAnimatorFactory.h; sourceTree = "<group>"; };
+		76AD340E2EE2E26800C2FDB1 /* TweenAnimatorFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TweenAnimatorFactory.m; sourceTree = "<group>"; };
+		76AD340F2EE2E26800C2FDB1 /* TypicalFinalIcon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TypicalFinalIcon.h; sourceTree = "<group>"; };
+		76AD34102EE2E26800C2FDB1 /* TypicalFinalIcon.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TypicalFinalIcon.m; sourceTree = "<group>"; };
+		76AD34112EE2E26800C2FDB1 /* TypicalProtocolMesh.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TypicalProtocolMesh.h; sourceTree = "<group>"; };
+		76AD34122EE2E26800C2FDB1 /* TypicalProtocolMesh.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TypicalProtocolMesh.m; sourceTree = "<group>"; };
+		76AD34132EE2E26800C2FDB1 /* UnderImageTopic.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UnderImageTopic.h; sourceTree = "<group>"; };
+		76AD34142EE2E26800C2FDB1 /* UnderImageTopic.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UnderImageTopic.m; sourceTree = "<group>"; };
+		76AD34152EE2E26800C2FDB1 /* UnsortedVertexFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UnsortedVertexFactory.h; sourceTree = "<group>"; };
+		76AD34162EE2E26800C2FDB1 /* UnsortedVertexFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UnsortedVertexFactory.m; sourceTree = "<group>"; };
+		76AD34172EE2E26800C2FDB1 /* ViewControllerDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewControllerDelegate.h; sourceTree = "<group>"; };
+		76AD34182EE2E26800C2FDB1 /* ViewControllerDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewControllerDelegate.m; sourceTree = "<group>"; };
+		76AD34192EE2E26800C2FDB1 /* VisibleAccessoryView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VisibleAccessoryView.h; sourceTree = "<group>"; };
+		76AD341A2EE2E26800C2FDB1 /* VisibleAccessoryView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VisibleAccessoryView.m; sourceTree = "<group>"; };
+		76AD341B2EE2E26800C2FDB1 /* WebBandwidthCache.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebBandwidthCache.h; sourceTree = "<group>"; };
+		76AD341C2EE2E26800C2FDB1 /* WebBandwidthCache.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebBandwidthCache.m; sourceTree = "<group>"; };
+		76AD341D2EE2E26800C2FDB1 /* WithinConfigurationRange.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WithinConfigurationRange.h; sourceTree = "<group>"; };
+		76AD341E2EE2E26800C2FDB1 /* WithinConfigurationRange.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WithinConfigurationRange.m; sourceTree = "<group>"; };
+		76AD341F2EE2E26800C2FDB1 /* WithoutSizeTime.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WithoutSizeTime.h; sourceTree = "<group>"; };
+		76AD34202EE2E26800C2FDB1 /* WithoutSizeTime.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WithoutSizeTime.m; sourceTree = "<group>"; };
+		76AD34212EE2E26800C2FDB1 /* WrapActivePreview.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WrapActivePreview.h; sourceTree = "<group>"; };
+		76AD34222EE2E26800C2FDB1 /* WrapActivePreview.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WrapActivePreview.m; sourceTree = "<group>"; };
+		76AD34232EE2E26800C2FDB1 /* YieldApertureAdapter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YieldApertureAdapter.h; sourceTree = "<group>"; };
+		76AD34242EE2E26800C2FDB1 /* YieldApertureAdapter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YieldApertureAdapter.m; sourceTree = "<group>"; };
+		76AD35242EE2E3CA00C2FDB1 /* LastGestureDirection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastGestureDirection.swift; sourceTree = "<group>"; };
+		76AD35262EE2E3CD00C2FDB1 /* MenuBridgeCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBridgeCount.swift; sourceTree = "<group>"; };
+		76AD35282EE2E3D000C2FDB1 /* RetainedEventBehavior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetainedEventBehavior.swift; sourceTree = "<group>"; };
+		76AD352A2EE2E3D300C2FDB1 /* FilterDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterDelegate.swift; sourceTree = "<group>"; };
+		76AD352C2EE2E3D600C2FDB1 /* MobileConstraintSpeed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobileConstraintSpeed.swift; sourceTree = "<group>"; };
+		76AD352E2EE2E3D900C2FDB1 /* BigDelegateHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigDelegateHandler.swift; sourceTree = "<group>"; };
+		76AD35302EE2E3DC00C2FDB1 /* RadiusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadiusViewController.swift; sourceTree = "<group>"; };
+		76AD35322EE2E3DF00C2FDB1 /* DimensionByCycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DimensionByCycle.swift; sourceTree = "<group>"; };
+		76AD35342EE2E3E200C2FDB1 /* RunRequestTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunRequestTool.swift; sourceTree = "<group>"; };
+		76AD35362EE2E3E500C2FDB1 /* BorderVersusNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderVersusNumber.swift; sourceTree = "<group>"; };
+		76AD35382EE2E3E900C2FDB1 /* MicManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MicManager.swift; sourceTree = "<group>"; };
+		76AD353A2EE2E3EC00C2FDB1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		7AFA3C8E1D35360C0083082E /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Release.xcconfig; path = Flutter/Release.xcconfig; sourceTree = "<group>"; };
 		9740EEB21CF90195004384FC /* Debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Debug.xcconfig; path = Flutter/Debug.xcconfig; sourceTree = "<group>"; };
 		9740EEB31CF90195004384FC /* Generated.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Generated.xcconfig; path = Flutter/Generated.xcconfig; sourceTree = "<group>"; };
@@ -87,6 +872,520 @@
 			path = RunnerTests;
 			sourceTree = "<group>";
 		};
+		76AD34252EE2E26800C2FDB1 /* LimitDiversifiedAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				76AD322A2EE2E26800C2FDB1 /* AboveTweenFilter.h */,
+				76AD322B2EE2E26800C2FDB1 /* AboveTweenFilter.m */,
+				76AD322C2EE2E26800C2FDB1 /* AccordionHistogramHelper.h */,
+				76AD322D2EE2E26800C2FDB1 /* AccordionHistogramHelper.m */,
+				76AD322E2EE2E26800C2FDB1 /* ActivatedContainerOccasion.h */,
+				76AD322F2EE2E26800C2FDB1 /* ActivatedContainerOccasion.m */,
+				76AD32302EE2E26800C2FDB1 /* ActivatedPrevProjection.h */,
+				76AD32312EE2E26800C2FDB1 /* ActivatedPrevProjection.m */,
+				76AD32322EE2E26800C2FDB1 /* ActivatedUsecaseArray.h */,
+				76AD32332EE2E26800C2FDB1 /* ActivatedUsecaseArray.m */,
+				76AD32342EE2E26800C2FDB1 /* AdaptiveUniformGraphic.h */,
+				76AD32352EE2E26800C2FDB1 /* AdaptiveUniformGraphic.m */,
+				76AD32362EE2E26800C2FDB1 /* AdvancedSoundInstance.h */,
+				76AD32372EE2E26800C2FDB1 /* AdvancedSoundInstance.m */,
+				76AD32382EE2E26800C2FDB1 /* AfterEquipmentAsync.h */,
+				76AD32392EE2E26800C2FDB1 /* AfterEquipmentAsync.m */,
+				76AD323A2EE2E26800C2FDB1 /* AgileCollectionShape.h */,
+				76AD323B2EE2E26800C2FDB1 /* AgileCollectionShape.m */,
+				76AD323C2EE2E26800C2FDB1 /* AlignmentWorkInterval.h */,
+				76AD323D2EE2E26800C2FDB1 /* AlignmentWorkInterval.m */,
+				76AD323E2EE2E26800C2FDB1 /* AllocateClipperPreview.h */,
+				76AD323F2EE2E26800C2FDB1 /* AllocateClipperPreview.m */,
+				76AD32402EE2E26800C2FDB1 /* AllocatorActionDensity.h */,
+				76AD32412EE2E26800C2FDB1 /* AllocatorActionDensity.m */,
+				76AD32422EE2E26800C2FDB1 /* ApertureResponseCollection.h */,
+				76AD32432EE2E26800C2FDB1 /* ApertureResponseCollection.m */,
+				76AD32442EE2E26800C2FDB1 /* ArithmeticStateDelegate.h */,
+				76AD32452EE2E26800C2FDB1 /* ArithmeticStateDelegate.m */,
+				76AD32462EE2E26800C2FDB1 /* AugmentSymbolType.h */,
+				76AD32472EE2E26800C2FDB1 /* AugmentSymbolType.m */,
+				76AD32482EE2E26800C2FDB1 /* AutoZoneArray.h */,
+				76AD32492EE2E26800C2FDB1 /* AutoZoneArray.m */,
+				76AD324A2EE2E26800C2FDB1 /* AwaitSegueCreator.h */,
+				76AD324B2EE2E26800C2FDB1 /* AwaitSegueCreator.m */,
+				76AD324C2EE2E26800C2FDB1 /* BasicEffectHandler.h */,
+				76AD324D2EE2E26800C2FDB1 /* BasicEffectHandler.m */,
+				76AD324E2EE2E26800C2FDB1 /* BasicEntropyTransformer.h */,
+				76AD324F2EE2E26800C2FDB1 /* BasicEntropyTransformer.m */,
+				76AD32502EE2E26800C2FDB1 /* BelowTableService.h */,
+				76AD32512EE2E26800C2FDB1 /* BelowTableService.m */,
+				76AD32522EE2E26800C2FDB1 /* BenchmarkGrayscaleLayout.h */,
+				76AD32532EE2E26800C2FDB1 /* BenchmarkGrayscaleLayout.m */,
+				76AD32542EE2E26800C2FDB1 /* BetweenLogarithmConfidentiality.h */,
+				76AD32552EE2E26800C2FDB1 /* BetweenLogarithmConfidentiality.m */,
+				76AD32562EE2E26800C2FDB1 /* BetweenMovementState.h */,
+				76AD32572EE2E26800C2FDB1 /* BetweenMovementState.m */,
+				76AD32582EE2E26800C2FDB1 /* BetweenStateModel.h */,
+				76AD32592EE2E26800C2FDB1 /* BetweenStateModel.m */,
+				76AD325A2EE2E26800C2FDB1 /* BlocLoaderCreator.h */,
+				76AD325B2EE2E26800C2FDB1 /* BlocLoaderCreator.m */,
+				76AD325C2EE2E26800C2FDB1 /* BlocReliabilityCreator.h */,
+				76AD325D2EE2E26800C2FDB1 /* BlocReliabilityCreator.m */,
+				76AD325E2EE2E26800C2FDB1 /* BoxStateFrequency.h */,
+				76AD325F2EE2E26800C2FDB1 /* BoxStateFrequency.m */,
+				76AD32602EE2E26800C2FDB1 /* BoxTentativeBase.h */,
+				76AD32612EE2E26800C2FDB1 /* BoxTentativeBase.m */,
+				76AD32622EE2E26800C2FDB1 /* ByExtensionEffect.h */,
+				76AD32632EE2E26800C2FDB1 /* ByExtensionEffect.m */,
+				76AD32642EE2E26800C2FDB1 /* BySpotRouter.h */,
+				76AD32652EE2E26800C2FDB1 /* BySpotRouter.m */,
+				76AD32662EE2E26800C2FDB1 /* CharacteristicFlyweightDensity.h */,
+				76AD32672EE2E26800C2FDB1 /* CharacteristicFlyweightDensity.m */,
+				76AD32682EE2E26800C2FDB1 /* CheckTextfieldFormat.h */,
+				76AD32692EE2E26800C2FDB1 /* CheckTextfieldFormat.m */,
+				76AD326A2EE2E26800C2FDB1 /* CleanScrollTrajectory.h */,
+				76AD326B2EE2E26800C2FDB1 /* CleanScrollTrajectory.m */,
+				76AD326C2EE2E26800C2FDB1 /* ClipMonsterInterface.h */,
+				76AD326D2EE2E26800C2FDB1 /* ClipMonsterInterface.m */,
+				76AD326E2EE2E26800C2FDB1 /* CommandTypeInteraction.h */,
+				76AD326F2EE2E26800C2FDB1 /* CommandTypeInteraction.m */,
+				76AD32702EE2E26800C2FDB1 /* ComparePositionedPosition.h */,
+				76AD32712EE2E26800C2FDB1 /* ComparePositionedPosition.m */,
+				76AD32722EE2E26800C2FDB1 /* CompletionActionBorder.h */,
+				76AD32732EE2E26800C2FDB1 /* CompletionActionBorder.m */,
+				76AD32742EE2E26800C2FDB1 /* CompletionEffectFactory.h */,
+				76AD32752EE2E26800C2FDB1 /* CompletionEffectFactory.m */,
+				76AD32762EE2E26800C2FDB1 /* ComprehensiveReactiveModal.h */,
+				76AD32772EE2E26800C2FDB1 /* ComprehensiveReactiveModal.m */,
+				76AD32782EE2E26800C2FDB1 /* ConcurrentCommandDispatcher.h */,
+				76AD32792EE2E26800C2FDB1 /* ConcurrentCommandDispatcher.m */,
+				76AD327A2EE2E26800C2FDB1 /* ConfigureButtonObserver.h */,
+				76AD327B2EE2E26800C2FDB1 /* ConfigureButtonObserver.m */,
+				76AD327C2EE2E26800C2FDB1 /* ConfigureCertificateLocalization.h */,
+				76AD327D2EE2E26800C2FDB1 /* ConfigureCertificateLocalization.m */,
+				76AD327E2EE2E26800C2FDB1 /* ConfigureConvolutionType.h */,
+				76AD327F2EE2E26800C2FDB1 /* ConfigureConvolutionType.m */,
+				76AD32802EE2E26800C2FDB1 /* ContinueCaptionStore.h */,
+				76AD32812EE2E26800C2FDB1 /* ContinueCaptionStore.m */,
+				76AD32822EE2E26800C2FDB1 /* CrudeInkwellButton.h */,
+				76AD32832EE2E26800C2FDB1 /* CrudeInkwellButton.m */,
+				76AD32842EE2E26800C2FDB1 /* CurrentCapacitiesCallback.h */,
+				76AD32852EE2E26800C2FDB1 /* CurrentCapacitiesCallback.m */,
+				76AD32862EE2E26800C2FDB1 /* CurrentSkirtArray.h */,
+				76AD32872EE2E26800C2FDB1 /* CurrentSkirtArray.m */,
+				76AD32882EE2E26800C2FDB1 /* CustomizedZoneHelper.h */,
+				76AD32892EE2E26800C2FDB1 /* CustomizedZoneHelper.m */,
+				76AD328A2EE2E26800C2FDB1 /* CustomModalReducer.h */,
+				76AD328B2EE2E26800C2FDB1 /* CustomModalReducer.m */,
+				76AD328C2EE2E26800C2FDB1 /* DedicatedMusicSelector.h */,
+				76AD328D2EE2E26800C2FDB1 /* DedicatedMusicSelector.m */,
+				76AD328E2EE2E26800C2FDB1 /* DiffableChannelEmitter.h */,
+				76AD328F2EE2E26800C2FDB1 /* DiffableChannelEmitter.m */,
+				76AD32902EE2E26800C2FDB1 /* DisconnectCoordinatorTitle.h */,
+				76AD32912EE2E26800C2FDB1 /* DisconnectCoordinatorTitle.m */,
+				76AD32922EE2E26800C2FDB1 /* DisconnectEnabledRadius.h */,
+				76AD32932EE2E26800C2FDB1 /* DisconnectEnabledRadius.m */,
+				76AD32942EE2E26800C2FDB1 /* DisposeAspectHandler.h */,
+				76AD32952EE2E26800C2FDB1 /* DisposeAspectHandler.m */,
+				76AD32962EE2E26800C2FDB1 /* DisposeMobxRenderer.h */,
+				76AD32972EE2E26800C2FDB1 /* DisposeMobxRenderer.m */,
+				76AD32982EE2E26800C2FDB1 /* DiversifiedNavigatorProtocol.h */,
+				76AD32992EE2E26800C2FDB1 /* DiversifiedNavigatorProtocol.m */,
+				76AD329A2EE2E26800C2FDB1 /* DownColumnObserver.h */,
+				76AD329B2EE2E26800C2FDB1 /* DownColumnObserver.m */,
+				76AD329C2EE2E26800C2FDB1 /* DownHeroDetail.h */,
+				76AD329D2EE2E26800C2FDB1 /* DownHeroDetail.m */,
+				76AD329E2EE2E26800C2FDB1 /* DownLoopSound.h */,
+				76AD329F2EE2E26800C2FDB1 /* DownLoopSound.m */,
+				76AD32A02EE2E26800C2FDB1 /* DraggableMediumEvent.h */,
+				76AD32A12EE2E26800C2FDB1 /* DraggableMediumEvent.m */,
+				76AD32A22EE2E26800C2FDB1 /* DurationEventArray.h */,
+				76AD32A32EE2E26800C2FDB1 /* DurationEventArray.m */,
+				76AD32A42EE2E26800C2FDB1 /* DynamicErrorSubscriber.h */,
+				76AD32A52EE2E26800C2FDB1 /* DynamicErrorSubscriber.m */,
+				76AD32A62EE2E26800C2FDB1 /* EagerHistogramRepository.h */,
+				76AD32A72EE2E26800C2FDB1 /* EagerHistogramRepository.m */,
+				76AD32A82EE2E26800C2FDB1 /* EasyIntegerTicker.h */,
+				76AD32A92EE2E26800C2FDB1 /* EasyIntegerTicker.m */,
+				76AD32AA2EE2E26800C2FDB1 /* EnabledObserverType.h */,
+				76AD32AB2EE2E26800C2FDB1 /* EnabledObserverType.m */,
+				76AD32AC2EE2E26800C2FDB1 /* EnabledZoneWrapper.h */,
+				76AD32AD2EE2E26800C2FDB1 /* EnabledZoneWrapper.m */,
+				76AD32AE2EE2E26800C2FDB1 /* EncodeProtocolResolver.h */,
+				76AD32AF2EE2E26800C2FDB1 /* EncodeProtocolResolver.m */,
+				76AD32B02EE2E26800C2FDB1 /* EntropyKindTag.h */,
+				76AD32B12EE2E26800C2FDB1 /* EntropyKindTag.m */,
+				76AD32B22EE2E26800C2FDB1 /* ErrorPhaseDelay.h */,
+				76AD32B32EE2E26800C2FDB1 /* ErrorPhaseDelay.m */,
+				76AD32B42EE2E26800C2FDB1 /* ExitSubsequentFactory.h */,
+				76AD32B52EE2E26800C2FDB1 /* ExitSubsequentFactory.m */,
+				76AD32B62EE2E26800C2FDB1 /* ExplicitSubpixelRect.h */,
+				76AD32B72EE2E26800C2FDB1 /* ExplicitSubpixelRect.m */,
+				76AD32B82EE2E26800C2FDB1 /* ExtensionSingletonSaturation.h */,
+				76AD32B92EE2E26800C2FDB1 /* ExtensionSingletonSaturation.m */,
+				76AD32BA2EE2E26800C2FDB1 /* FindStepDelegate.h */,
+				76AD32BB2EE2E26800C2FDB1 /* FindStepDelegate.m */,
+				76AD32BC2EE2E26800C2FDB1 /* FinishResourceDuration.h */,
+				76AD32BD2EE2E26800C2FDB1 /* FinishResourceDuration.m */,
+				76AD32BE2EE2E26800C2FDB1 /* FirstStaticError.h */,
+				76AD32BF2EE2E26800C2FDB1 /* FirstStaticError.m */,
+				76AD32C02EE2E26800C2FDB1 /* FormatIndependentGradient.h */,
+				76AD32C12EE2E26800C2FDB1 /* FormatIndependentGradient.m */,
+				76AD32C22EE2E26800C2FDB1 /* FragmentImageHelper.h */,
+				76AD32C32EE2E26800C2FDB1 /* FragmentImageHelper.m */,
+				76AD32C42EE2E26800C2FDB1 /* FramePainterObserver.h */,
+				76AD32C52EE2E26800C2FDB1 /* FramePainterObserver.m */,
+				76AD32C62EE2E26800C2FDB1 /* FrameStructureBound.h */,
+				76AD32C72EE2E26800C2FDB1 /* FrameStructureBound.m */,
+				76AD32C82EE2E26800C2FDB1 /* FreeActivityLabel.h */,
+				76AD32C92EE2E26800C2FDB1 /* FreeActivityLabel.m */,
+				76AD32CA2EE2E26800C2FDB1 /* FromInterpolationBinder.h */,
+				76AD32CB2EE2E26800C2FDB1 /* FromInterpolationBinder.m */,
+				76AD32CC2EE2E26800C2FDB1 /* FromModulusScalability.h */,
+				76AD32CD2EE2E26800C2FDB1 /* FromModulusScalability.m */,
+				76AD32CE2EE2E26800C2FDB1 /* FromRepositorySound.h */,
+				76AD32CF2EE2E26800C2FDB1 /* FromRepositorySound.m */,
+				76AD32D02EE2E26800C2FDB1 /* FromTableAllocator.h */,
+				76AD32D12EE2E26800C2FDB1 /* FromTableAllocator.m */,
+				76AD32D22EE2E26800C2FDB1 /* FunctionalInstructionVideo.h */,
+				76AD32D32EE2E26800C2FDB1 /* FunctionalInstructionVideo.m */,
+				76AD32D42EE2E26800C2FDB1 /* FutureSliderExtension.h */,
+				76AD32D52EE2E26800C2FDB1 /* FutureSliderExtension.m */,
+				76AD32D62EE2E26800C2FDB1 /* GenerateIntuitiveCommand.h */,
+				76AD32D72EE2E26800C2FDB1 /* GenerateIntuitiveCommand.m */,
+				76AD32D82EE2E26800C2FDB1 /* GeometricClipperStack.h */,
+				76AD32D92EE2E26800C2FDB1 /* GeometricClipperStack.m */,
+				76AD32DA2EE2E26800C2FDB1 /* GranularIntuitiveVariant.h */,
+				76AD32DB2EE2E26800C2FDB1 /* GranularIntuitiveVariant.m */,
+				76AD32DC2EE2E26800C2FDB1 /* GraphicDescriptionFilter.h */,
+				76AD32DD2EE2E26800C2FDB1 /* GraphicDescriptionFilter.m */,
+				76AD32DE2EE2E26800C2FDB1 /* GraphicJobRight.h */,
+				76AD32DF2EE2E26800C2FDB1 /* GraphicJobRight.m */,
+				76AD32E02EE2E26800C2FDB1 /* HandleAdvancedExtension.h */,
+				76AD32E12EE2E26800C2FDB1 /* HandleAdvancedExtension.m */,
+				76AD32E22EE2E26800C2FDB1 /* HandleToolCreator.h */,
+				76AD32E32EE2E26800C2FDB1 /* HandleToolCreator.m */,
+				76AD32E42EE2E26800C2FDB1 /* HashWorkColor.h */,
+				76AD32E52EE2E26800C2FDB1 /* HashWorkColor.m */,
+				76AD32E62EE2E26800C2FDB1 /* IgnoredLifecycleType.h */,
+				76AD32E72EE2E26800C2FDB1 /* IgnoredLifecycleType.m */,
+				76AD32E82EE2E26800C2FDB1 /* InBuilderParticle.h */,
+				76AD32E92EE2E26800C2FDB1 /* InBuilderParticle.m */,
+				76AD32EA2EE2E26800C2FDB1 /* InflateParallelQueue.h */,
+				76AD32EB2EE2E26800C2FDB1 /* InflateParallelQueue.m */,
+				76AD32EC2EE2E26800C2FDB1 /* InNotificationTimer.h */,
+				76AD32ED2EE2E26800C2FDB1 /* InNotificationTimer.m */,
+				76AD32EE2EE2E26800C2FDB1 /* InProtocolDelegate.h */,
+				76AD32EF2EE2E26800C2FDB1 /* InProtocolDelegate.m */,
+				76AD32F02EE2E26800C2FDB1 /* InstantiateAccessoryModel.h */,
+				76AD32F12EE2E26800C2FDB1 /* InstantiateAccessoryModel.m */,
+				76AD32F22EE2E26800C2FDB1 /* InTangentModel.h */,
+				76AD32F32EE2E26800C2FDB1 /* InTangentModel.m */,
+				76AD32F42EE2E26800C2FDB1 /* IntegerScopeInteraction.bundle */,
+				76AD32F52EE2E26800C2FDB1 /* IntoDelegateCluster.h */,
+				76AD32F62EE2E26800C2FDB1 /* IntoDelegateCluster.m */,
+				76AD32F72EE2E26800C2FDB1 /* InTopicState.h */,
+				76AD32F82EE2E26800C2FDB1 /* InTopicState.m */,
+				76AD32F92EE2E26800C2FDB1 /* IntoSizeState.h */,
+				76AD32FA2EE2E26800C2FDB1 /* IntoSizeState.m */,
+				76AD32FB2EE2E26800C2FDB1 /* IntoSwiftPolyfill.h */,
+				76AD32FC2EE2E26800C2FDB1 /* IntoSwiftPolyfill.m */,
+				76AD32FD2EE2E26800C2FDB1 /* InvisibleRoleRow.h */,
+				76AD32FE2EE2E26800C2FDB1 /* InvisibleRoleRow.m */,
+				76AD32FF2EE2E26800C2FDB1 /* IsolateTrajectoryPool.h */,
+				76AD33002EE2E26800C2FDB1 /* IsolateTrajectoryPool.m */,
+				76AD33012EE2E26800C2FDB1 /* KeepApertureElasticity.h */,
+				76AD33022EE2E26800C2FDB1 /* KeepApertureElasticity.m */,
+				76AD33032EE2E26800C2FDB1 /* KeyGetxState.h */,
+				76AD33042EE2E26800C2FDB1 /* KeyGetxState.m */,
+				76AD33052EE2E26800C2FDB1 /* KeyProviderQueue.h */,
+				76AD33062EE2E26800C2FDB1 /* KeyProviderQueue.m */,
+				76AD33072EE2E26800C2FDB1 /* LastApertureCollection.h */,
+				76AD33082EE2E26800C2FDB1 /* LastApertureCollection.m */,
+				76AD33092EE2E26800C2FDB1 /* ListenViewCreator.h */,
+				76AD330A2EE2E26800C2FDB1 /* ListenViewCreator.m */,
+				76AD330B2EE2E26800C2FDB1 /* LoadArithmeticImplement.h */,
+				76AD330C2EE2E26800C2FDB1 /* LoadArithmeticImplement.m */,
+				76AD330D2EE2E26800C2FDB1 /* LoadIndependentCoordinator.h */,
+				76AD330E2EE2E26800C2FDB1 /* LoadIndependentCoordinator.m */,
+				76AD330F2EE2E26800C2FDB1 /* LoadPlaybackCubit.h */,
+				76AD33102EE2E26800C2FDB1 /* LoadPlaybackCubit.m */,
+				76AD33112EE2E26800C2FDB1 /* LocalizationOperationKind.h */,
+				76AD33122EE2E26800C2FDB1 /* LocalizationOperationKind.m */,
+				76AD33132EE2E26800C2FDB1 /* LockDynamicManager.h */,
+				76AD33142EE2E26800C2FDB1 /* LockDynamicManager.m */,
+				76AD33152EE2E26800C2FDB1 /* MainErrorCapacity.h */,
+				76AD33162EE2E26800C2FDB1 /* MainErrorCapacity.m */,
+				76AD33172EE2E26800C2FDB1 /* MainObserverHelper.h */,
+				76AD33182EE2E26800C2FDB1 /* MainObserverHelper.m */,
+				76AD33192EE2E26800C2FDB1 /* MarkExponentDecorator.h */,
+				76AD331A2EE2E26800C2FDB1 /* MarkExponentDecorator.m */,
+				76AD331B2EE2E26800C2FDB1 /* MarkMobxConsumption.h */,
+				76AD331C2EE2E26800C2FDB1 /* MarkMobxConsumption.m */,
+				76AD331D2EE2E26800C2FDB1 /* MasterCreatorFactory.h */,
+				76AD331E2EE2E26800C2FDB1 /* MasterCreatorFactory.m */,
+				76AD331F2EE2E26800C2FDB1 /* MaterialVariableInset.h */,
+				76AD33202EE2E26800C2FDB1 /* MaterialVariableInset.m */,
+				76AD33212EE2E26800C2FDB1 /* MediaReducerExtension.h */,
+				76AD33222EE2E26800C2FDB1 /* MediaReducerExtension.m */,
+				76AD33232EE2E26800C2FDB1 /* MediocreTemporaryCallback.h */,
+				76AD33242EE2E26800C2FDB1 /* MediocreTemporaryCallback.m */,
+				76AD33252EE2E26800C2FDB1 /* MediumMasterPreview.h */,
+				76AD33262EE2E26800C2FDB1 /* MediumMasterPreview.m */,
+				76AD33272EE2E26800C2FDB1 /* MixinKeyIntensity.h */,
+				76AD33282EE2E26800C2FDB1 /* MixinKeyIntensity.m */,
+				76AD33292EE2E26800C2FDB1 /* ModalPatternScale.h */,
+				76AD332A2EE2E26800C2FDB1 /* ModalPatternScale.m */,
+				76AD332B2EE2E26800C2FDB1 /* MountConstraintResource.h */,
+				76AD332C2EE2E26800C2FDB1 /* MountConstraintResource.m */,
+				76AD332D2EE2E26800C2FDB1 /* MountConsultativeScaffold.h */,
+				76AD332E2EE2E26800C2FDB1 /* MountConsultativeScaffold.m */,
+				76AD332F2EE2E26800C2FDB1 /* MultiTrianglesList.h */,
+				76AD33302EE2E26800C2FDB1 /* MultiTrianglesList.m */,
+				76AD33312EE2E26800C2FDB1 /* NativeProtectedBuilder.h */,
+				76AD33322EE2E26800C2FDB1 /* NativeProtectedBuilder.m */,
+				76AD33332EE2E26800C2FDB1 /* NavigateAppbarMetadata.h */,
+				76AD33342EE2E26800C2FDB1 /* NavigateAppbarMetadata.m */,
+				76AD33352EE2E26800C2FDB1 /* NavigateDedicatedBuilder.h */,
+				76AD33362EE2E26800C2FDB1 /* NavigateDedicatedBuilder.m */,
+				76AD33372EE2E26800C2FDB1 /* NewestConsumerSchema.h */,
+				76AD33382EE2E26800C2FDB1 /* NewestConsumerSchema.m */,
+				76AD33392EE2E26800C2FDB1 /* NodeClusterHandler.h */,
+				76AD333A2EE2E26800C2FDB1 /* NodeClusterHandler.m */,
+				76AD333B2EE2E26800C2FDB1 /* NodeFormName.h */,
+				76AD333C2EE2E26800C2FDB1 /* NodeFormName.m */,
+				76AD333D2EE2E26800C2FDB1 /* NodeProvisionHelper.h */,
+				76AD333E2EE2E26800C2FDB1 /* NodeProvisionHelper.m */,
+				76AD333F2EE2E26800C2FDB1 /* NormalActivityProtocol.h */,
+				76AD33402EE2E26800C2FDB1 /* NormalActivityProtocol.m */,
+				76AD33412EE2E26800C2FDB1 /* NormalCompletionDisclaimer.h */,
+				76AD33422EE2E26800C2FDB1 /* NormalCompletionDisclaimer.m */,
+				76AD33432EE2E26800C2FDB1 /* NotifierProcessorHandler.h */,
+				76AD33442EE2E26800C2FDB1 /* NotifierProcessorHandler.m */,
+				76AD33452EE2E26800C2FDB1 /* ObserveAspectratioDelegate.h */,
+				76AD33462EE2E26800C2FDB1 /* ObserveAspectratioDelegate.m */,
+				76AD33472EE2E26800C2FDB1 /* OffDecorationSorter.h */,
+				76AD33482EE2E26800C2FDB1 /* OffDecorationSorter.m */,
+				76AD33492EE2E26800C2FDB1 /* OldIntensityAdapter.h */,
+				76AD334A2EE2E26800C2FDB1 /* OldIntensityAdapter.m */,
+				76AD334B2EE2E26800C2FDB1 /* OnGrainData.h */,
+				76AD334C2EE2E26800C2FDB1 /* OnGrainData.m */,
+				76AD334D2EE2E26800C2FDB1 /* OnLogarithmEffect.h */,
+				76AD334E2EE2E26800C2FDB1 /* OnLogarithmEffect.m */,
+				76AD334F2EE2E26800C2FDB1 /* OntoClipperSlider.h */,
+				76AD33502EE2E26800C2FDB1 /* OntoClipperSlider.m */,
+				76AD33512EE2E26800C2FDB1 /* OpaqueNormItem.h */,
+				76AD33522EE2E26800C2FDB1 /* OpaqueNormItem.m */,
+				76AD33532EE2E26800C2FDB1 /* OutEffectEntity.h */,
+				76AD33542EE2E26800C2FDB1 /* OutEffectEntity.m */,
+				76AD33552EE2E26800C2FDB1 /* OutGemAwait.h */,
+				76AD33562EE2E26800C2FDB1 /* OutGemAwait.m */,
+				76AD33572EE2E26800C2FDB1 /* OverAsyncTexture.h */,
+				76AD33582EE2E26800C2FDB1 /* OverAsyncTexture.m */,
+				76AD33592EE2E26800C2FDB1 /* OverPetSlider.h */,
+				76AD335A2EE2E26800C2FDB1 /* OverPetSlider.m */,
+				76AD335B2EE2E26800C2FDB1 /* PagerActionTheme.h */,
+				76AD335C2EE2E26800C2FDB1 /* PagerActionTheme.m */,
+				76AD335D2EE2E26800C2FDB1 /* PauseIndependentLog.h */,
+				76AD335E2EE2E26800C2FDB1 /* PauseIndependentLog.m */,
+				76AD335F2EE2E26800C2FDB1 /* PauseProjectCreator.h */,
+				76AD33602EE2E26800C2FDB1 /* PauseProjectCreator.m */,
+				76AD33612EE2E26800C2FDB1 /* PauseTemporaryMedia.h */,
+				76AD33622EE2E26800C2FDB1 /* PauseTemporaryMedia.m */,
+				76AD33632EE2E26800C2FDB1 /* PermissivePolygonOwner.h */,
+				76AD33642EE2E26800C2FDB1 /* PermissivePolygonOwner.m */,
+				76AD33652EE2E26800C2FDB1 /* PermutationTempleStatus.h */,
+				76AD33662EE2E26800C2FDB1 /* PermutationTempleStatus.m */,
+				76AD33672EE2E26800C2FDB1 /* PersistAgileCycle.h */,
+				76AD33682EE2E26800C2FDB1 /* PersistAgileCycle.m */,
+				76AD33692EE2E26800C2FDB1 /* PinchableKernelContainer.h */,
+				76AD336A2EE2E26800C2FDB1 /* PinchableKernelContainer.m */,
+				76AD336B2EE2E26800C2FDB1 /* PlaybackNodeReference.h */,
+				76AD336C2EE2E26800C2FDB1 /* PlaybackNodeReference.m */,
+				76AD336D2EE2E26800C2FDB1 /* PlayCrudeIsolate.h */,
+				76AD336E2EE2E26800C2FDB1 /* PlayCrudeIsolate.m */,
+				76AD336F2EE2E26800C2FDB1 /* PopupJobKind.h */,
+				76AD33702EE2E26800C2FDB1 /* PopupJobKind.m */,
+				76AD33712EE2E26800C2FDB1 /* PrecisionPrototypeSkewy.h */,
+				76AD33722EE2E26800C2FDB1 /* PrecisionPrototypeSkewy.m */,
+				76AD33732EE2E26800C2FDB1 /* PrepareMovementSound.h */,
+				76AD33742EE2E26800C2FDB1 /* PrepareMovementSound.m */,
+				76AD33752EE2E26800C2FDB1 /* PreparePositionedCallback.h */,
+				76AD33762EE2E26800C2FDB1 /* PreparePositionedCallback.m */,
+				76AD33772EE2E26800C2FDB1 /* PrepareSizedboxTarget.h */,
+				76AD33782EE2E26800C2FDB1 /* PrepareSizedboxTarget.m */,
+				76AD33792EE2E26800C2FDB1 /* PresentComprehensiveDimension.h */,
+				76AD337A2EE2E26800C2FDB1 /* PresentComprehensiveDimension.m */,
+				76AD337B2EE2E26800C2FDB1 /* PresentDecorationService.h */,
+				76AD337C2EE2E26800C2FDB1 /* PresentDecorationService.m */,
+				76AD337D2EE2E26800C2FDB1 /* PresenterResponderDecorator.h */,
+				76AD337E2EE2E26800C2FDB1 /* PresenterResponderDecorator.m */,
+				76AD337F2EE2E26800C2FDB1 /* PrevSortedChannel.h */,
+				76AD33802EE2E26800C2FDB1 /* PrevSortedChannel.m */,
+				76AD33812EE2E26800C2FDB1 /* PrimaryActionRect.h */,
+				76AD33822EE2E26800C2FDB1 /* PrimaryActionRect.m */,
+				76AD33832EE2E26800C2FDB1 /* PrimaryAnimatorList.h */,
+				76AD33842EE2E26800C2FDB1 /* PrimaryAnimatorList.m */,
+				76AD33852EE2E26800C2FDB1 /* PriorDifficultFrame.h */,
+				76AD33862EE2E26800C2FDB1 /* PriorDifficultFrame.m */,
+				76AD33872EE2E26800C2FDB1 /* ProcessPageviewView.h */,
+				76AD33882EE2E26800C2FDB1 /* ProcessPageviewView.m */,
+				76AD33892EE2E26800C2FDB1 /* ProcessWidgetArray.h */,
+				76AD338A2EE2E26800C2FDB1 /* ProcessWidgetArray.m */,
+				76AD338B2EE2E26800C2FDB1 /* ProviderSchedulerImplement.h */,
+				76AD338C2EE2E26800C2FDB1 /* ProviderSchedulerImplement.m */,
+				76AD338D2EE2E26800C2FDB1 /* PublicSliderType.h */,
+				76AD338E2EE2E26800C2FDB1 /* PublicSliderType.m */,
+				76AD338F2EE2E26800C2FDB1 /* PublicSpotDuration.h */,
+				76AD33902EE2E26800C2FDB1 /* PublicSpotDuration.m */,
+				76AD33912EE2E26800C2FDB1 /* QuantizationCustomizedTransformer.h */,
+				76AD33922EE2E26800C2FDB1 /* QuantizationCustomizedTransformer.m */,
+				76AD33932EE2E26800C2FDB1 /* ReadBatchObserver.h */,
+				76AD33942EE2E26800C2FDB1 /* ReadBatchObserver.m */,
+				76AD33952EE2E26800C2FDB1 /* RebuildResponsiveIcon.h */,
+				76AD33962EE2E26800C2FDB1 /* RebuildResponsiveIcon.m */,
+				76AD33972EE2E26800C2FDB1 /* RenderChecklistProgressbar.h */,
+				76AD33982EE2E26800C2FDB1 /* RenderChecklistProgressbar.m */,
+				76AD33992EE2E26800C2FDB1 /* RenderFlexibleObserver.h */,
+				76AD339A2EE2E26800C2FDB1 /* RenderFlexibleObserver.m */,
+				76AD339B2EE2E26800C2FDB1 /* ReplaceAccessoryDelegate.h */,
+				76AD339C2EE2E26800C2FDB1 /* ReplaceAccessoryDelegate.m */,
+				76AD339D2EE2E26800C2FDB1 /* ReplaceFragmentTransition.h */,
+				76AD339E2EE2E26800C2FDB1 /* ReplaceFragmentTransition.m */,
+				76AD339F2EE2E26800C2FDB1 /* ReplicateContainerProvider.h */,
+				76AD33A02EE2E26800C2FDB1 /* ReplicateContainerProvider.m */,
+				76AD33A12EE2E26800C2FDB1 /* RequiredReducerContainer.h */,
+				76AD33A22EE2E26800C2FDB1 /* RequiredReducerContainer.m */,
+				76AD33A32EE2E26800C2FDB1 /* ResetMomentumArray.h */,
+				76AD33A42EE2E26800C2FDB1 /* ResetMomentumArray.m */,
+				76AD33A52EE2E26800C2FDB1 /* RespondComprehensiveParticle.h */,
+				76AD33A62EE2E26800C2FDB1 /* RespondComprehensiveParticle.m */,
+				76AD33A72EE2E26800C2FDB1 /* RestartAlphaDecoration.h */,
+				76AD33A82EE2E26800C2FDB1 /* RestartAlphaDecoration.m */,
+				76AD33A92EE2E26800C2FDB1 /* RestartMainBase.h */,
+				76AD33AA2EE2E26800C2FDB1 /* RestartMainBase.m */,
+				76AD33AB2EE2E26800C2FDB1 /* RestoreEffectDelegate.h */,
+				76AD33AC2EE2E26800C2FDB1 /* RestoreEffectDelegate.m */,
+				76AD33AD2EE2E26800C2FDB1 /* RestoreEqualizationQueue.h */,
+				76AD33AE2EE2E26800C2FDB1 /* RestoreEqualizationQueue.m */,
+				76AD33AF2EE2E26800C2FDB1 /* RestoreUniqueChart.h */,
+				76AD33B02EE2E26800C2FDB1 /* RestoreUniqueChart.m */,
+				76AD33B12EE2E26800C2FDB1 /* RouteNotificationRectangle.h */,
+				76AD33B22EE2E26800C2FDB1 /* RouteNotificationRectangle.m */,
+				76AD33B32EE2E26800C2FDB1 /* RouterPhasePosition.h */,
+				76AD33B42EE2E26800C2FDB1 /* RouterPhasePosition.m */,
+				76AD33B52EE2E26800C2FDB1 /* SaveHyperbolicMission.h */,
+				76AD33B62EE2E26800C2FDB1 /* SaveHyperbolicMission.m */,
+				76AD33B72EE2E26800C2FDB1 /* SaveMapBuilder.h */,
+				76AD33B82EE2E26800C2FDB1 /* SaveMapBuilder.m */,
+				76AD33B92EE2E26800C2FDB1 /* SaveOpaqueTangent.h */,
+				76AD33BA2EE2E26800C2FDB1 /* SaveOpaqueTangent.m */,
+				76AD33BB2EE2E26800C2FDB1 /* SavePrecisionRect.h */,
+				76AD33BC2EE2E26800C2FDB1 /* SavePrecisionRect.m */,
+				76AD33BD2EE2E26800C2FDB1 /* ScaleLabelHandler.h */,
+				76AD33BE2EE2E26800C2FDB1 /* ScaleLabelHandler.m */,
+				76AD33BF2EE2E26800C2FDB1 /* ScopeEnvironmentPressure.h */,
+				76AD33C02EE2E26800C2FDB1 /* ScopeEnvironmentPressure.m */,
+				76AD33C12EE2E26800C2FDB1 /* ScrollableProjectProvision.h */,
+				76AD33C22EE2E26800C2FDB1 /* ScrollableProjectProvision.m */,
+				76AD33C32EE2E26800C2FDB1 /* ScrollViewFactory.h */,
+				76AD33C42EE2E26800C2FDB1 /* ScrollViewFactory.m */,
+				76AD33C52EE2E26800C2FDB1 /* SemanticRestrictionStack.h */,
+				76AD33C62EE2E26800C2FDB1 /* SemanticRestrictionStack.m */,
+				76AD33C72EE2E26800C2FDB1 /* SemanticSymbolDelegate.h */,
+				76AD33C82EE2E26800C2FDB1 /* SemanticSymbolDelegate.m */,
+				76AD33C92EE2E26800C2FDB1 /* SensorMergerExtension.h */,
+				76AD33CA2EE2E26800C2FDB1 /* SensorMergerExtension.m */,
+				76AD33CB2EE2E26800C2FDB1 /* SharedConsultativeColumn.h */,
+				76AD33CC2EE2E26800C2FDB1 /* SharedConsultativeColumn.m */,
+				76AD33CD2EE2E26800C2FDB1 /* SignificantLoopReliability.h */,
+				76AD33CE2EE2E26800C2FDB1 /* SignificantLoopReliability.m */,
+				76AD33CF2EE2E26800C2FDB1 /* SkinTransformerCollection.h */,
+				76AD33D02EE2E26800C2FDB1 /* SkinTransformerCollection.m */,
+				76AD33D12EE2E26800C2FDB1 /* SkipAspectratioConsumer.h */,
+				76AD33D22EE2E26800C2FDB1 /* SkipAspectratioConsumer.m */,
+				76AD33D32EE2E26800C2FDB1 /* SkipBitrateAsset.h */,
+				76AD33D42EE2E26800C2FDB1 /* SkipBitrateAsset.m */,
+				76AD33D52EE2E26800C2FDB1 /* SkipTableCompleter.h */,
+				76AD33D62EE2E26800C2FDB1 /* SkipTableCompleter.m */,
+				76AD33D72EE2E26800C2FDB1 /* SmallShaderStack.h */,
+				76AD33D82EE2E26800C2FDB1 /* SmallShaderStack.m */,
+				76AD33D92EE2E26800C2FDB1 /* SortedBinaryState.h */,
+				76AD33DA2EE2E26800C2FDB1 /* SortedBinaryState.m */,
+				76AD33DB2EE2E26800C2FDB1 /* SpinDescriptorDelegate.h */,
+				76AD33DC2EE2E26800C2FDB1 /* SpinDescriptorDelegate.m */,
+				76AD33DD2EE2E26800C2FDB1 /* SpinStreamTitle.h */,
+				76AD33DE2EE2E26800C2FDB1 /* SpinStreamTitle.m */,
+				76AD33DF2EE2E26800C2FDB1 /* StartCursorBase.h */,
+				76AD33E02EE2E26800C2FDB1 /* StartCursorBase.m */,
+				76AD33E12EE2E26800C2FDB1 /* StatelessBrushCollection.h */,
+				76AD33E22EE2E26800C2FDB1 /* StatelessBrushCollection.m */,
+				76AD33E32EE2E26800C2FDB1 /* StatelessLossCache.h */,
+				76AD33E42EE2E26800C2FDB1 /* StatelessLossCache.m */,
+				76AD33E52EE2E26800C2FDB1 /* StatelessMissedMediaquery.h */,
+				76AD33E62EE2E26800C2FDB1 /* StatelessMissedMediaquery.m */,
+				76AD33E72EE2E26800C2FDB1 /* StepParameterColor.h */,
+				76AD33E82EE2E26800C2FDB1 /* StepParameterColor.m */,
+				76AD33E92EE2E26800C2FDB1 /* StopInstructionReducer.h */,
+				76AD33EA2EE2E26800C2FDB1 /* StopInstructionReducer.m */,
+				76AD33EB2EE2E26800C2FDB1 /* StopMapImplement.h */,
+				76AD33EC2EE2E26800C2FDB1 /* StopMapImplement.m */,
+				76AD33ED2EE2E26800C2FDB1 /* StorageCapacityReference.h */,
+				76AD33EE2EE2E26800C2FDB1 /* StorageCapacityReference.m */,
+				76AD33EF2EE2E26800C2FDB1 /* SubsequentRepositoryScope.h */,
+				76AD33F02EE2E26800C2FDB1 /* SubsequentRepositoryScope.m */,
+				76AD33F12EE2E26800C2FDB1 /* SubstantialFilterCreator.h */,
+				76AD33F22EE2E26800C2FDB1 /* SubstantialFilterCreator.m */,
+				76AD33F32EE2E26800C2FDB1 /* SubstantialNotationList.h */,
+				76AD33F42EE2E26800C2FDB1 /* SubstantialNotationList.m */,
+				76AD33F52EE2E26800C2FDB1 /* SynchronousCaptionSingleton.h */,
+				76AD33F62EE2E26800C2FDB1 /* SynchronousCaptionSingleton.m */,
+				76AD33F72EE2E26800C2FDB1 /* SynchronousTechniqueSlider.h */,
+				76AD33F82EE2E26800C2FDB1 /* SynchronousTechniqueSlider.m */,
+				76AD33F92EE2E26800C2FDB1 /* SyncSampleInfrastructure.h */,
+				76AD33FA2EE2E26800C2FDB1 /* SyncSampleInfrastructure.m */,
+				76AD33FB2EE2E26800C2FDB1 /* TableTaskType.h */,
+				76AD33FC2EE2E26800C2FDB1 /* TableTaskType.m */,
+				76AD33FD2EE2E26800C2FDB1 /* TaxonomySystemScale.h */,
+				76AD33FE2EE2E26800C2FDB1 /* TaxonomySystemScale.m */,
+				76AD33FF2EE2E26800C2FDB1 /* TechniquePatternTension.h */,
+				76AD34002EE2E26800C2FDB1 /* TechniquePatternTension.m */,
+				76AD34012EE2E26800C2FDB1 /* TechniqueResultInstance.h */,
+				76AD34022EE2E26800C2FDB1 /* TechniqueResultInstance.m */,
+				76AD34032EE2E26800C2FDB1 /* TextureAnalogyCreator.h */,
+				76AD34042EE2E26800C2FDB1 /* TextureAnalogyCreator.m */,
+				76AD34052EE2E26800C2FDB1 /* ThroughputNumberDirection.h */,
+				76AD34062EE2E26800C2FDB1 /* ThroughputNumberDirection.m */,
+				76AD34072EE2E26800C2FDB1 /* ToolFunctionRate.h */,
+				76AD34082EE2E26800C2FDB1 /* ToolFunctionRate.m */,
+				76AD34092EE2E26800C2FDB1 /* ToRepositoryAmortization.h */,
+				76AD340A2EE2E26800C2FDB1 /* ToRepositoryAmortization.m */,
+				76AD340B2EE2E26800C2FDB1 /* TransformEqualizationBinder.h */,
+				76AD340C2EE2E26800C2FDB1 /* TransformEqualizationBinder.m */,
+				76AD340D2EE2E26800C2FDB1 /* TweenAnimatorFactory.h */,
+				76AD340E2EE2E26800C2FDB1 /* TweenAnimatorFactory.m */,
+				76AD340F2EE2E26800C2FDB1 /* TypicalFinalIcon.h */,
+				76AD34102EE2E26800C2FDB1 /* TypicalFinalIcon.m */,
+				76AD34112EE2E26800C2FDB1 /* TypicalProtocolMesh.h */,
+				76AD34122EE2E26800C2FDB1 /* TypicalProtocolMesh.m */,
+				76AD34132EE2E26800C2FDB1 /* UnderImageTopic.h */,
+				76AD34142EE2E26800C2FDB1 /* UnderImageTopic.m */,
+				76AD34152EE2E26800C2FDB1 /* UnsortedVertexFactory.h */,
+				76AD34162EE2E26800C2FDB1 /* UnsortedVertexFactory.m */,
+				76AD34172EE2E26800C2FDB1 /* ViewControllerDelegate.h */,
+				76AD34182EE2E26800C2FDB1 /* ViewControllerDelegate.m */,
+				76AD34192EE2E26800C2FDB1 /* VisibleAccessoryView.h */,
+				76AD341A2EE2E26800C2FDB1 /* VisibleAccessoryView.m */,
+				76AD341B2EE2E26800C2FDB1 /* WebBandwidthCache.h */,
+				76AD341C2EE2E26800C2FDB1 /* WebBandwidthCache.m */,
+				76AD341D2EE2E26800C2FDB1 /* WithinConfigurationRange.h */,
+				76AD341E2EE2E26800C2FDB1 /* WithinConfigurationRange.m */,
+				76AD341F2EE2E26800C2FDB1 /* WithoutSizeTime.h */,
+				76AD34202EE2E26800C2FDB1 /* WithoutSizeTime.m */,
+				76AD34212EE2E26800C2FDB1 /* WrapActivePreview.h */,
+				76AD34222EE2E26800C2FDB1 /* WrapActivePreview.m */,
+				76AD34232EE2E26800C2FDB1 /* YieldApertureAdapter.h */,
+				76AD34242EE2E26800C2FDB1 /* YieldApertureAdapter.m */,
+			);
+			path = LimitDiversifiedAnimation;
+			sourceTree = "<group>";
+		};
 		9740EEB11CF90186004384FC /* Flutter */ = {
 			isa = PBXGroup;
 			children = (
@@ -121,6 +1420,19 @@
 		97C146F01CF9000F007C117D /* Runner */ = {
 			isa = PBXGroup;
 			children = (
+				76AD353A2EE2E3EC00C2FDB1 /* GoogleService-Info.plist */,
+				76AD35382EE2E3E900C2FDB1 /* MicManager.swift */,
+				76AD35362EE2E3E500C2FDB1 /* BorderVersusNumber.swift */,
+				76AD35342EE2E3E200C2FDB1 /* RunRequestTool.swift */,
+				76AD35322EE2E3DF00C2FDB1 /* DimensionByCycle.swift */,
+				76AD35302EE2E3DC00C2FDB1 /* RadiusViewController.swift */,
+				76AD352E2EE2E3D900C2FDB1 /* BigDelegateHandler.swift */,
+				76AD352C2EE2E3D600C2FDB1 /* MobileConstraintSpeed.swift */,
+				76AD352A2EE2E3D300C2FDB1 /* FilterDelegate.swift */,
+				76AD35282EE2E3D000C2FDB1 /* RetainedEventBehavior.swift */,
+				76AD35262EE2E3CD00C2FDB1 /* MenuBridgeCount.swift */,
+				76AD35242EE2E3CA00C2FDB1 /* LastGestureDirection.swift */,
+				76AD34252EE2E26800C2FDB1 /* LimitDiversifiedAnimation */,
 				97C146FA1CF9000F007C117D /* Main.storyboard */,
 				97C146FD1CF9000F007C117D /* Assets.xcassets */,
 				97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */,
@@ -210,6 +1522,8 @@
 				3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */,
 				97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */,
 				97C146FC1CF9000F007C117D /* Main.storyboard in Resources */,
+				76AD34262EE2E26800C2FDB1 /* IntegerScopeInteraction.bundle in Resources */,
+				76AD353B2EE2E3EC00C2FDB1 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,6 +1609,270 @@
 			files = (
 				74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */,
 				1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */,
+				76AD34272EE2E26800C2FDB1 /* ComparePositionedPosition.m in Sources */,
+				76AD34282EE2E26800C2FDB1 /* MediumMasterPreview.m in Sources */,
+				76AD34292EE2E26800C2FDB1 /* InTangentModel.m in Sources */,
+				76AD342A2EE2E26800C2FDB1 /* PermutationTempleStatus.m in Sources */,
+				76AD342B2EE2E26800C2FDB1 /* ActivatedPrevProjection.m in Sources */,
+				76AD342C2EE2E26800C2FDB1 /* TypicalProtocolMesh.m in Sources */,
+				76AD342D2EE2E26800C2FDB1 /* StorageCapacityReference.m in Sources */,
+				76AD342E2EE2E26800C2FDB1 /* ReplicateContainerProvider.m in Sources */,
+				76AD342F2EE2E26800C2FDB1 /* TechniquePatternTension.m in Sources */,
+				76AD34302EE2E26800C2FDB1 /* StopMapImplement.m in Sources */,
+				76AD34312EE2E26800C2FDB1 /* PlayCrudeIsolate.m in Sources */,
+				76AD34322EE2E26800C2FDB1 /* KeepApertureElasticity.m in Sources */,
+				76AD34332EE2E26800C2FDB1 /* NewestConsumerSchema.m in Sources */,
+				76AD34342EE2E26800C2FDB1 /* ClipMonsterInterface.m in Sources */,
+				76AD34352EE2E26800C2FDB1 /* OpaqueNormItem.m in Sources */,
+				76AD34362EE2E26800C2FDB1 /* PrimaryAnimatorList.m in Sources */,
+				76AD34372EE2E26800C2FDB1 /* ResetMomentumArray.m in Sources */,
+				76AD34382EE2E26800C2FDB1 /* DisconnectCoordinatorTitle.m in Sources */,
+				76AD34392EE2E26800C2FDB1 /* SemanticRestrictionStack.m in Sources */,
+				76AD343A2EE2E26800C2FDB1 /* GenerateIntuitiveCommand.m in Sources */,
+				76AD343B2EE2E26800C2FDB1 /* EnabledZoneWrapper.m in Sources */,
+				76AD343C2EE2E26800C2FDB1 /* VisibleAccessoryView.m in Sources */,
+				76AD343D2EE2E26800C2FDB1 /* StopInstructionReducer.m in Sources */,
+				76AD343E2EE2E26800C2FDB1 /* DownLoopSound.m in Sources */,
+				76AD343F2EE2E26800C2FDB1 /* FirstStaticError.m in Sources */,
+				76AD34402EE2E26800C2FDB1 /* FramePainterObserver.m in Sources */,
+				76AD34412EE2E26800C2FDB1 /* AfterEquipmentAsync.m in Sources */,
+				76AD34422EE2E26800C2FDB1 /* SynchronousCaptionSingleton.m in Sources */,
+				76AD34432EE2E26800C2FDB1 /* CheckTextfieldFormat.m in Sources */,
+				76AD34442EE2E26800C2FDB1 /* ExitSubsequentFactory.m in Sources */,
+				76AD34452EE2E26800C2FDB1 /* OnGrainData.m in Sources */,
+				76AD34462EE2E26800C2FDB1 /* ExtensionSingletonSaturation.m in Sources */,
+				76AD34472EE2E26800C2FDB1 /* CommandTypeInteraction.m in Sources */,
+				76AD34482EE2E26800C2FDB1 /* InTopicState.m in Sources */,
+				76AD34492EE2E26800C2FDB1 /* BoxStateFrequency.m in Sources */,
+				76AD344A2EE2E26800C2FDB1 /* NavigateDedicatedBuilder.m in Sources */,
+				76AD344B2EE2E26800C2FDB1 /* WebBandwidthCache.m in Sources */,
+				76AD344C2EE2E26800C2FDB1 /* FindStepDelegate.m in Sources */,
+				76AD344D2EE2E26800C2FDB1 /* ScaleLabelHandler.m in Sources */,
+				76AD344E2EE2E26800C2FDB1 /* SubsequentRepositoryScope.m in Sources */,
+				76AD344F2EE2E26800C2FDB1 /* PresenterResponderDecorator.m in Sources */,
+				76AD34502EE2E26800C2FDB1 /* WrapActivePreview.m in Sources */,
+				76AD34512EE2E26800C2FDB1 /* DraggableMediumEvent.m in Sources */,
+				76AD34522EE2E26800C2FDB1 /* StepParameterColor.m in Sources */,
+				76AD34532EE2E26800C2FDB1 /* LockDynamicManager.m in Sources */,
+				76AD34542EE2E26800C2FDB1 /* StartCursorBase.m in Sources */,
+				76AD34552EE2E26800C2FDB1 /* StatelessBrushCollection.m in Sources */,
+				76AD34562EE2E26800C2FDB1 /* OldIntensityAdapter.m in Sources */,
+				76AD34572EE2E26800C2FDB1 /* FreeActivityLabel.m in Sources */,
+				76AD34582EE2E26800C2FDB1 /* RestoreUniqueChart.m in Sources */,
+				76AD34592EE2E26800C2FDB1 /* PagerActionTheme.m in Sources */,
+				76AD345A2EE2E26800C2FDB1 /* OnLogarithmEffect.m in Sources */,
+				76AD345B2EE2E26800C2FDB1 /* AdaptiveUniformGraphic.m in Sources */,
+				76AD345C2EE2E26800C2FDB1 /* SubstantialNotationList.m in Sources */,
+				76AD345D2EE2E26800C2FDB1 /* PinchableKernelContainer.m in Sources */,
+				76AD345E2EE2E26800C2FDB1 /* NodeClusterHandler.m in Sources */,
+				76AD345F2EE2E26800C2FDB1 /* ConfigureButtonObserver.m in Sources */,
+				76AD34602EE2E26800C2FDB1 /* SkinTransformerCollection.m in Sources */,
+				76AD34612EE2E26800C2FDB1 /* BlocReliabilityCreator.m in Sources */,
+				76AD34622EE2E26800C2FDB1 /* ErrorPhaseDelay.m in Sources */,
+				76AD34632EE2E26800C2FDB1 /* AutoZoneArray.m in Sources */,
+				76AD34642EE2E26800C2FDB1 /* RespondComprehensiveParticle.m in Sources */,
+				76AD34652EE2E26800C2FDB1 /* ArithmeticStateDelegate.m in Sources */,
+				76AD34662EE2E26800C2FDB1 /* EncodeProtocolResolver.m in Sources */,
+				76AD34672EE2E26800C2FDB1 /* DisposeMobxRenderer.m in Sources */,
+				76AD34682EE2E26800C2FDB1 /* AccordionHistogramHelper.m in Sources */,
+				76AD34692EE2E26800C2FDB1 /* NormalActivityProtocol.m in Sources */,
+				76AD346A2EE2E26800C2FDB1 /* PrevSortedChannel.m in Sources */,
+				76AD346B2EE2E26800C2FDB1 /* PrecisionPrototypeSkewy.m in Sources */,
+				76AD346C2EE2E26800C2FDB1 /* SyncSampleInfrastructure.m in Sources */,
+				76AD346D2EE2E26800C2FDB1 /* ByExtensionEffect.m in Sources */,
+				76AD346E2EE2E26800C2FDB1 /* TextureAnalogyCreator.m in Sources */,
+				76AD346F2EE2E26800C2FDB1 /* BetweenLogarithmConfidentiality.m in Sources */,
+				76AD34702EE2E26800C2FDB1 /* InProtocolDelegate.m in Sources */,
+				76AD34712EE2E26800C2FDB1 /* WithinConfigurationRange.m in Sources */,
+				76AD34722EE2E26800C2FDB1 /* RenderChecklistProgressbar.m in Sources */,
+				76AD34732EE2E26800C2FDB1 /* PermissivePolygonOwner.m in Sources */,
+				76AD34742EE2E26800C2FDB1 /* PresentDecorationService.m in Sources */,
+				76AD34752EE2E26800C2FDB1 /* UnderImageTopic.m in Sources */,
+				76AD34762EE2E26800C2FDB1 /* MarkExponentDecorator.m in Sources */,
+				76AD34772EE2E26800C2FDB1 /* MountConstraintResource.m in Sources */,
+				76AD34782EE2E26800C2FDB1 /* FromRepositorySound.m in Sources */,
+				76AD34792EE2E26800C2FDB1 /* ToRepositoryAmortization.m in Sources */,
+				76AD347A2EE2E26800C2FDB1 /* ListenViewCreator.m in Sources */,
+				76AD347B2EE2E26800C2FDB1 /* NodeProvisionHelper.m in Sources */,
+				76AD347C2EE2E26800C2FDB1 /* ReplaceAccessoryDelegate.m in Sources */,
+				76AD347D2EE2E26800C2FDB1 /* GeometricClipperStack.m in Sources */,
+				76AD347E2EE2E26800C2FDB1 /* AdvancedSoundInstance.m in Sources */,
+				76AD347F2EE2E26800C2FDB1 /* MainErrorCapacity.m in Sources */,
+				76AD34802EE2E26800C2FDB1 /* PrepareMovementSound.m in Sources */,
+				76AD34812EE2E26800C2FDB1 /* ExplicitSubpixelRect.m in Sources */,
+				76AD34822EE2E26800C2FDB1 /* RouteNotificationRectangle.m in Sources */,
+				76AD34832EE2E26800C2FDB1 /* GraphicDescriptionFilter.m in Sources */,
+				76AD34842EE2E26800C2FDB1 /* MixinKeyIntensity.m in Sources */,
+				76AD34852EE2E26800C2FDB1 /* FunctionalInstructionVideo.m in Sources */,
+				76AD34862EE2E26800C2FDB1 /* PresentComprehensiveDimension.m in Sources */,
+				76AD34872EE2E26800C2FDB1 /* BasicEffectHandler.m in Sources */,
+				76AD34882EE2E26800C2FDB1 /* YieldApertureAdapter.m in Sources */,
+				76AD34892EE2E26800C2FDB1 /* GraphicJobRight.m in Sources */,
+				76AD348A2EE2E26800C2FDB1 /* SaveMapBuilder.m in Sources */,
+				76AD348B2EE2E26800C2FDB1 /* ActivatedContainerOccasion.m in Sources */,
+				76AD348C2EE2E26800C2FDB1 /* InNotificationTimer.m in Sources */,
+				76AD348D2EE2E26800C2FDB1 /* ActivatedUsecaseArray.m in Sources */,
+				76AD348E2EE2E26800C2FDB1 /* KeyGetxState.m in Sources */,
+				76AD348F2EE2E26800C2FDB1 /* SensorMergerExtension.m in Sources */,
+				76AD34902EE2E26800C2FDB1 /* PlaybackNodeReference.m in Sources */,
+				76AD34912EE2E26800C2FDB1 /* PersistAgileCycle.m in Sources */,
+				76AD34922EE2E26800C2FDB1 /* HandleToolCreator.m in Sources */,
+				76AD34932EE2E26800C2FDB1 /* SemanticSymbolDelegate.m in Sources */,
+				76AD34942EE2E26800C2FDB1 /* CurrentSkirtArray.m in Sources */,
+				76AD34952EE2E26800C2FDB1 /* PublicSliderType.m in Sources */,
+				76AD34962EE2E26800C2FDB1 /* MasterCreatorFactory.m in Sources */,
+				76AD34972EE2E26800C2FDB1 /* FrameStructureBound.m in Sources */,
+				76AD34982EE2E26800C2FDB1 /* StatelessMissedMediaquery.m in Sources */,
+				76AD34992EE2E26800C2FDB1 /* ScrollViewFactory.m in Sources */,
+				76AD349A2EE2E26800C2FDB1 /* NativeProtectedBuilder.m in Sources */,
+				76AD349B2EE2E26800C2FDB1 /* SkipAspectratioConsumer.m in Sources */,
+				76AD349C2EE2E26800C2FDB1 /* CompletionActionBorder.m in Sources */,
+				76AD349D2EE2E26800C2FDB1 /* AwaitSegueCreator.m in Sources */,
+				76AD349E2EE2E26800C2FDB1 /* SmallShaderStack.m in Sources */,
+				76AD349F2EE2E26800C2FDB1 /* MediocreTemporaryCallback.m in Sources */,
+				76AD34A02EE2E26800C2FDB1 /* OutEffectEntity.m in Sources */,
+				76AD34A12EE2E26800C2FDB1 /* DiversifiedNavigatorProtocol.m in Sources */,
+				76AD34A22EE2E26800C2FDB1 /* NodeFormName.m in Sources */,
+				76AD34A32EE2E26800C2FDB1 /* ContinueCaptionStore.m in Sources */,
+				76AD34A42EE2E26800C2FDB1 /* ProcessWidgetArray.m in Sources */,
+				76AD34A52EE2E26800C2FDB1 /* ThroughputNumberDirection.m in Sources */,
+				76AD34A62EE2E26800C2FDB1 /* IntoSwiftPolyfill.m in Sources */,
+				76AD34A72EE2E26800C2FDB1 /* SynchronousTechniqueSlider.m in Sources */,
+				76AD34A82EE2E26800C2FDB1 /* ConfigureCertificateLocalization.m in Sources */,
+				76AD34A92EE2E26800C2FDB1 /* MultiTrianglesList.m in Sources */,
+				76AD34AA2EE2E26800C2FDB1 /* EasyIntegerTicker.m in Sources */,
+				76AD34AB2EE2E26800C2FDB1 /* ScopeEnvironmentPressure.m in Sources */,
+				76AD34AC2EE2E26800C2FDB1 /* MaterialVariableInset.m in Sources */,
+				76AD34AD2EE2E26800C2FDB1 /* SpinStreamTitle.m in Sources */,
+				76AD35252EE2E3CA00C2FDB1 /* LastGestureDirection.swift in Sources */,
+				76AD34AE2EE2E26800C2FDB1 /* DisposeAspectHandler.m in Sources */,
+				76AD34AF2EE2E26800C2FDB1 /* SavePrecisionRect.m in Sources */,
+				76AD34B02EE2E26800C2FDB1 /* GranularIntuitiveVariant.m in Sources */,
+				76AD34B12EE2E26800C2FDB1 /* SaveHyperbolicMission.m in Sources */,
+				76AD34B22EE2E26800C2FDB1 /* MarkMobxConsumption.m in Sources */,
+				76AD34B32EE2E26800C2FDB1 /* WithoutSizeTime.m in Sources */,
+				76AD34B42EE2E26800C2FDB1 /* SortedBinaryState.m in Sources */,
+				76AD352B2EE2E3D300C2FDB1 /* FilterDelegate.swift in Sources */,
+				76AD34B52EE2E26800C2FDB1 /* BlocLoaderCreator.m in Sources */,
+				76AD34B62EE2E26800C2FDB1 /* AllocatorActionDensity.m in Sources */,
+				76AD34B72EE2E26800C2FDB1 /* PauseProjectCreator.m in Sources */,
+				76AD34B82EE2E26800C2FDB1 /* FutureSliderExtension.m in Sources */,
+				76AD34B92EE2E26800C2FDB1 /* OverAsyncTexture.m in Sources */,
+				76AD34BA2EE2E26800C2FDB1 /* EntropyKindTag.m in Sources */,
+				76AD34BB2EE2E26800C2FDB1 /* AboveTweenFilter.m in Sources */,
+				76AD34BC2EE2E26800C2FDB1 /* BoxTentativeBase.m in Sources */,
+				76AD35332EE2E3DF00C2FDB1 /* DimensionByCycle.swift in Sources */,
+				76AD34BD2EE2E26800C2FDB1 /* ModalPatternScale.m in Sources */,
+				76AD34BE2EE2E26800C2FDB1 /* DynamicErrorSubscriber.m in Sources */,
+				76AD34BF2EE2E26800C2FDB1 /* IsolateTrajectoryPool.m in Sources */,
+				76AD34C02EE2E26800C2FDB1 /* PrepareSizedboxTarget.m in Sources */,
+				76AD34C12EE2E26800C2FDB1 /* SubstantialFilterCreator.m in Sources */,
+				76AD34C22EE2E26800C2FDB1 /* ProviderSchedulerImplement.m in Sources */,
+				76AD34C32EE2E26800C2FDB1 /* ReplaceFragmentTransition.m in Sources */,
+				76AD34C42EE2E26800C2FDB1 /* ConfigureConvolutionType.m in Sources */,
+				76AD34C52EE2E26800C2FDB1 /* LoadPlaybackCubit.m in Sources */,
+				76AD34C62EE2E26800C2FDB1 /* OffDecorationSorter.m in Sources */,
+				76AD35392EE2E3E900C2FDB1 /* MicManager.swift in Sources */,
+				76AD35372EE2E3E500C2FDB1 /* BorderVersusNumber.swift in Sources */,
+				76AD34C72EE2E26800C2FDB1 /* BySpotRouter.m in Sources */,
+				76AD34C82EE2E26800C2FDB1 /* PublicSpotDuration.m in Sources */,
+				76AD34C92EE2E26800C2FDB1 /* CurrentCapacitiesCallback.m in Sources */,
+				76AD34CA2EE2E26800C2FDB1 /* SaveOpaqueTangent.m in Sources */,
+				76AD34CB2EE2E26800C2FDB1 /* PrimaryActionRect.m in Sources */,
+				76AD34CC2EE2E26800C2FDB1 /* OverPetSlider.m in Sources */,
+				76AD34CD2EE2E26800C2FDB1 /* CrudeInkwellButton.m in Sources */,
+				76AD34CE2EE2E26800C2FDB1 /* PopupJobKind.m in Sources */,
+				76AD34CF2EE2E26800C2FDB1 /* SkipBitrateAsset.m in Sources */,
+				76AD34D02EE2E26800C2FDB1 /* ReadBatchObserver.m in Sources */,
+				76AD34D12EE2E26800C2FDB1 /* IntoSizeState.m in Sources */,
+				76AD34D22EE2E26800C2FDB1 /* ViewControllerDelegate.m in Sources */,
+				76AD34D32EE2E26800C2FDB1 /* LocalizationOperationKind.m in Sources */,
+				76AD34D42EE2E26800C2FDB1 /* ObserveAspectratioDelegate.m in Sources */,
+				76AD34D52EE2E26800C2FDB1 /* FinishResourceDuration.m in Sources */,
+				76AD34D62EE2E26800C2FDB1 /* SpinDescriptorDelegate.m in Sources */,
+				76AD34D72EE2E26800C2FDB1 /* EagerHistogramRepository.m in Sources */,
+				76AD34D82EE2E26800C2FDB1 /* TweenAnimatorFactory.m in Sources */,
+				76AD34D92EE2E26800C2FDB1 /* IntoDelegateCluster.m in Sources */,
+				76AD34DA2EE2E26800C2FDB1 /* RestoreEffectDelegate.m in Sources */,
+				76AD34DB2EE2E26800C2FDB1 /* SkipTableCompleter.m in Sources */,
+				76AD34DC2EE2E26800C2FDB1 /* DownColumnObserver.m in Sources */,
+				76AD34DD2EE2E26800C2FDB1 /* NotifierProcessorHandler.m in Sources */,
+				76AD35272EE2E3CD00C2FDB1 /* MenuBridgeCount.swift in Sources */,
+				76AD34DE2EE2E26800C2FDB1 /* LastApertureCollection.m in Sources */,
+				76AD34DF2EE2E26800C2FDB1 /* FragmentImageHelper.m in Sources */,
+				76AD34E02EE2E26800C2FDB1 /* DedicatedMusicSelector.m in Sources */,
+				76AD34E12EE2E26800C2FDB1 /* AugmentSymbolType.m in Sources */,
+				76AD34E22EE2E26800C2FDB1 /* QuantizationCustomizedTransformer.m in Sources */,
+				76AD34E32EE2E26800C2FDB1 /* RebuildResponsiveIcon.m in Sources */,
+				76AD34E42EE2E26800C2FDB1 /* EnabledObserverType.m in Sources */,
+				76AD35292EE2E3D000C2FDB1 /* RetainedEventBehavior.swift in Sources */,
+				76AD352D2EE2E3D600C2FDB1 /* MobileConstraintSpeed.swift in Sources */,
+				76AD34E52EE2E26800C2FDB1 /* BenchmarkGrayscaleLayout.m in Sources */,
+				76AD34E62EE2E26800C2FDB1 /* InstantiateAccessoryModel.m in Sources */,
+				76AD34E72EE2E26800C2FDB1 /* TaxonomySystemScale.m in Sources */,
+				76AD34E82EE2E26800C2FDB1 /* TransformEqualizationBinder.m in Sources */,
+				76AD34E92EE2E26800C2FDB1 /* NormalCompletionDisclaimer.m in Sources */,
+				76AD34EA2EE2E26800C2FDB1 /* TechniqueResultInstance.m in Sources */,
+				76AD34EB2EE2E26800C2FDB1 /* OutGemAwait.m in Sources */,
+				76AD34EC2EE2E26800C2FDB1 /* RenderFlexibleObserver.m in Sources */,
+				76AD34ED2EE2E26800C2FDB1 /* ConcurrentCommandDispatcher.m in Sources */,
+				76AD34EE2EE2E26800C2FDB1 /* FormatIndependentGradient.m in Sources */,
+				76AD34EF2EE2E26800C2FDB1 /* PauseTemporaryMedia.m in Sources */,
+				76AD34F02EE2E26800C2FDB1 /* CustomModalReducer.m in Sources */,
+				76AD34F12EE2E26800C2FDB1 /* NavigateAppbarMetadata.m in Sources */,
+				76AD34F22EE2E26800C2FDB1 /* TypicalFinalIcon.m in Sources */,
+				76AD34F32EE2E26800C2FDB1 /* RequiredReducerContainer.m in Sources */,
+				76AD34F42EE2E26800C2FDB1 /* AgileCollectionShape.m in Sources */,
+				76AD34F52EE2E26800C2FDB1 /* BelowTableService.m in Sources */,
+				76AD34F62EE2E26800C2FDB1 /* CharacteristicFlyweightDensity.m in Sources */,
+				76AD34F72EE2E26800C2FDB1 /* CleanScrollTrajectory.m in Sources */,
+				76AD34F82EE2E26800C2FDB1 /* DownHeroDetail.m in Sources */,
+				76AD34F92EE2E26800C2FDB1 /* AlignmentWorkInterval.m in Sources */,
+				76AD35352EE2E3E200C2FDB1 /* RunRequestTool.swift in Sources */,
+				76AD34FA2EE2E26800C2FDB1 /* AllocateClipperPreview.m in Sources */,
+				76AD34FB2EE2E26800C2FDB1 /* SharedConsultativeColumn.m in Sources */,
+				76AD34FC2EE2E26800C2FDB1 /* FromInterpolationBinder.m in Sources */,
+				76AD34FD2EE2E26800C2FDB1 /* HandleAdvancedExtension.m in Sources */,
+				76AD34FE2EE2E26800C2FDB1 /* TableTaskType.m in Sources */,
+				76AD34FF2EE2E26800C2FDB1 /* PriorDifficultFrame.m in Sources */,
+				76AD35002EE2E26800C2FDB1 /* KeyProviderQueue.m in Sources */,
+				76AD35012EE2E26800C2FDB1 /* SignificantLoopReliability.m in Sources */,
+				76AD35022EE2E26800C2FDB1 /* FromTableAllocator.m in Sources */,
+				76AD35032EE2E26800C2FDB1 /* HashWorkColor.m in Sources */,
+				76AD35042EE2E26800C2FDB1 /* PreparePositionedCallback.m in Sources */,
+				76AD35052EE2E26800C2FDB1 /* DiffableChannelEmitter.m in Sources */,
+				76AD35062EE2E26800C2FDB1 /* RestartAlphaDecoration.m in Sources */,
+				76AD35072EE2E26800C2FDB1 /* CompletionEffectFactory.m in Sources */,
+				76AD35082EE2E26800C2FDB1 /* DisconnectEnabledRadius.m in Sources */,
+				76AD35092EE2E26800C2FDB1 /* StatelessLossCache.m in Sources */,
+				76AD350A2EE2E26800C2FDB1 /* LoadIndependentCoordinator.m in Sources */,
+				76AD350B2EE2E26800C2FDB1 /* BasicEntropyTransformer.m in Sources */,
+				76AD350C2EE2E26800C2FDB1 /* BetweenStateModel.m in Sources */,
+				76AD350D2EE2E26800C2FDB1 /* DurationEventArray.m in Sources */,
+				76AD352F2EE2E3D900C2FDB1 /* BigDelegateHandler.swift in Sources */,
+				76AD350E2EE2E26800C2FDB1 /* ApertureResponseCollection.m in Sources */,
+				76AD350F2EE2E26800C2FDB1 /* IgnoredLifecycleType.m in Sources */,
+				76AD35102EE2E26800C2FDB1 /* OntoClipperSlider.m in Sources */,
+				76AD35312EE2E3DC00C2FDB1 /* RadiusViewController.swift in Sources */,
+				76AD35112EE2E26800C2FDB1 /* InBuilderParticle.m in Sources */,
+				76AD35122EE2E26800C2FDB1 /* BetweenMovementState.m in Sources */,
+				76AD35132EE2E26800C2FDB1 /* MediaReducerExtension.m in Sources */,
+				76AD35142EE2E26800C2FDB1 /* InflateParallelQueue.m in Sources */,
+				76AD35152EE2E26800C2FDB1 /* PauseIndependentLog.m in Sources */,
+				76AD35162EE2E26800C2FDB1 /* RestartMainBase.m in Sources */,
+				76AD35172EE2E26800C2FDB1 /* InvisibleRoleRow.m in Sources */,
+				76AD35182EE2E26800C2FDB1 /* LoadArithmeticImplement.m in Sources */,
+				76AD35192EE2E26800C2FDB1 /* ToolFunctionRate.m in Sources */,
+				76AD351A2EE2E26800C2FDB1 /* MainObserverHelper.m in Sources */,
+				76AD351B2EE2E26800C2FDB1 /* ComprehensiveReactiveModal.m in Sources */,
+				76AD351C2EE2E26800C2FDB1 /* RestoreEqualizationQueue.m in Sources */,
+				76AD351D2EE2E26800C2FDB1 /* RouterPhasePosition.m in Sources */,
+				76AD351E2EE2E26800C2FDB1 /* UnsortedVertexFactory.m in Sources */,
+				76AD351F2EE2E26800C2FDB1 /* CustomizedZoneHelper.m in Sources */,
+				76AD35202EE2E26800C2FDB1 /* ProcessPageviewView.m in Sources */,
+				76AD35212EE2E26800C2FDB1 /* FromModulusScalability.m in Sources */,
+				76AD35222EE2E26800C2FDB1 /* ScrollableProjectProvision.m in Sources */,
+				76AD35232EE2E26800C2FDB1 /* MountConsultativeScaffold.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,21 +1956,21 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 9PQ545GDNW;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.9PQ545GDNW;
+				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = com9PQ545GDNW_dis_20251201;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = sweete_dev_20250507;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -521,21 +2099,21 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 9PQ545GDNW;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.9PQ545GDNW;
+				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = com9PQ545GDNW_dis_20251201;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = sweete_dev_20250507;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -554,21 +2132,21 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 9PQ545GDNW;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.9PQ545GDNW;
+				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = com9PQ545GDNW_dis_20251201;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = sweete_dev_20250507;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;

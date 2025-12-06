@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonShapeFlags</key>
+	<string>checklistStructureScale</string>
+	<key>equalizationMethodBrightness</key>
+	<string>uniformCapacitiesBound</string>
+	<key>hashFrameworkRate</key>
+	<string>cubitEnvironmentPadding</string>
+	<key>mediumArithmeticValidation</key>
+	<string>checklistWorkForce</string>
+	<key>methodDuringAction</key>
+	<string>curveThroughActivity</string>
+	<key>progressbarPhaseAcceleration</key>
+	<string>popupDecoratorOpacity</string>
+	<key>statefulActivityMomentum</key>
+	<string>labelSinceInterpreter</string>
+	<key>viewFormFeedback</key>
+	<string>exceptionObserverKind</string>
+</dict>
+</plist>

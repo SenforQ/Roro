@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledProgressbarDistance</key>
+	<string>curvePhaseResponse</string>
+	<key>finalResponseRotation</key>
+	<string>keyCacheMargin</string>
+	<key>globalEntityLocation</key>
+	<string>behaviorPatternStyle</string>
+	<key>priorityMediatorBehavior</key>
+	<string>samplePerContext</string>
+</dict>
+</plist>

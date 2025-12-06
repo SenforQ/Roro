@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterNearMode</key>
+	<string>zoneOrStructure</string>
+	<key>histogramAtStage</key>
+	<string>effectBridgePadding</string>
+	<key>mainSubpixelSkewy</key>
+	<string>explicitInterfaceMargin</string>
+	<key>normalHeapContrast</key>
+	<string>animationInsideVisitor</string>
+	<key>popupLayerLocation</key>
+	<string>errorModeDensity</string>
+	<key>topicAmongComposite</key>
+	<string>kernelAroundTier</string>
+	<key>visibleStreamTail</key>
+	<string>textFromFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteGesturedetectorSkewx</key>
+	<string>euclideanCompletionDirection</string>
+	<key>dropdownbuttonStrategyValidation</key>
+	<string>associatedWidgetBottom</string>
+	<key>listviewNumberOffset</key>
+	<string>aspectratioCycleOpacity</string>
+	<key>painterPhaseRight</key>
+	<string>requestDecoratorSpeed</string>
+	<key>pointAgainstFlyweight</key>
+	<string>animationViaPlatform</string>
+	<key>responseExceptScope</key>
+	<string>beginnerPetLocation</string>
+	<key>transitionMediatorScale</key>
+	<string>animatedcontainerThroughSingleton</string>
+</dict>
+</plist>

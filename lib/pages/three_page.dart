@@ -6,6 +6,8 @@ import 'roro_privacy_page.dart';
 import 'roro_terms_page.dart';
 import 'roro_about_us_page.dart';
 import 'roro_editor_page.dart';
+import 'wall_page.dart';
+import 'vip_page.dart';
 
 class ThreePage extends StatefulWidget {
   const ThreePage({super.key});
@@ -86,6 +88,8 @@ class _ThreePageState extends State<ThreePage> {
                   _buildTopSection(context),
                   _buildProfileCard(),
                   const SizedBox(height: 0),
+                  _buildVipButton(),
+                  const SizedBox(height: 12),
                   _buildMenuItems(context),
                   SizedBox(height: MediaQuery.of(context).padding.bottom + 140),
                 ],
@@ -196,6 +200,46 @@ class _ThreePageState extends State<ThreePage> {
     );
   }
 
+  Widget _buildVipButton() {
+    return Container(
+      margin: const EdgeInsets.symmetric(horizontal: 20),
+      child: Material(
+        color: Colors.transparent,
+        child: InkWell(
+          onTap: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => const VipPage(),
+              ),
+            );
+          },
+          borderRadius: BorderRadius.circular(12),
+          child: Image.asset(
+            'assets/btn_me_vip.webp',
+            width: double.infinity,
+            fit: BoxFit.fitWidth,
+            errorBuilder: (context, error, stackTrace) {
+              return Container(
+                height: 60,
+                decoration: BoxDecoration(
+                  color: Colors.pink.withOpacity(0.3),
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: const Center(
+                  child: Icon(
+                    Icons.image_not_supported,
+                    color: Colors.white,
+                  ),
+                ),
+              );
+            },
+          ),
+        ),
+      ),
+    );
+  }
+
   Widget _buildMenuItems(BuildContext context) {
     return Container(
       margin: const EdgeInsets.symmetric(horizontal: 20),
@@ -205,6 +249,19 @@ class _ThreePageState extends State<ThreePage> {
       ),
       child: Column(
         children: [
+          _buildMenuItem(
+            iconPath: 'assets/icon_me_wallet.webp',
+            title: 'Wallet',
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const WallPage(),
+                ),
+              );
+            },
+          ),
+          _buildDivider(),
           _buildMenuItem(
             iconPath: 'assets/icon_me_edit.webp',
             title: 'Edit information',

@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import '../services/vip_service.dart';
 
 class RoroEditorPage extends StatefulWidget {
   const RoroEditorPage({super.key});
@@ -107,6 +108,12 @@ class _RoroEditorPageState extends State<RoroEditorPage> {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('Please enter your name')),
       );
+      return;
+    }
+
+    final isVipActive = await VipService.isVipActive();
+    if (!isVipActive) {
+      _showVipRequiredDialog();
       return;
     }
 
@@ -427,6 +434,59 @@ class _RoroEditorPageState extends State<RoroEditorPage> {
           ),
         ),
       ),
+    );
+  }
+
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF1C0325),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(20),
+          ),
+          title: const Row(
+            children: [
+              Icon(Icons.diamond, color: Color(0xFFFFD700)),
+              SizedBox(width: 8),
+              Text(
+                'VIP Required',
+                style: TextStyle(color: Colors.white),
+              ),
+            ],
+          ),
+          content: const Text(
+            'You need to be a VIP member to edit your information. Please subscribe to VIP to access this feature.',
+            style: TextStyle(color: Color(0xFFCCCCCC)),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Color(0xFF999999)),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFFF74F4),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
+              ),
+              child: const Text(
+                'OK',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+            ),
+          ],
+        );
+      },
     );
   }
 }

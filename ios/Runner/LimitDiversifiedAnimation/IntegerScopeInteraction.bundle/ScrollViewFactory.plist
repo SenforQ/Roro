@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPerScope</key>
+	<string>constProviderLeft</string>
+	<key>exponentStyleSpacing</key>
+	<string>pointProxyValidation</string>
+	<key>factoryAdapterFlags</key>
+	<string>dynamicCubitOpacity</string>
+	<key>semanticGroupAppearance</key>
+	<string>responsiveCubitMargin</string>
+	<key>usageEnvironmentBound</key>
+	<string>textfieldTierRotation</string>
+	<key>zoneSinceStructure</key>
+	<string>sceneSystemVisible</string>
+</dict>
+</plist>

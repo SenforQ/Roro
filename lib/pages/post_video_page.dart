@@ -2,6 +2,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
+import '../services/coin_service.dart';
 
 class PostVideoPage extends StatefulWidget {
   const PostVideoPage({super.key});
@@ -417,11 +418,194 @@ class _PostVideoPageState extends State<PostVideoPage> {
       return;
     }
 
+    final hasEnoughCoins = await CoinService.hasEnoughCoins(20);
+    if (!hasEnoughCoins) {
+      _showInsufficientCoinsDialog();
+      return;
+    }
+
+    await _showFirstConfirmationDialog();
+  }
+
+  Future<void> _showInsufficientCoinsDialog() async {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF1C0325),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(20),
+          ),
+          title: const Row(
+            children: [
+              Icon(Icons.warning_amber_rounded, color: Color(0xFFFFD700)),
+              SizedBox(width: 8),
+              Text(
+                'Insufficient Coins',
+                style: TextStyle(color: Colors.white),
+              ),
+            ],
+          ),
+          content: const Text(
+            'You need 20 Coins to share your Post Video. Please purchase more coins.',
+            style: TextStyle(color: Color(0xFFCCCCCC)),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Color(0xFF999999)),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFFF74F4),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
+              ),
+              child: const Text(
+                'OK',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  Future<void> _showFirstConfirmationDialog() async {
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF1C0325),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(20),
+          ),
+          title: const Row(
+            children: [
+              Icon(Icons.info_outline, color: Color(0xFFFF74F4)),
+              SizedBox(width: 8),
+              Text(
+                'Confirm Share',
+                style: TextStyle(color: Colors.white),
+              ),
+            ],
+          ),
+          content: const Text(
+            'Sharing your Post Video will cost 20 Coins. Do you want to continue?',
+            style: TextStyle(color: Color(0xFFCCCCCC)),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Color(0xFF999999)),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFFF74F4),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
+              ),
+              child: const Text(
+                'Continue',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+
+    if (confirmed == true) {
+      await _showSecondConfirmationDialog();
+    }
+  }
+
+  Future<void> _showSecondConfirmationDialog() async {
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF1C0325),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(20),
+          ),
+          title: const Row(
+            children: [
+              Icon(Icons.check_circle_outline, color: Color(0xFFFF74F4)),
+              SizedBox(width: 8),
+              Text(
+                'Final Confirmation',
+                style: TextStyle(color: Colors.white),
+              ),
+            ],
+          ),
+          content: const Text(
+            'Are you sure you want to share this Post Video? This will deduct 20 Coins from your account.',
+            style: TextStyle(color: Color(0xFFCCCCCC)),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Color(0xFF999999)),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFFF74F4),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
+              ),
+              child: const Text(
+                'Confirm',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+
+    if (confirmed == true) {
+      await _processPostSubmission();
+    }
+  }
+
+  Future<void> _processPostSubmission() async {
     setState(() {
       _isLoading = true;
     });
 
     try {
+      final deductSuccess = await CoinService.deductCoins(20);
+      if (!deductSuccess) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(content: Text('Failed to deduct coins. Please try again.')),
+          );
+        }
+        return;
+      }
+
       final directory = await getApplicationDocumentsDirectory();
       final postsDir = Directory('${directory.path}/posts');
       if (!await postsDir.exists()) {

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEntityVisibility</key>
+	<string>permanentAsyncVisible</string>
+	<key>beginnerRadiusFrequency</key>
+	<string>textNearTier</string>
+	<key>compositionInsideTier</key>
+	<string>checkboxAroundFlyweight</string>
+	<key>independentStateSpacing</key>
+	<string>metadataSinceMode</string>
+	<key>multiLayoutCoord</key>
+	<string>paddingNumberHue</string>
+	<key>routerProxyStyle</key>
+	<string>mobileBufferCenter</string>
+</dict>
+</plist>

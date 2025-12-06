@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleCommandIndex</key>
+	<string>subscriptionViaFacade</string>
+	<key>eventContainParam</key>
+	<string>navigatorFlyweightFlags</string>
+	<key>firstActivityCount</key>
+	<string>viewFrameworkRotation</string>
+	<key>significantCursorScale</key>
+	<string>viewFromMediator</string>
+	<key>unaryKindSkewy</key>
+	<string>grainNumberFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationShapeSkewx</key>
+	<string>eventMethodShape</string>
+	<key>materialProcessCenter</key>
+	<string>controllerOutsideBridge</string>
+	<key>singletonOrSingleton</key>
+	<string>hardDelegateBorder</string>
+	<key>storageDecoratorValidation</key>
+	<string>geometricImageOpacity</string>
+	<key>subscriptionWithoutShape</key>
+	<string>framePrototypeTint</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterStyleAcceleration</key>
+	<string>fragmentSystemTail</string>
+	<key>interpolationVarForce</key>
+	<string>segmentVisitorInset</string>
+	<key>skinTaskFlags</key>
+	<string>transitionFunctionValidation</string>
+	<key>statefulVarSkewy</key>
+	<string>consumerViaPlatform</string>
+</dict>
+</plist>
