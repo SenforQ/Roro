@@ -103,7 +103,7 @@ import Flutter
         } else {
             print("无法获取构建版本号")
         }
-        
+        //版本号
 //        AdaptiveUniformBasicEntropyEmeraldMagentaVersion = "-1"
         
         self.observer()
