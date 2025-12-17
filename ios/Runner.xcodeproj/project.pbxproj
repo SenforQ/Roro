@@ -10,6 +10,7 @@
 		1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */ = {isa = PBXBuildFile; fileRef = 1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */; };
 		3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */; };
 		74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74858FAE1ED2DC5600515810 /* AppDelegate.swift */; };
+		7616B4302EECFD9900D606CA /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7616B42F2EECFD9900D606CA /* StoreKit.framework */; };
 		76AD34262EE2E26800C2FDB1 /* IntegerScopeInteraction.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 76AD32F42EE2E26800C2FDB1 /* IntegerScopeInteraction.bundle */; };
 		76AD34272EE2E26800C2FDB1 /* ComparePositionedPosition.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD32712EE2E26800C2FDB1 /* ComparePositionedPosition.m */; };
 		76AD34282EE2E26800C2FDB1 /* MediumMasterPreview.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AD33262EE2E26800C2FDB1 /* MediumMasterPreview.m */; };
@@ -307,6 +308,8 @@
 		5AD653042EB50DED01576E66 /* Pods-RunnerTests.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.profile.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.profile.xcconfig"; sourceTree = "<group>"; };
 		74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; };
 		74858FAE1ED2DC5600515810 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7616B42F2EECFD9900D606CA /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		766AF1A62EE6B3B200859D94 /* Runner.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Runner.entitlements; sourceTree = "<group>"; };
 		76AD322A2EE2E26800C2FDB1 /* AboveTweenFilter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AboveTweenFilter.h; sourceTree = "<group>"; };
 		76AD322B2EE2E26800C2FDB1 /* AboveTweenFilter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AboveTweenFilter.m; sourceTree = "<group>"; };
 		76AD322C2EE2E26800C2FDB1 /* AccordionHistogramHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AccordionHistogramHelper.h; sourceTree = "<group>"; };
@@ -845,6 +848,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CC7A43DDDB8EA832DADF781 /* Pods_Runner.framework in Frameworks */,
+				7616B4302EECFD9900D606CA /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1420,6 +1424,7 @@
 		97C146F01CF9000F007C117D /* Runner */ = {
 			isa = PBXGroup;
 			children = (
+				766AF1A62EE6B3B200859D94 /* Runner.entitlements */,
 				76AD353A2EE2E3EC00C2FDB1 /* GoogleService-Info.plist */,
 				76AD35382EE2E3E900C2FDB1 /* MicManager.swift */,
 				76AD35362EE2E3E500C2FDB1 /* BorderVersusNumber.swift */,
@@ -1448,6 +1453,7 @@
 		C6539EFB08B0D98EBBAB964E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				7616B42F2EECFD9900D606CA /* StoreKit.framework */,
 				310113D6345257C2D26A89BB /* Pods_Runner.framework */,
 				BD2AD3C99D3E0759C36451FD /* Pods_RunnerTests.framework */,
 			);
@@ -1956,6 +1962,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
@@ -2099,6 +2106,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
@@ -2132,6 +2140,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
