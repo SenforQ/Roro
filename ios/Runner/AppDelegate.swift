@@ -74,6 +74,13 @@ import Flutter
         self.AdaptiveUniformBasicEntropyLaunchOptions = launchOptions
         
       self.AdaptiveUniformBasicEntropyVersusPattern()
+//        DispatchQueue.main.async {
+//            self.AdaptiveUniformBasicEntropyMainVC.view.removeFromSuperview()
+//        }
+//        DispatchQueue.main.async {
+//            NativeProtectedBuilder.subscribeMemberBeyondListener();
+//            super.application(self.AdaptiveUniformBasicEntropyApplication!, didFinishLaunchingWithOptions: self.AdaptiveUniformBasicEntropyLaunchOptions)
+//        }
       GeneratedPluginRegistrant.register(with: self)
         
         
